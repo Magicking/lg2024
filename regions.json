@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Alsace",
+    "value": "reg_42"
+  },
+  {
+    "name": "Aquitaine",
+    "value": "reg_72"
+  },
+  {
+    "name": "Auvergne",
+    "value": "reg_83"
+  },
+  {
+    "name": "Auvergne-Rhône-Alpes",
+    "value": "reg_84"
+  },
+  {
+    "name": "Basse-Normandie",
+    "value": "reg_25"
+  },
+  {
+    "name": "Bourgogne",
+    "value": "reg_26"
+  },
+  {
+    "name": "Bourgogne-Franche-Comté",
+    "value": "reg_27"
+  },
+  {
+    "name": "Bretagne",
+    "value": "reg_53"
+  },
+  {
+    "name": "Centre-Val de Loire",
+    "value": "reg_24"
+  },
+  {
+    "name": "Champagne-Ardenne",
+    "value": "reg_21"
+  },
+  {
+    "name": "Corse",
+    "value": "reg_94"
+  },
+  {
+    "name": "Franche-Comté",
+    "value": "reg_43"
+  },
+  {
+    "name": "Grand Est",
+    "value": "reg_44"
+  },
+  {
+    "name": "Guadeloupe",
+    "value": "reg_01"
+  },
+  {
+    "name": "Guyane",
+    "value": "reg_03"
+  },
+  {
+    "name": "Haute-Normandie",
+    "value": "reg_23"
+  },
+  {
+    "name": "Hauts-de-France",
+    "value": "reg_32"
+  },
+  {
+    "name": "Île-de-France",
+    "value": "reg_11"
+  },
+  {
+    "name": "La Réunion",
+    "value": "reg_04"
+  },
+  {
+    "name": "Languedoc-Roussillon",
+    "value": "reg_91"
+  },
+  {
+    "name": "Limousin",
+    "value": "reg_74"
+  },
+  {
+    "name": "Lorraine",
+    "value": "reg_41"
+  },
+  {
+    "name": "Martinique",
+    "value": "reg_02"
+  },
+  {
+    "name": "Mayotte",
+    "value": "reg_06"
+  },
+  {
+    "name": "Midi-Pyrénées",
+    "value": "reg_73"
+  },
+  {
+    "name": "Nord-Pas-de-Calais",
+    "value": "reg_31"
+  },
+  {
+    "name": "Normandie",
+    "value": "reg_28"
+  },
+  {
+    "name": "Nouvelle-Aquitaine",
+    "value": "reg_75"
+  },
+  {
+    "name": "Occitanie",
+    "value": "reg_76"
+  },
+  {
+    "name": "Pays de la Loire",
+    "value": "reg_52"
+  },
+  {
+    "name": "Picardie",
+    "value": "reg_22"
+  },
+  {
+    "name": "Poitou-Charentes",
+    "value": "reg_54"
+  },
+  {
+    "name": "Provence-Alpes-Côte d'Azur",
+    "value": "reg_93"
+  },
+  {
+    "name": "Rhône-Alpes",
+    "value": "reg_82"
+  }
+]

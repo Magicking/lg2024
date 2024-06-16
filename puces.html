@@ -36,13 +36,17 @@ const tour = params.get('tour');
 
         function generateHTML(data) {
             const contentDiv = document.getElementById('content');
-            
-            let html = '<p>Note : les candidats sont affichés dans l\'ordre du tirage au sort des panneaux électoraux. Les étiquettes politiques sont celles attribuées par le ministère de l\'Intérieur.</p>';
-
+            let html = ''
+            if (source === 'ministere') {
+            html += '<p>Note : les candidats sont affichés dans l\'ordre du tirage au sort des panneaux électoraux. Les étiquettes politiques sont celles attribuées par le ministère de l\'Intérieur.</p>';
+        }
+            if (source === 'saisie') {
+            html += '<p>Note : les candidats sont listés par ordre alphabétique, le sortant est en première position.</p>';
+        }
             const departements = [];
             
             data.forEach(candidature => {
-                const { CodDpt, LibDpt, CodCirElec, LibCirElec, PrenomPsn, NomPsn, LibNuaCand } = candidature;
+                const { CodDpt, LibDpt, CodCirElec, LibCirElec, PrenomPsn, NomPsn, LibNuaCand, Sortant, Details } = candidature;
                 const circonscriptionKey = `${CodDpt}-${CodCirElec}`;
                 
                 let departement = departements.find(dep => dep.code === CodDpt);
@@ -65,7 +69,9 @@ const tour = params.get('tour');
                 departement.circonscriptions[circonscriptionKey].candidats.push({
                     prenom: PrenomPsn,
                     nom: NomPsn,
-                    libNuaCand: LibNuaCand
+                    libNuaCand: LibNuaCand,
+                    sortant: Sortant,
+                    details: Details
                 });
             });
 
@@ -81,7 +87,15 @@ const tour = params.get('tour');
                     }
                     html += '<ul>';
                     circonscription.candidats.forEach(candidat => {
-                        html += `<li>${candidat.prenom} ${candidat.nom} - ${candidat.libNuaCand}</li>`;
+                        html += `<li>${candidat.prenom} ${candidat.nom} - ${candidat.libNuaCand}`;
+                            if (candidat.sortant) {
+                                html += ` - ${candidat.sortant}`;
+                            }
+                            if (candidat.details) {
+                                html += `<br><i>${candidat.details}</i>`;
+                            }
+                            
+                        html += `</li>`;
                     });
                     html += '</ul>';
                 }

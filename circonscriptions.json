@@ -1,0 +1,2310 @@
+[
+  {
+    "name": "Ain - 1ère circonscription",
+    "value": "circo_0101"
+  },
+  {
+    "name": "Ain - 2ème circonscription",
+    "value": "circo_0102"
+  },
+  {
+    "name": "Ain - 3ème circonscription",
+    "value": "circo_0103"
+  },
+  {
+    "name": "Ain - 4ème circonscription",
+    "value": "circo_0104"
+  },
+  {
+    "name": "Ain - 5ème circonscription",
+    "value": "circo_0105"
+  },
+  {
+    "name": "Aisne - 1ère circonscription",
+    "value": "circo_0201"
+  },
+  {
+    "name": "Aisne - 2ème circonscription",
+    "value": "circo_0202"
+  },
+  {
+    "name": "Aisne - 3ème circonscription",
+    "value": "circo_0203"
+  },
+  {
+    "name": "Aisne - 4ème circonscription",
+    "value": "circo_0204"
+  },
+  {
+    "name": "Aisne - 5ème circonscription",
+    "value": "circo_0205"
+  },
+  {
+    "name": "Allier - 1ère circonscription",
+    "value": "circo_0301"
+  },
+  {
+    "name": "Allier - 2ème circonscription",
+    "value": "circo_0302"
+  },
+  {
+    "name": "Allier - 3ème circonscription",
+    "value": "circo_0303"
+  },
+  {
+    "name": "Alpes-de-Haute-Provence - 1ère circonscription",
+    "value": "circo_0401"
+  },
+  {
+    "name": "Alpes-de-Haute-Provence - 2ème circonscription",
+    "value": "circo_0402"
+  },
+  {
+    "name": "Hautes-Alpes - 1ère circonscription",
+    "value": "circo_0501"
+  },
+  {
+    "name": "Hautes-Alpes - 2ème circonscription",
+    "value": "circo_0502"
+  },
+  {
+    "name": "Alpes-Maritimes - 1ère circonscription",
+    "value": "circo_0601"
+  },
+  {
+    "name": "Alpes-Maritimes - 2ème circonscription",
+    "value": "circo_0602"
+  },
+  {
+    "name": "Alpes-Maritimes - 3ème circonscription",
+    "value": "circo_0603"
+  },
+  {
+    "name": "Alpes-Maritimes - 4ème circonscription",
+    "value": "circo_0604"
+  },
+  {
+    "name": "Alpes-Maritimes - 5ème circonscription",
+    "value": "circo_0605"
+  },
+  {
+    "name": "Alpes-Maritimes - 6ème circonscription",
+    "value": "circo_0606"
+  },
+  {
+    "name": "Alpes-Maritimes - 7ème circonscription",
+    "value": "circo_0607"
+  },
+  {
+    "name": "Alpes-Maritimes - 8ème circonscription",
+    "value": "circo_0608"
+  },
+  {
+    "name": "Alpes-Maritimes - 9ème circonscription",
+    "value": "circo_0609"
+  },
+  {
+    "name": "Ardèche - 1ère circonscription",
+    "value": "circo_0701"
+  },
+  {
+    "name": "Ardèche - 2ème circonscription",
+    "value": "circo_0702"
+  },
+  {
+    "name": "Ardèche - 3ème circonscription",
+    "value": "circo_0703"
+  },
+  {
+    "name": "Ardennes - 1ère circonscription",
+    "value": "circo_0801"
+  },
+  {
+    "name": "Ardennes - 2ème circonscription",
+    "value": "circo_0802"
+  },
+  {
+    "name": "Ardennes - 3ème circonscription",
+    "value": "circo_0803"
+  },
+  {
+    "name": "Ariège - 1ère circonscription",
+    "value": "circo_0901"
+  },
+  {
+    "name": "Ariège - 2ème circonscription",
+    "value": "circo_0902"
+  },
+  {
+    "name": "Aube - 1ère circonscription",
+    "value": "circo_1001"
+  },
+  {
+    "name": "Aube - 2ème circonscription",
+    "value": "circo_1002"
+  },
+  {
+    "name": "Aube - 3ème circonscription",
+    "value": "circo_1003"
+  },
+  {
+    "name": "Aude - 1ère circonscription",
+    "value": "circo_1101"
+  },
+  {
+    "name": "Aude - 2ème circonscription",
+    "value": "circo_1102"
+  },
+  {
+    "name": "Aude - 3ème circonscription",
+    "value": "circo_1103"
+  },
+  {
+    "name": "Aveyron - 1ère circonscription",
+    "value": "circo_1201"
+  },
+  {
+    "name": "Aveyron - 2ème circonscription",
+    "value": "circo_1202"
+  },
+  {
+    "name": "Aveyron - 3ème circonscription",
+    "value": "circo_1203"
+  },
+  {
+    "name": "Bouches-du-Rhône - 1ère circonscription",
+    "value": "circo_1301"
+  },
+  {
+    "name": "Bouches-du-Rhône - 2ème circonscription",
+    "value": "circo_1302"
+  },
+  {
+    "name": "Bouches-du-Rhône - 3ème circonscription",
+    "value": "circo_1303"
+  },
+  {
+    "name": "Bouches-du-Rhône - 4ème circonscription",
+    "value": "circo_1304"
+  },
+  {
+    "name": "Bouches-du-Rhône - 5ème circonscription",
+    "value": "circo_1305"
+  },
+  {
+    "name": "Bouches-du-Rhône - 6ème circonscription",
+    "value": "circo_1306"
+  },
+  {
+    "name": "Bouches-du-Rhône - 7ème circonscription",
+    "value": "circo_1307"
+  },
+  {
+    "name": "Bouches-du-Rhône - 8ème circonscription",
+    "value": "circo_1308"
+  },
+  {
+    "name": "Bouches-du-Rhône - 9ème circonscription",
+    "value": "circo_1309"
+  },
+  {
+    "name": "Bouches-du-Rhône - 10ème circonscription",
+    "value": "circo_1310"
+  },
+  {
+    "name": "Bouches-du-Rhône - 11ème circonscription",
+    "value": "circo_1311"
+  },
+  {
+    "name": "Bouches-du-Rhône - 12ème circonscription",
+    "value": "circo_1312"
+  },
+  {
+    "name": "Bouches-du-Rhône - 13ème circonscription",
+    "value": "circo_1313"
+  },
+  {
+    "name": "Bouches-du-Rhône - 14ème circonscription",
+    "value": "circo_1314"
+  },
+  {
+    "name": "Bouches-du-Rhône - 15ème circonscription",
+    "value": "circo_1315"
+  },
+  {
+    "name": "Bouches-du-Rhône - 16ème circonscription",
+    "value": "circo_1316"
+  },
+  {
+    "name": "Calvados - 1ère circonscription",
+    "value": "circo_1401"
+  },
+  {
+    "name": "Calvados - 2ème circonscription",
+    "value": "circo_1402"
+  },
+  {
+    "name": "Calvados - 3ème circonscription",
+    "value": "circo_1403"
+  },
+  {
+    "name": "Calvados - 4ème circonscription",
+    "value": "circo_1404"
+  },
+  {
+    "name": "Calvados - 5ème circonscription",
+    "value": "circo_1405"
+  },
+  {
+    "name": "Calvados - 6ème circonscription",
+    "value": "circo_1406"
+  },
+  {
+    "name": "Cantal - 1ère circonscription",
+    "value": "circo_1501"
+  },
+  {
+    "name": "Cantal - 2ème circonscription",
+    "value": "circo_1502"
+  },
+  {
+    "name": "Charente - 1ère circonscription",
+    "value": "circo_1601"
+  },
+  {
+    "name": "Charente - 2ème circonscription",
+    "value": "circo_1602"
+  },
+  {
+    "name": "Charente - 3ème circonscription",
+    "value": "circo_1603"
+  },
+  {
+    "name": "Charente-Maritime - 1ère circonscription",
+    "value": "circo_1701"
+  },
+  {
+    "name": "Charente-Maritime - 2ème circonscription",
+    "value": "circo_1702"
+  },
+  {
+    "name": "Charente-Maritime - 3ème circonscription",
+    "value": "circo_1703"
+  },
+  {
+    "name": "Charente-Maritime - 4ème circonscription",
+    "value": "circo_1704"
+  },
+  {
+    "name": "Charente-Maritime - 5ème circonscription",
+    "value": "circo_1705"
+  },
+  {
+    "name": "Cher - 1ère circonscription",
+    "value": "circo_1801"
+  },
+  {
+    "name": "Cher - 2ème circonscription",
+    "value": "circo_1802"
+  },
+  {
+    "name": "Cher - 3ème circonscription",
+    "value": "circo_1803"
+  },
+  {
+    "name": "Corrèze - 1ère circonscription",
+    "value": "circo_1901"
+  },
+  {
+    "name": "Corrèze - 2ème circonscription",
+    "value": "circo_1902"
+  },
+  {
+    "name": "Côte-d'Or - 1ère circonscription",
+    "value": "circo_2101"
+  },
+  {
+    "name": "Côte-d'Or - 2ème circonscription",
+    "value": "circo_2102"
+  },
+  {
+    "name": "Côte-d'Or - 3ème circonscription",
+    "value": "circo_2103"
+  },
+  {
+    "name": "Côte-d'Or - 4ème circonscription",
+    "value": "circo_2104"
+  },
+  {
+    "name": "Côte-d'Or - 5ème circonscription",
+    "value": "circo_2105"
+  },
+  {
+    "name": "Côtes-d'Armor - 1ère circonscription",
+    "value": "circo_2201"
+  },
+  {
+    "name": "Côtes-d'Armor - 2ème circonscription",
+    "value": "circo_2202"
+  },
+  {
+    "name": "Côtes-d'Armor - 3ème circonscription",
+    "value": "circo_2203"
+  },
+  {
+    "name": "Côtes-d'Armor - 4ème circonscription",
+    "value": "circo_2204"
+  },
+  {
+    "name": "Côtes-d'Armor - 5ème circonscription",
+    "value": "circo_2205"
+  },
+  {
+    "name": "Creuse - 1ère circonscription",
+    "value": "circo_2301"
+  },
+  {
+    "name": "Dordogne - 1ère circonscription",
+    "value": "circo_2401"
+  },
+  {
+    "name": "Dordogne - 2ème circonscription",
+    "value": "circo_2402"
+  },
+  {
+    "name": "Dordogne - 3ème circonscription",
+    "value": "circo_2403"
+  },
+  {
+    "name": "Dordogne - 4ème circonscription",
+    "value": "circo_2404"
+  },
+  {
+    "name": "Doubs - 1ère circonscription",
+    "value": "circo_2501"
+  },
+  {
+    "name": "Doubs - 2ème circonscription",
+    "value": "circo_2502"
+  },
+  {
+    "name": "Doubs - 3ème circonscription",
+    "value": "circo_2503"
+  },
+  {
+    "name": "Doubs - 4ème circonscription",
+    "value": "circo_2504"
+  },
+  {
+    "name": "Doubs - 5ème circonscription",
+    "value": "circo_2505"
+  },
+  {
+    "name": "Drôme - 1ère circonscription",
+    "value": "circo_2601"
+  },
+  {
+    "name": "Drôme - 2ème circonscription",
+    "value": "circo_2602"
+  },
+  {
+    "name": "Drôme - 3ème circonscription",
+    "value": "circo_2603"
+  },
+  {
+    "name": "Drôme - 4ème circonscription",
+    "value": "circo_2604"
+  },
+  {
+    "name": "Eure - 1ère circonscription",
+    "value": "circo_2701"
+  },
+  {
+    "name": "Eure - 2ème circonscription",
+    "value": "circo_2702"
+  },
+  {
+    "name": "Eure - 3ème circonscription",
+    "value": "circo_2703"
+  },
+  {
+    "name": "Eure - 4ème circonscription",
+    "value": "circo_2704"
+  },
+  {
+    "name": "Eure - 5ème circonscription",
+    "value": "circo_2705"
+  },
+  {
+    "name": "Eure-et-Loir - 1ère circonscription",
+    "value": "circo_2801"
+  },
+  {
+    "name": "Eure-et-Loir - 2ème circonscription",
+    "value": "circo_2802"
+  },
+  {
+    "name": "Eure-et-Loir - 3ème circonscription",
+    "value": "circo_2803"
+  },
+  {
+    "name": "Eure-et-Loir - 4ème circonscription",
+    "value": "circo_2804"
+  },
+  {
+    "name": "Finistère - 1ère circonscription",
+    "value": "circo_2901"
+  },
+  {
+    "name": "Finistère - 2ème circonscription",
+    "value": "circo_2902"
+  },
+  {
+    "name": "Finistère - 3ème circonscription",
+    "value": "circo_2903"
+  },
+  {
+    "name": "Finistère - 4ème circonscription",
+    "value": "circo_2904"
+  },
+  {
+    "name": "Finistère - 5ème circonscription",
+    "value": "circo_2905"
+  },
+  {
+    "name": "Finistère - 6ème circonscription",
+    "value": "circo_2906"
+  },
+  {
+    "name": "Finistère - 7ème circonscription",
+    "value": "circo_2907"
+  },
+  {
+    "name": "Finistère - 8ème circonscription",
+    "value": "circo_2908"
+  },
+  {
+    "name": "Corse-du-Sud - 1ère circonscription",
+    "value": "circo_2A01"
+  },
+  {
+    "name": "Corse-du-Sud - 2ème circonscription",
+    "value": "circo_2A02"
+  },
+  {
+    "name": "Haute-Corse - 1ère circonscription",
+    "value": "circo_2B01"
+  },
+  {
+    "name": "Haute-Corse - 2ème circonscription",
+    "value": "circo_2B02"
+  },
+  {
+    "name": "Gard - 1ère circonscription",
+    "value": "circo_3001"
+  },
+  {
+    "name": "Gard - 2ème circonscription",
+    "value": "circo_3002"
+  },
+  {
+    "name": "Gard - 3ème circonscription",
+    "value": "circo_3003"
+  },
+  {
+    "name": "Gard - 4ème circonscription",
+    "value": "circo_3004"
+  },
+  {
+    "name": "Gard - 5ème circonscription",
+    "value": "circo_3005"
+  },
+  {
+    "name": "Gard - 6ème circonscription",
+    "value": "circo_3006"
+  },
+  {
+    "name": "Haute-Garonne - 1ère circonscription",
+    "value": "circo_3101"
+  },
+  {
+    "name": "Haute-Garonne - 2ème circonscription",
+    "value": "circo_3102"
+  },
+  {
+    "name": "Haute-Garonne - 3ème circonscription",
+    "value": "circo_3103"
+  },
+  {
+    "name": "Haute-Garonne - 4ème circonscription",
+    "value": "circo_3104"
+  },
+  {
+    "name": "Haute-Garonne - 5ème circonscription",
+    "value": "circo_3105"
+  },
+  {
+    "name": "Haute-Garonne - 6ème circonscription",
+    "value": "circo_3106"
+  },
+  {
+    "name": "Haute-Garonne - 7ème circonscription",
+    "value": "circo_3107"
+  },
+  {
+    "name": "Haute-Garonne - 8ème circonscription",
+    "value": "circo_3108"
+  },
+  {
+    "name": "Haute-Garonne - 9ème circonscription",
+    "value": "circo_3109"
+  },
+  {
+    "name": "Haute-Garonne - 10ème circonscription",
+    "value": "circo_3110"
+  },
+  {
+    "name": "Gers - 1ère circonscription",
+    "value": "circo_3201"
+  },
+  {
+    "name": "Gers - 2ème circonscription",
+    "value": "circo_3202"
+  },
+  {
+    "name": "Gironde - 1ère circonscription",
+    "value": "circo_3301"
+  },
+  {
+    "name": "Gironde - 2ème circonscription",
+    "value": "circo_3302"
+  },
+  {
+    "name": "Gironde - 3ème circonscription",
+    "value": "circo_3303"
+  },
+  {
+    "name": "Gironde - 4ème circonscription",
+    "value": "circo_3304"
+  },
+  {
+    "name": "Gironde - 5ème circonscription",
+    "value": "circo_3305"
+  },
+  {
+    "name": "Gironde - 6ème circonscription",
+    "value": "circo_3306"
+  },
+  {
+    "name": "Gironde - 7ème circonscription",
+    "value": "circo_3307"
+  },
+  {
+    "name": "Gironde - 8ème circonscription",
+    "value": "circo_3308"
+  },
+  {
+    "name": "Gironde - 9ème circonscription",
+    "value": "circo_3309"
+  },
+  {
+    "name": "Gironde - 10ème circonscription",
+    "value": "circo_3310"
+  },
+  {
+    "name": "Gironde - 11ème circonscription",
+    "value": "circo_3311"
+  },
+  {
+    "name": "Gironde - 12ème circonscription",
+    "value": "circo_3312"
+  },
+  {
+    "name": "Hérault - 1ère circonscription",
+    "value": "circo_3401"
+  },
+  {
+    "name": "Hérault - 2ème circonscription",
+    "value": "circo_3402"
+  },
+  {
+    "name": "Hérault - 3ème circonscription",
+    "value": "circo_3403"
+  },
+  {
+    "name": "Hérault - 4ème circonscription",
+    "value": "circo_3404"
+  },
+  {
+    "name": "Hérault - 5ème circonscription",
+    "value": "circo_3405"
+  },
+  {
+    "name": "Hérault - 6ème circonscription",
+    "value": "circo_3406"
+  },
+  {
+    "name": "Hérault - 7ème circonscription",
+    "value": "circo_3407"
+  },
+  {
+    "name": "Hérault - 8ème circonscription",
+    "value": "circo_3408"
+  },
+  {
+    "name": "Hérault - 9ème circonscription",
+    "value": "circo_3409"
+  },
+  {
+    "name": "Ille-et-Vilaine - 1ère circonscription",
+    "value": "circo_3501"
+  },
+  {
+    "name": "Ille-et-Vilaine - 2ème circonscription",
+    "value": "circo_3502"
+  },
+  {
+    "name": "Ille-et-Vilaine - 3ème circonscription",
+    "value": "circo_3503"
+  },
+  {
+    "name": "Ille-et-Vilaine - 4ème circonscription",
+    "value": "circo_3504"
+  },
+  {
+    "name": "Ille-et-Vilaine - 5ème circonscription",
+    "value": "circo_3505"
+  },
+  {
+    "name": "Ille-et-Vilaine - 6ème circonscription",
+    "value": "circo_3506"
+  },
+  {
+    "name": "Ille-et-Vilaine - 7ème circonscription",
+    "value": "circo_3507"
+  },
+  {
+    "name": "Ille-et-Vilaine - 8ème circonscription",
+    "value": "circo_3508"
+  },
+  {
+    "name": "Indre - 1ère circonscription",
+    "value": "circo_3601"
+  },
+  {
+    "name": "Indre - 2ème circonscription",
+    "value": "circo_3602"
+  },
+  {
+    "name": "Indre-et-Loire - 1ère circonscription",
+    "value": "circo_3701"
+  },
+  {
+    "name": "Indre-et-Loire - 2ème circonscription",
+    "value": "circo_3702"
+  },
+  {
+    "name": "Indre-et-Loire - 3ème circonscription",
+    "value": "circo_3703"
+  },
+  {
+    "name": "Indre-et-Loire - 4ème circonscription",
+    "value": "circo_3704"
+  },
+  {
+    "name": "Indre-et-Loire - 5ème circonscription",
+    "value": "circo_3705"
+  },
+  {
+    "name": "Isère - 1ère circonscription",
+    "value": "circo_3801"
+  },
+  {
+    "name": "Isère - 2ème circonscription",
+    "value": "circo_3802"
+  },
+  {
+    "name": "Isère - 3ème circonscription",
+    "value": "circo_3803"
+  },
+  {
+    "name": "Isère - 4ème circonscription",
+    "value": "circo_3804"
+  },
+  {
+    "name": "Isère - 5ème circonscription",
+    "value": "circo_3805"
+  },
+  {
+    "name": "Isère - 6ème circonscription",
+    "value": "circo_3806"
+  },
+  {
+    "name": "Isère - 7ème circonscription",
+    "value": "circo_3807"
+  },
+  {
+    "name": "Isère - 8ème circonscription",
+    "value": "circo_3808"
+  },
+  {
+    "name": "Isère - 9ème circonscription",
+    "value": "circo_3809"
+  },
+  {
+    "name": "Isère - 10ème circonscription",
+    "value": "circo_3810"
+  },
+  {
+    "name": "Jura - 1ère circonscription",
+    "value": "circo_3901"
+  },
+  {
+    "name": "Jura - 2ème circonscription",
+    "value": "circo_3902"
+  },
+  {
+    "name": "Jura - 3ème circonscription",
+    "value": "circo_3903"
+  },
+  {
+    "name": "Landes - 1ère circonscription",
+    "value": "circo_4001"
+  },
+  {
+    "name": "Landes - 2ème circonscription",
+    "value": "circo_4002"
+  },
+  {
+    "name": "Landes - 3ème circonscription",
+    "value": "circo_4003"
+  },
+  {
+    "name": "Loir-et-Cher - 1ère circonscription",
+    "value": "circo_4101"
+  },
+  {
+    "name": "Loir-et-Cher - 2ème circonscription",
+    "value": "circo_4102"
+  },
+  {
+    "name": "Loir-et-Cher - 3ème circonscription",
+    "value": "circo_4103"
+  },
+  {
+    "name": "Loire - 1ère circonscription",
+    "value": "circo_4201"
+  },
+  {
+    "name": "Loire - 2ème circonscription",
+    "value": "circo_4202"
+  },
+  {
+    "name": "Loire - 3ème circonscription",
+    "value": "circo_4203"
+  },
+  {
+    "name": "Loire - 4ème circonscription",
+    "value": "circo_4204"
+  },
+  {
+    "name": "Loire - 5ème circonscription",
+    "value": "circo_4205"
+  },
+  {
+    "name": "Loire - 6ème circonscription",
+    "value": "circo_4206"
+  },
+  {
+    "name": "Haute-Loire - 1ère circonscription",
+    "value": "circo_4301"
+  },
+  {
+    "name": "Haute-Loire - 2ème circonscription",
+    "value": "circo_4302"
+  },
+  {
+    "name": "Loire-Atlantique - 1ère circonscription",
+    "value": "circo_4401"
+  },
+  {
+    "name": "Loire-Atlantique - 2ème circonscription",
+    "value": "circo_4402"
+  },
+  {
+    "name": "Loire-Atlantique - 3ème circonscription",
+    "value": "circo_4403"
+  },
+  {
+    "name": "Loire-Atlantique - 4ème circonscription",
+    "value": "circo_4404"
+  },
+  {
+    "name": "Loire-Atlantique - 5ème circonscription",
+    "value": "circo_4405"
+  },
+  {
+    "name": "Loire-Atlantique - 6ème circonscription",
+    "value": "circo_4406"
+  },
+  {
+    "name": "Loire-Atlantique - 7ème circonscription",
+    "value": "circo_4407"
+  },
+  {
+    "name": "Loire-Atlantique - 8ème circonscription",
+    "value": "circo_4408"
+  },
+  {
+    "name": "Loire-Atlantique - 9ème circonscription",
+    "value": "circo_4409"
+  },
+  {
+    "name": "Loire-Atlantique - 10ème circonscription",
+    "value": "circo_4410"
+  },
+  {
+    "name": "Loiret - 1ère circonscription",
+    "value": "circo_4501"
+  },
+  {
+    "name": "Loiret - 2ème circonscription",
+    "value": "circo_4502"
+  },
+  {
+    "name": "Loiret - 3ème circonscription",
+    "value": "circo_4503"
+  },
+  {
+    "name": "Loiret - 4ème circonscription",
+    "value": "circo_4504"
+  },
+  {
+    "name": "Loiret - 5ème circonscription",
+    "value": "circo_4505"
+  },
+  {
+    "name": "Loiret - 6ème circonscription",
+    "value": "circo_4506"
+  },
+  {
+    "name": "Lot - 1ère circonscription",
+    "value": "circo_4601"
+  },
+  {
+    "name": "Lot - 2ème circonscription",
+    "value": "circo_4602"
+  },
+  {
+    "name": "Lot-et-Garonne - 1ère circonscription",
+    "value": "circo_4701"
+  },
+  {
+    "name": "Lot-et-Garonne - 2ème circonscription",
+    "value": "circo_4702"
+  },
+  {
+    "name": "Lot-et-Garonne - 3ème circonscription",
+    "value": "circo_4703"
+  },
+  {
+    "name": "Lozère - 1ère circonscription",
+    "value": "circo_4801"
+  },
+  {
+    "name": "Maine-et-Loire - 1ère circonscription",
+    "value": "circo_4901"
+  },
+  {
+    "name": "Maine-et-Loire - 2ème circonscription",
+    "value": "circo_4902"
+  },
+  {
+    "name": "Maine-et-Loire - 3ème circonscription",
+    "value": "circo_4903"
+  },
+  {
+    "name": "Maine-et-Loire - 4ème circonscription",
+    "value": "circo_4904"
+  },
+  {
+    "name": "Maine-et-Loire - 5ème circonscription",
+    "value": "circo_4905"
+  },
+  {
+    "name": "Maine-et-Loire - 6ème circonscription",
+    "value": "circo_4906"
+  },
+  {
+    "name": "Maine-et-Loire - 7ème circonscription",
+    "value": "circo_4907"
+  },
+  {
+    "name": "Manche - 1ère circonscription",
+    "value": "circo_5001"
+  },
+  {
+    "name": "Manche - 2ème circonscription",
+    "value": "circo_5002"
+  },
+  {
+    "name": "Manche - 3ème circonscription",
+    "value": "circo_5003"
+  },
+  {
+    "name": "Manche - 4ème circonscription",
+    "value": "circo_5004"
+  },
+  {
+    "name": "Marne - 1ère circonscription",
+    "value": "circo_5101"
+  },
+  {
+    "name": "Marne - 2ème circonscription",
+    "value": "circo_5102"
+  },
+  {
+    "name": "Marne - 3ème circonscription",
+    "value": "circo_5103"
+  },
+  {
+    "name": "Marne - 4ème circonscription",
+    "value": "circo_5104"
+  },
+  {
+    "name": "Marne - 5ème circonscription",
+    "value": "circo_5105"
+  },
+  {
+    "name": "Haute-Marne - 1ère circonscription",
+    "value": "circo_5201"
+  },
+  {
+    "name": "Haute-Marne - 2ème circonscription",
+    "value": "circo_5202"
+  },
+  {
+    "name": "Mayenne - 1ère circonscription",
+    "value": "circo_5301"
+  },
+  {
+    "name": "Mayenne - 2ème circonscription",
+    "value": "circo_5302"
+  },
+  {
+    "name": "Mayenne - 3ème circonscription",
+    "value": "circo_5303"
+  },
+  {
+    "name": "Meurthe-et-Moselle - 1ère circonscription",
+    "value": "circo_5401"
+  },
+  {
+    "name": "Meurthe-et-Moselle - 2ème circonscription",
+    "value": "circo_5402"
+  },
+  {
+    "name": "Meurthe-et-Moselle - 3ème circonscription",
+    "value": "circo_5403"
+  },
+  {
+    "name": "Meurthe-et-Moselle - 4ème circonscription",
+    "value": "circo_5404"
+  },
+  {
+    "name": "Meurthe-et-Moselle - 5ème circonscription",
+    "value": "circo_5405"
+  },
+  {
+    "name": "Meurthe-et-Moselle - 6ème circonscription",
+    "value": "circo_5406"
+  },
+  {
+    "name": "Meuse - 1ère circonscription",
+    "value": "circo_5501"
+  },
+  {
+    "name": "Meuse - 2ème circonscription",
+    "value": "circo_5502"
+  },
+  {
+    "name": "Morbihan - 1ère circonscription",
+    "value": "circo_5601"
+  },
+  {
+    "name": "Morbihan - 2ème circonscription",
+    "value": "circo_5602"
+  },
+  {
+    "name": "Morbihan - 3ème circonscription",
+    "value": "circo_5603"
+  },
+  {
+    "name": "Morbihan - 4ème circonscription",
+    "value": "circo_5604"
+  },
+  {
+    "name": "Morbihan - 5ème circonscription",
+    "value": "circo_5605"
+  },
+  {
+    "name": "Morbihan - 6ème circonscription",
+    "value": "circo_5606"
+  },
+  {
+    "name": "Moselle - 1ère circonscription",
+    "value": "circo_5701"
+  },
+  {
+    "name": "Moselle - 2ème circonscription",
+    "value": "circo_5702"
+  },
+  {
+    "name": "Moselle - 3ème circonscription",
+    "value": "circo_5703"
+  },
+  {
+    "name": "Moselle - 4ème circonscription",
+    "value": "circo_5704"
+  },
+  {
+    "name": "Moselle - 5ème circonscription",
+    "value": "circo_5705"
+  },
+  {
+    "name": "Moselle - 6ème circonscription",
+    "value": "circo_5706"
+  },
+  {
+    "name": "Moselle - 7ème circonscription",
+    "value": "circo_5707"
+  },
+  {
+    "name": "Moselle - 8ème circonscription",
+    "value": "circo_5708"
+  },
+  {
+    "name": "Moselle - 9ème circonscription",
+    "value": "circo_5709"
+  },
+  {
+    "name": "Nièvre - 1ère circonscription",
+    "value": "circo_5801"
+  },
+  {
+    "name": "Nièvre - 2ème circonscription",
+    "value": "circo_5802"
+  },
+  {
+    "name": "Nord - 1ère circonscription",
+    "value": "circo_5901"
+  },
+  {
+    "name": "Nord - 2ème circonscription",
+    "value": "circo_5902"
+  },
+  {
+    "name": "Nord - 3ème circonscription",
+    "value": "circo_5903"
+  },
+  {
+    "name": "Nord - 4ème circonscription",
+    "value": "circo_5904"
+  },
+  {
+    "name": "Nord - 5ème circonscription",
+    "value": "circo_5905"
+  },
+  {
+    "name": "Nord - 6ème circonscription",
+    "value": "circo_5906"
+  },
+  {
+    "name": "Nord - 7ème circonscription",
+    "value": "circo_5907"
+  },
+  {
+    "name": "Nord - 8ème circonscription",
+    "value": "circo_5908"
+  },
+  {
+    "name": "Nord - 9ème circonscription",
+    "value": "circo_5909"
+  },
+  {
+    "name": "Nord - 10ème circonscription",
+    "value": "circo_5910"
+  },
+  {
+    "name": "Nord - 11ème circonscription",
+    "value": "circo_5911"
+  },
+  {
+    "name": "Nord - 12ème circonscription",
+    "value": "circo_5912"
+  },
+  {
+    "name": "Nord - 13ème circonscription",
+    "value": "circo_5913"
+  },
+  {
+    "name": "Nord - 14ème circonscription",
+    "value": "circo_5914"
+  },
+  {
+    "name": "Nord - 15ème circonscription",
+    "value": "circo_5915"
+  },
+  {
+    "name": "Nord - 16ème circonscription",
+    "value": "circo_5916"
+  },
+  {
+    "name": "Nord - 17ème circonscription",
+    "value": "circo_5917"
+  },
+  {
+    "name": "Nord - 18ème circonscription",
+    "value": "circo_5918"
+  },
+  {
+    "name": "Nord - 19ème circonscription",
+    "value": "circo_5919"
+  },
+  {
+    "name": "Nord - 20ème circonscription",
+    "value": "circo_5920"
+  },
+  {
+    "name": "Nord - 21ème circonscription",
+    "value": "circo_5921"
+  },
+  {
+    "name": "Oise - 1ère circonscription",
+    "value": "circo_6001"
+  },
+  {
+    "name": "Oise - 2ème circonscription",
+    "value": "circo_6002"
+  },
+  {
+    "name": "Oise - 3ème circonscription",
+    "value": "circo_6003"
+  },
+  {
+    "name": "Oise - 4ème circonscription",
+    "value": "circo_6004"
+  },
+  {
+    "name": "Oise - 5ème circonscription",
+    "value": "circo_6005"
+  },
+  {
+    "name": "Oise - 6ème circonscription",
+    "value": "circo_6006"
+  },
+  {
+    "name": "Oise - 7ème circonscription",
+    "value": "circo_6007"
+  },
+  {
+    "name": "Orne - 1ère circonscription",
+    "value": "circo_6101"
+  },
+  {
+    "name": "Orne - 2ème circonscription",
+    "value": "circo_6102"
+  },
+  {
+    "name": "Orne - 3ème circonscription",
+    "value": "circo_6103"
+  },
+  {
+    "name": "Pas-de-Calais - 1ère circonscription",
+    "value": "circo_6201"
+  },
+  {
+    "name": "Pas-de-Calais - 2ème circonscription",
+    "value": "circo_6202"
+  },
+  {
+    "name": "Pas-de-Calais - 3ème circonscription",
+    "value": "circo_6203"
+  },
+  {
+    "name": "Pas-de-Calais - 4ème circonscription",
+    "value": "circo_6204"
+  },
+  {
+    "name": "Pas-de-Calais - 5ème circonscription",
+    "value": "circo_6205"
+  },
+  {
+    "name": "Pas-de-Calais - 6ème circonscription",
+    "value": "circo_6206"
+  },
+  {
+    "name": "Pas-de-Calais - 7ème circonscription",
+    "value": "circo_6207"
+  },
+  {
+    "name": "Pas-de-Calais - 8ème circonscription",
+    "value": "circo_6208"
+  },
+  {
+    "name": "Pas-de-Calais - 9ème circonscription",
+    "value": "circo_6209"
+  },
+  {
+    "name": "Pas-de-Calais - 10ème circonscription",
+    "value": "circo_6210"
+  },
+  {
+    "name": "Pas-de-Calais - 11ème circonscription",
+    "value": "circo_6211"
+  },
+  {
+    "name": "Pas-de-Calais - 12ème circonscription",
+    "value": "circo_6212"
+  },
+  {
+    "name": "Puy-de-Dôme - 1ère circonscription",
+    "value": "circo_6301"
+  },
+  {
+    "name": "Puy-de-Dôme - 2ème circonscription",
+    "value": "circo_6302"
+  },
+  {
+    "name": "Puy-de-Dôme - 3ème circonscription",
+    "value": "circo_6303"
+  },
+  {
+    "name": "Puy-de-Dôme - 4ème circonscription",
+    "value": "circo_6304"
+  },
+  {
+    "name": "Puy-de-Dôme - 5ème circonscription",
+    "value": "circo_6305"
+  },
+  {
+    "name": "Pyrénées-Atlantiques - 1ère circonscription",
+    "value": "circo_6401"
+  },
+  {
+    "name": "Pyrénées-Atlantiques - 2ème circonscription",
+    "value": "circo_6402"
+  },
+  {
+    "name": "Pyrénées-Atlantiques - 3ème circonscription",
+    "value": "circo_6403"
+  },
+  {
+    "name": "Pyrénées-Atlantiques - 4ème circonscription",
+    "value": "circo_6404"
+  },
+  {
+    "name": "Pyrénées-Atlantiques - 5ème circonscription",
+    "value": "circo_6405"
+  },
+  {
+    "name": "Pyrénées-Atlantiques - 6ème circonscription",
+    "value": "circo_6406"
+  },
+  {
+    "name": "Hautes-Pyrénées - 1ère circonscription",
+    "value": "circo_6501"
+  },
+  {
+    "name": "Hautes-Pyrénées - 2ème circonscription",
+    "value": "circo_6502"
+  },
+  {
+    "name": "Pyrénées-Orientales - 1ère circonscription",
+    "value": "circo_6601"
+  },
+  {
+    "name": "Pyrénées-Orientales - 2ème circonscription",
+    "value": "circo_6602"
+  },
+  {
+    "name": "Pyrénées-Orientales - 3ème circonscription",
+    "value": "circo_6603"
+  },
+  {
+    "name": "Pyrénées-Orientales - 4ème circonscription",
+    "value": "circo_6604"
+  },
+  {
+    "name": "Bas-Rhin - 1ère circonscription",
+    "value": "circo_6701"
+  },
+  {
+    "name": "Bas-Rhin - 2ème circonscription",
+    "value": "circo_6702"
+  },
+  {
+    "name": "Bas-Rhin - 3ème circonscription",
+    "value": "circo_6703"
+  },
+  {
+    "name": "Bas-Rhin - 4ème circonscription",
+    "value": "circo_6704"
+  },
+  {
+    "name": "Bas-Rhin - 5ème circonscription",
+    "value": "circo_6705"
+  },
+  {
+    "name": "Bas-Rhin - 6ème circonscription",
+    "value": "circo_6706"
+  },
+  {
+    "name": "Bas-Rhin - 7ème circonscription",
+    "value": "circo_6707"
+  },
+  {
+    "name": "Bas-Rhin - 8ème circonscription",
+    "value": "circo_6708"
+  },
+  {
+    "name": "Bas-Rhin - 9ème circonscription",
+    "value": "circo_6709"
+  },
+  {
+    "name": "Haut-Rhin - 1ère circonscription",
+    "value": "circo_6801"
+  },
+  {
+    "name": "Haut-Rhin - 2ème circonscription",
+    "value": "circo_6802"
+  },
+  {
+    "name": "Haut-Rhin - 3ème circonscription",
+    "value": "circo_6803"
+  },
+  {
+    "name": "Haut-Rhin - 4ème circonscription",
+    "value": "circo_6804"
+  },
+  {
+    "name": "Haut-Rhin - 5ème circonscription",
+    "value": "circo_6805"
+  },
+  {
+    "name": "Haut-Rhin - 6ème circonscription",
+    "value": "circo_6806"
+  },
+  {
+    "name": "Rhône - 1ère circonscription",
+    "value": "circo_6901"
+  },
+  {
+    "name": "Rhône - 2ème circonscription",
+    "value": "circo_6902"
+  },
+  {
+    "name": "Rhône - 3ème circonscription",
+    "value": "circo_6903"
+  },
+  {
+    "name": "Rhône - 4ème circonscription",
+    "value": "circo_6904"
+  },
+  {
+    "name": "Rhône - 5ème circonscription",
+    "value": "circo_6905"
+  },
+  {
+    "name": "Rhône - 6ème circonscription",
+    "value": "circo_6906"
+  },
+  {
+    "name": "Rhône - 7ème circonscription",
+    "value": "circo_6907"
+  },
+  {
+    "name": "Rhône - 8ème circonscription",
+    "value": "circo_6908"
+  },
+  {
+    "name": "Rhône - 9ème circonscription",
+    "value": "circo_6909"
+  },
+  {
+    "name": "Rhône - 10ème circonscription",
+    "value": "circo_6910"
+  },
+  {
+    "name": "Rhône - 11ème circonscription",
+    "value": "circo_6911"
+  },
+  {
+    "name": "Rhône - 12ème circonscription",
+    "value": "circo_6912"
+  },
+  {
+    "name": "Rhône - 13ème circonscription",
+    "value": "circo_6913"
+  },
+  {
+    "name": "Rhône - 14ème circonscription",
+    "value": "circo_6914"
+  },
+  {
+    "name": "Haute-Saône - 1ère circonscription",
+    "value": "circo_7001"
+  },
+  {
+    "name": "Haute-Saône - 2ème circonscription",
+    "value": "circo_7002"
+  },
+  {
+    "name": "Saône-et-Loire - 1ère circonscription",
+    "value": "circo_7101"
+  },
+  {
+    "name": "Saône-et-Loire - 2ème circonscription",
+    "value": "circo_7102"
+  },
+  {
+    "name": "Saône-et-Loire - 3ème circonscription",
+    "value": "circo_7103"
+  },
+  {
+    "name": "Saône-et-Loire - 4ème circonscription",
+    "value": "circo_7104"
+  },
+  {
+    "name": "Saône-et-Loire - 5ème circonscription",
+    "value": "circo_7105"
+  },
+  {
+    "name": "Sarthe - 1ère circonscription",
+    "value": "circo_7201"
+  },
+  {
+    "name": "Sarthe - 2ème circonscription",
+    "value": "circo_7202"
+  },
+  {
+    "name": "Sarthe - 3ème circonscription",
+    "value": "circo_7203"
+  },
+  {
+    "name": "Sarthe - 4ème circonscription",
+    "value": "circo_7204"
+  },
+  {
+    "name": "Sarthe - 5ème circonscription",
+    "value": "circo_7205"
+  },
+  {
+    "name": "Savoie - 1ère circonscription",
+    "value": "circo_7301"
+  },
+  {
+    "name": "Savoie - 2ème circonscription",
+    "value": "circo_7302"
+  },
+  {
+    "name": "Savoie - 3ème circonscription",
+    "value": "circo_7303"
+  },
+  {
+    "name": "Savoie - 4ème circonscription",
+    "value": "circo_7304"
+  },
+  {
+    "name": "Haute-Savoie - 1ère circonscription",
+    "value": "circo_7401"
+  },
+  {
+    "name": "Haute-Savoie - 2ème circonscription",
+    "value": "circo_7402"
+  },
+  {
+    "name": "Haute-Savoie - 3ème circonscription",
+    "value": "circo_7403"
+  },
+  {
+    "name": "Haute-Savoie - 4ème circonscription",
+    "value": "circo_7404"
+  },
+  {
+    "name": "Haute-Savoie - 5ème circonscription",
+    "value": "circo_7405"
+  },
+  {
+    "name": "Haute-Savoie - 6ème circonscription",
+    "value": "circo_7406"
+  },
+  {
+    "name": "Paris - 1ère circonscription",
+    "value": "circo_7501"
+  },
+  {
+    "name": "Paris - 2ème circonscription",
+    "value": "circo_7502"
+  },
+  {
+    "name": "Paris - 3ème circonscription",
+    "value": "circo_7503"
+  },
+  {
+    "name": "Paris - 4ème circonscription",
+    "value": "circo_7504"
+  },
+  {
+    "name": "Paris - 5ème circonscription",
+    "value": "circo_7505"
+  },
+  {
+    "name": "Paris - 6ème circonscription",
+    "value": "circo_7506"
+  },
+  {
+    "name": "Paris - 7ème circonscription",
+    "value": "circo_7507"
+  },
+  {
+    "name": "Paris - 8ème circonscription",
+    "value": "circo_7508"
+  },
+  {
+    "name": "Paris - 9ème circonscription",
+    "value": "circo_7509"
+  },
+  {
+    "name": "Paris - 10ème circonscription",
+    "value": "circo_7510"
+  },
+  {
+    "name": "Paris - 11ème circonscription",
+    "value": "circo_7511"
+  },
+  {
+    "name": "Paris - 12ème circonscription",
+    "value": "circo_7512"
+  },
+  {
+    "name": "Paris - 13ème circonscription",
+    "value": "circo_7513"
+  },
+  {
+    "name": "Paris - 14ème circonscription",
+    "value": "circo_7514"
+  },
+  {
+    "name": "Paris - 15ème circonscription",
+    "value": "circo_7515"
+  },
+  {
+    "name": "Paris - 16ème circonscription",
+    "value": "circo_7516"
+  },
+  {
+    "name": "Paris - 17ème circonscription",
+    "value": "circo_7517"
+  },
+  {
+    "name": "Paris - 18ème circonscription",
+    "value": "circo_7518"
+  },
+  {
+    "name": "Seine-Maritime - 1ère circonscription",
+    "value": "circo_7601"
+  },
+  {
+    "name": "Seine-Maritime - 2ème circonscription",
+    "value": "circo_7602"
+  },
+  {
+    "name": "Seine-Maritime - 3ème circonscription",
+    "value": "circo_7603"
+  },
+  {
+    "name": "Seine-Maritime - 4ème circonscription",
+    "value": "circo_7604"
+  },
+  {
+    "name": "Seine-Maritime - 5ème circonscription",
+    "value": "circo_7605"
+  },
+  {
+    "name": "Seine-Maritime - 6ème circonscription",
+    "value": "circo_7606"
+  },
+  {
+    "name": "Seine-Maritime - 7ème circonscription",
+    "value": "circo_7607"
+  },
+  {
+    "name": "Seine-Maritime - 8ème circonscription",
+    "value": "circo_7608"
+  },
+  {
+    "name": "Seine-Maritime - 9ème circonscription",
+    "value": "circo_7609"
+  },
+  {
+    "name": "Seine-Maritime - 10ème circonscription",
+    "value": "circo_7610"
+  },
+  {
+    "name": "Seine-et-Marne - 1ère circonscription",
+    "value": "circo_7701"
+  },
+  {
+    "name": "Seine-et-Marne - 2ème circonscription",
+    "value": "circo_7702"
+  },
+  {
+    "name": "Seine-et-Marne - 3ème circonscription",
+    "value": "circo_7703"
+  },
+  {
+    "name": "Seine-et-Marne - 4ème circonscription",
+    "value": "circo_7704"
+  },
+  {
+    "name": "Seine-et-Marne - 5ème circonscription",
+    "value": "circo_7705"
+  },
+  {
+    "name": "Seine-et-Marne - 6ème circonscription",
+    "value": "circo_7706"
+  },
+  {
+    "name": "Seine-et-Marne - 7ème circonscription",
+    "value": "circo_7707"
+  },
+  {
+    "name": "Seine-et-Marne - 8ème circonscription",
+    "value": "circo_7708"
+  },
+  {
+    "name": "Seine-et-Marne - 9ème circonscription",
+    "value": "circo_7709"
+  },
+  {
+    "name": "Seine-et-Marne - 10ème circonscription",
+    "value": "circo_7710"
+  },
+  {
+    "name": "Seine-et-Marne - 11ème circonscription",
+    "value": "circo_7711"
+  },
+  {
+    "name": "Yvelines - 1ère circonscription",
+    "value": "circo_7801"
+  },
+  {
+    "name": "Yvelines - 2ème circonscription",
+    "value": "circo_7802"
+  },
+  {
+    "name": "Yvelines - 3ème circonscription",
+    "value": "circo_7803"
+  },
+  {
+    "name": "Yvelines - 4ème circonscription",
+    "value": "circo_7804"
+  },
+  {
+    "name": "Yvelines - 5ème circonscription",
+    "value": "circo_7805"
+  },
+  {
+    "name": "Yvelines - 6ème circonscription",
+    "value": "circo_7806"
+  },
+  {
+    "name": "Yvelines - 7ème circonscription",
+    "value": "circo_7807"
+  },
+  {
+    "name": "Yvelines - 8ème circonscription",
+    "value": "circo_7808"
+  },
+  {
+    "name": "Yvelines - 9ème circonscription",
+    "value": "circo_7809"
+  },
+  {
+    "name": "Yvelines - 10ème circonscription",
+    "value": "circo_7810"
+  },
+  {
+    "name": "Yvelines - 11ème circonscription",
+    "value": "circo_7811"
+  },
+  {
+    "name": "Yvelines - 12ème circonscription",
+    "value": "circo_7812"
+  },
+  {
+    "name": "Deux-Sèvres - 1ère circonscription",
+    "value": "circo_7901"
+  },
+  {
+    "name": "Deux-Sèvres - 2ème circonscription",
+    "value": "circo_7902"
+  },
+  {
+    "name": "Deux-Sèvres - 3ème circonscription",
+    "value": "circo_7903"
+  },
+  {
+    "name": "Somme - 1ère circonscription",
+    "value": "circo_8001"
+  },
+  {
+    "name": "Somme - 2ème circonscription",
+    "value": "circo_8002"
+  },
+  {
+    "name": "Somme - 3ème circonscription",
+    "value": "circo_8003"
+  },
+  {
+    "name": "Somme - 4ème circonscription",
+    "value": "circo_8004"
+  },
+  {
+    "name": "Somme - 5ème circonscription",
+    "value": "circo_8005"
+  },
+  {
+    "name": "Tarn - 1ère circonscription",
+    "value": "circo_8101"
+  },
+  {
+    "name": "Tarn - 2ème circonscription",
+    "value": "circo_8102"
+  },
+  {
+    "name": "Tarn - 3ème circonscription",
+    "value": "circo_8103"
+  },
+  {
+    "name": "Tarn-et-Garonne - 1ère circonscription",
+    "value": "circo_8201"
+  },
+  {
+    "name": "Tarn-et-Garonne - 2ème circonscription",
+    "value": "circo_8202"
+  },
+  {
+    "name": "Var - 1ère circonscription",
+    "value": "circo_8301"
+  },
+  {
+    "name": "Var - 2ème circonscription",
+    "value": "circo_8302"
+  },
+  {
+    "name": "Var - 3ème circonscription",
+    "value": "circo_8303"
+  },
+  {
+    "name": "Var - 4ème circonscription",
+    "value": "circo_8304"
+  },
+  {
+    "name": "Var - 5ème circonscription",
+    "value": "circo_8305"
+  },
+  {
+    "name": "Var - 6ème circonscription",
+    "value": "circo_8306"
+  },
+  {
+    "name": "Var - 7ème circonscription",
+    "value": "circo_8307"
+  },
+  {
+    "name": "Var - 8ème circonscription",
+    "value": "circo_8308"
+  },
+  {
+    "name": "Vaucluse - 1ère circonscription",
+    "value": "circo_8401"
+  },
+  {
+    "name": "Vaucluse - 2ème circonscription",
+    "value": "circo_8402"
+  },
+  {
+    "name": "Vaucluse - 3ème circonscription",
+    "value": "circo_8403"
+  },
+  {
+    "name": "Vaucluse - 4ème circonscription",
+    "value": "circo_8404"
+  },
+  {
+    "name": "Vaucluse - 5ème circonscription",
+    "value": "circo_8405"
+  },
+  {
+    "name": "Vendée - 1ère circonscription",
+    "value": "circo_8501"
+  },
+  {
+    "name": "Vendée - 2ème circonscription",
+    "value": "circo_8502"
+  },
+  {
+    "name": "Vendée - 3ème circonscription",
+    "value": "circo_8503"
+  },
+  {
+    "name": "Vendée - 4ème circonscription",
+    "value": "circo_8504"
+  },
+  {
+    "name": "Vendée - 5ème circonscription",
+    "value": "circo_8505"
+  },
+  {
+    "name": "Vienne - 1ère circonscription",
+    "value": "circo_8601"
+  },
+  {
+    "name": "Vienne - 2ème circonscription",
+    "value": "circo_8602"
+  },
+  {
+    "name": "Vienne - 3ème circonscription",
+    "value": "circo_8603"
+  },
+  {
+    "name": "Vienne - 4ème circonscription",
+    "value": "circo_8604"
+  },
+  {
+    "name": "Haute-Vienne - 1ère circonscription",
+    "value": "circo_8701"
+  },
+  {
+    "name": "Haute-Vienne - 2ème circonscription",
+    "value": "circo_8702"
+  },
+  {
+    "name": "Haute-Vienne - 3ème circonscription",
+    "value": "circo_8703"
+  },
+  {
+    "name": "Vosges - 1ère circonscription",
+    "value": "circo_8801"
+  },
+  {
+    "name": "Vosges - 2ème circonscription",
+    "value": "circo_8802"
+  },
+  {
+    "name": "Vosges - 3ème circonscription",
+    "value": "circo_8803"
+  },
+  {
+    "name": "Vosges - 4ème circonscription",
+    "value": "circo_8804"
+  },
+  {
+    "name": "Yonne - 1ère circonscription",
+    "value": "circo_8901"
+  },
+  {
+    "name": "Yonne - 2ème circonscription",
+    "value": "circo_8902"
+  },
+  {
+    "name": "Yonne - 3ème circonscription",
+    "value": "circo_8903"
+  },
+  {
+    "name": "Territoire de Belfort - 1ère circonscription",
+    "value": "circo_9001"
+  },
+  {
+    "name": "Territoire de Belfort - 2ème circonscription",
+    "value": "circo_9002"
+  },
+  {
+    "name": "Essonne - 1ère circonscription",
+    "value": "circo_9101"
+  },
+  {
+    "name": "Essonne - 2ème circonscription",
+    "value": "circo_9102"
+  },
+  {
+    "name": "Essonne - 3ème circonscription",
+    "value": "circo_9103"
+  },
+  {
+    "name": "Essonne - 4ème circonscription",
+    "value": "circo_9104"
+  },
+  {
+    "name": "Essonne - 5ème circonscription",
+    "value": "circo_9105"
+  },
+  {
+    "name": "Essonne - 6ème circonscription",
+    "value": "circo_9106"
+  },
+  {
+    "name": "Essonne - 7ème circonscription",
+    "value": "circo_9107"
+  },
+  {
+    "name": "Essonne - 8ème circonscription",
+    "value": "circo_9108"
+  },
+  {
+    "name": "Essonne - 9ème circonscription",
+    "value": "circo_9109"
+  },
+  {
+    "name": "Essonne - 10ème circonscription",
+    "value": "circo_9110"
+  },
+  {
+    "name": "Hauts-de-Seine - 1ère circonscription",
+    "value": "circo_9201"
+  },
+  {
+    "name": "Hauts-de-Seine - 2ème circonscription",
+    "value": "circo_9202"
+  },
+  {
+    "name": "Hauts-de-Seine - 3ème circonscription",
+    "value": "circo_9203"
+  },
+  {
+    "name": "Hauts-de-Seine - 4ème circonscription",
+    "value": "circo_9204"
+  },
+  {
+    "name": "Hauts-de-Seine - 5ème circonscription",
+    "value": "circo_9205"
+  },
+  {
+    "name": "Hauts-de-Seine - 6ème circonscription",
+    "value": "circo_9206"
+  },
+  {
+    "name": "Hauts-de-Seine - 7ème circonscription",
+    "value": "circo_9207"
+  },
+  {
+    "name": "Hauts-de-Seine - 8ème circonscription",
+    "value": "circo_9208"
+  },
+  {
+    "name": "Hauts-de-Seine - 9ème circonscription",
+    "value": "circo_9209"
+  },
+  {
+    "name": "Hauts-de-Seine - 10ème circonscription",
+    "value": "circo_9210"
+  },
+  {
+    "name": "Hauts-de-Seine - 11ème circonscription",
+    "value": "circo_9211"
+  },
+  {
+    "name": "Hauts-de-Seine - 12ème circonscription",
+    "value": "circo_9212"
+  },
+  {
+    "name": "Hauts-de-Seine - 13ème circonscription",
+    "value": "circo_9213"
+  },
+  {
+    "name": "Seine-Saint-Denis - 1ère circonscription",
+    "value": "circo_9301"
+  },
+  {
+    "name": "Seine-Saint-Denis - 2ème circonscription",
+    "value": "circo_9302"
+  },
+  {
+    "name": "Seine-Saint-Denis - 3ème circonscription",
+    "value": "circo_9303"
+  },
+  {
+    "name": "Seine-Saint-Denis - 4ème circonscription",
+    "value": "circo_9304"
+  },
+  {
+    "name": "Seine-Saint-Denis - 5ème circonscription",
+    "value": "circo_9305"
+  },
+  {
+    "name": "Seine-Saint-Denis - 6ème circonscription",
+    "value": "circo_9306"
+  },
+  {
+    "name": "Seine-Saint-Denis - 7ème circonscription",
+    "value": "circo_9307"
+  },
+  {
+    "name": "Seine-Saint-Denis - 8ème circonscription",
+    "value": "circo_9308"
+  },
+  {
+    "name": "Seine-Saint-Denis - 9ème circonscription",
+    "value": "circo_9309"
+  },
+  {
+    "name": "Seine-Saint-Denis - 10ème circonscription",
+    "value": "circo_9310"
+  },
+  {
+    "name": "Seine-Saint-Denis - 11ème circonscription",
+    "value": "circo_9311"
+  },
+  {
+    "name": "Seine-Saint-Denis - 12ème circonscription",
+    "value": "circo_9312"
+  },
+  {
+    "name": "Val-de-Marne - 1ère circonscription",
+    "value": "circo_9401"
+  },
+  {
+    "name": "Val-de-Marne - 2ème circonscription",
+    "value": "circo_9402"
+  },
+  {
+    "name": "Val-de-Marne - 3ème circonscription",
+    "value": "circo_9403"
+  },
+  {
+    "name": "Val-de-Marne - 4ème circonscription",
+    "value": "circo_9404"
+  },
+  {
+    "name": "Val-de-Marne - 5ème circonscription",
+    "value": "circo_9405"
+  },
+  {
+    "name": "Val-de-Marne - 6ème circonscription",
+    "value": "circo_9406"
+  },
+  {
+    "name": "Val-de-Marne - 7ème circonscription",
+    "value": "circo_9407"
+  },
+  {
+    "name": "Val-de-Marne - 8ème circonscription",
+    "value": "circo_9408"
+  },
+  {
+    "name": "Val-de-Marne - 9ème circonscription",
+    "value": "circo_9409"
+  },
+  {
+    "name": "Val-de-Marne - 10ème circonscription",
+    "value": "circo_9410"
+  },
+  {
+    "name": "Val-de-Marne - 11ème circonscription",
+    "value": "circo_9411"
+  },
+  {
+    "name": "Val-d'Oise - 1ère circonscription",
+    "value": "circo_9501"
+  },
+  {
+    "name": "Val-d'Oise - 2ème circonscription",
+    "value": "circo_9502"
+  },
+  {
+    "name": "Val-d'Oise - 3ème circonscription",
+    "value": "circo_9503"
+  },
+  {
+    "name": "Val-d'Oise - 4ème circonscription",
+    "value": "circo_9504"
+  },
+  {
+    "name": "Val-d'Oise - 5ème circonscription",
+    "value": "circo_9505"
+  },
+  {
+    "name": "Val-d'Oise - 6ème circonscription",
+    "value": "circo_9506"
+  },
+  {
+    "name": "Val-d'Oise - 7ème circonscription",
+    "value": "circo_9507"
+  },
+  {
+    "name": "Val-d'Oise - 8ème circonscription",
+    "value": "circo_9508"
+  },
+  {
+    "name": "Val-d'Oise - 9ème circonscription",
+    "value": "circo_9509"
+  },
+  {
+    "name": "Val-d'Oise - 10ème circonscription",
+    "value": "circo_9510"
+  },
+  {
+    "name": "Guadeloupe - 1ère circonscription",
+    "value": "circo_97101"
+  },
+  {
+    "name": "Guadeloupe - 2ème circonscription",
+    "value": "circo_97102"
+  },
+  {
+    "name": "Guadeloupe - 3ème circonscription",
+    "value": "circo_97103"
+  },
+  {
+    "name": "Guadeloupe - 4ème circonscription",
+    "value": "circo_97104"
+  },
+  {
+    "name": "Martinique - 1ère circonscription",
+    "value": "circo_97201"
+  },
+  {
+    "name": "Martinique - 2ème circonscription",
+    "value": "circo_97202"
+  },
+  {
+    "name": "Martinique - 3ème circonscription",
+    "value": "circo_97203"
+  },
+  {
+    "name": "Martinique - 4ème circonscription",
+    "value": "circo_97204"
+  },
+  {
+    "name": "Guyane - 1ère circonscription",
+    "value": "circo_97301"
+  },
+  {
+    "name": "Guyane - 2ème circonscription",
+    "value": "circo_97302"
+  },
+  {
+    "name": "La Réunion - 1ère circonscription",
+    "value": "circo_97401"
+  },
+  {
+    "name": "La Réunion - 2ème circonscription",
+    "value": "circo_97402"
+  },
+  {
+    "name": "La Réunion - 3ème circonscription",
+    "value": "circo_97403"
+  },
+  {
+    "name": "La Réunion - 4ème circonscription",
+    "value": "circo_97404"
+  },
+  {
+    "name": "La Réunion - 5ème circonscription",
+    "value": "circo_97405"
+  },
+  {
+    "name": "La Réunion - 6ème circonscription",
+    "value": "circo_97406"
+  },
+  {
+    "name": "La Réunion - 7ème circonscription",
+    "value": "circo_97407"
+  },
+  {
+    "name": "Saint-Pierre-et-Miquelon - Saint-Pierre-et-Miquelon",
+    "value": "circo_97501"
+  },
+  {
+    "name": "Mayotte - 1ère circonscription",
+    "value": "circo_97601"
+  },
+  {
+    "name": "Mayotte - 2ème circonscription",
+    "value": "circo_97602"
+  },
+  {
+    "name": "Wallis et Futuna - 1ère circonscription",
+    "value": "circo_98601"
+  },
+  {
+    "name": "Polynésie française - 1ere circonscription",
+    "value": "circo_98701"
+  },
+  {
+    "name": "Polynésie française - 2ème circonscription",
+    "value": "circo_98702"
+  },
+  {
+    "name": "Polynésie française - 3ème circonscription",
+    "value": "circo_98703"
+  },
+  {
+    "name": "Nouvelle-Calédonie - 1ere circonscription",
+    "value": "circo_98801"
+  },
+  {
+    "name": "Nouvelle-Calédonie - 2ème circonscription",
+    "value": "circo_98802"
+  },
+  {
+    "name": "Saint-Martin/Saint-Barthélemy - 1ère circonscription",
+    "value": "circo_ZX01"
+  },
+  {
+    "name": "Français établis hors de France - 1ere circonscription",
+    "value": "circo_ZZ01"
+  },
+  {
+    "name": "Français établis hors de France - 2ème circonscription",
+    "value": "circo_ZZ02"
+  },
+  {
+    "name": "Français établis hors de France - 3ème circonscription",
+    "value": "circo_ZZ03"
+  },
+  {
+    "name": "Français établis hors de France - 4ème circonscription",
+    "value": "circo_ZZ04"
+  },
+  {
+    "name": "Français établis hors de France - 5ème circonscription",
+    "value": "circo_ZZ05"
+  },
+  {
+    "name": "Français établis hors de France - 6ème circonscription",
+    "value": "circo_ZZ06"
+  },
+  {
+    "name": "Français établis hors de France - 7ème circonscription",
+    "value": "circo_ZZ07"
+  },
+  {
+    "name": "Français établis hors de France - 8ème circonscription",
+    "value": "circo_ZZ08"
+  },
+  {
+    "name": "Français établis hors de France - 9ème circonscription",
+    "value": "circo_ZZ09"
+  },
+  {
+    "name": "Français établis hors de France - 10ème circonscription",
+    "value": "circo_ZZ10"
+  },
+  {
+    "name": "Français établis hors de France - 11ème circonscription",
+    "value": "circo_ZZ11"
+  }
+]
