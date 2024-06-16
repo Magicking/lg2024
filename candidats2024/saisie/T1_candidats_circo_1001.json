@@ -20,8 +20,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alice",
         "NomPsn":"BARRY",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#ff6daa",
         "Sortant":null,
         "Details":null
     },

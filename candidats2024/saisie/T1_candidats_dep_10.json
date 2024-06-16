@@ -20,8 +20,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alice",
         "NomPsn":"BARRY",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#ff6daa",
         "Sortant":null,
         "Details":null
     },
@@ -111,8 +111,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Samira",
         "NomPsn":"SEBBARI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#ff6daa",
         "Sortant":null,
         "Details":null
     },
