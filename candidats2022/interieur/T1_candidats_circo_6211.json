@@ -9,7 +9,10 @@
         "PrenomPsn":"Léa",
         "NomPsn":"CARON",
         "CodNuaCand":"ECO",
-        "LibNuaCand":"Ecologistes"
+        "LibNuaCand":"Ecologistes",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -21,7 +24,10 @@
         "PrenomPsn":"Dominique",
         "NomPsn":"GAI",
         "CodNuaCand":"DXG",
-        "LibNuaCand":"Divers extrême gauche"
+        "LibNuaCand":"Divers extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -33,7 +39,10 @@
         "PrenomPsn":"Gautier",
         "NomPsn":"WEINMANN",
         "CodNuaCand":"DIV",
-        "LibNuaCand":"Divers"
+        "LibNuaCand":"Divers",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -45,7 +54,10 @@
         "PrenomPsn":"Maxime",
         "NomPsn":"LEGRAND",
         "CodNuaCand":"RDG",
-        "LibNuaCand":"Parti radical de gauche"
+        "LibNuaCand":"Parti radical de gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -57,7 +69,10 @@
         "PrenomPsn":"Marine",
         "NomPsn":"LE PEN",
         "CodNuaCand":"RN",
-        "LibNuaCand":"Rassemblement National"
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -69,7 +84,10 @@
         "PrenomPsn":"Marine",
         "NomPsn":"TONDELIER",
         "CodNuaCand":"NUP",
-        "LibNuaCand":"Nouvelle union populaire écologique et sociale"
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -81,7 +99,10 @@
         "PrenomPsn":"Lahcen",
         "NomPsn":"RAÏSS",
         "CodNuaCand":"DIV",
-        "LibNuaCand":"Divers"
+        "LibNuaCand":"Divers",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -93,7 +114,10 @@
         "PrenomPsn":"Anne-Sophie",
         "NomPsn":"TASZAREK",
         "CodNuaCand":"UDI",
-        "LibNuaCand":"Union des Démocrates et des Indépendants"
+        "LibNuaCand":"Union des Démocrates et des Indépendants",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -105,6 +129,9 @@
         "PrenomPsn":"Alexandrine",
         "NomPsn":"PINTUS",
         "CodNuaCand":"ENS",
-        "LibNuaCand":"Ensemble ! (Majorité présidentielle)"
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]
