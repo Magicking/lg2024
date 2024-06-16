@@ -18,6 +18,32 @@
         "LibDpt":"Aube",
         "CodCirElec":"1001",
         "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alice",
+        "NomPsn":"Barry",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"Beury",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1001",
+        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Chris",
         "NomPsn":"Manieri-Bigorgne",
         "LibNuaCand":"Les Républicains",
@@ -31,11 +57,11 @@
         "LibDpt":"Aube",
         "CodCirElec":"1001",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#ff6daa",
+        "PrenomPsn":"Lionel",
+        "NomPsn":"Paillard",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":"Le nom du candidat n'est pas encore connu. La NUPES était déjà représentée par EELV dans cette circonscription en 2022."
+        "Details":null
     }
 ]

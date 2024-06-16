@@ -37,18 +37,5 @@
         "Couleur":"#002E61",
         "Sortant":null,
         "Details":"Thierry Besson est délégué départemental du Rassemblement national dans la Marne"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"51",
-        "LibDpt":"Marne",
-        "CodCirElec":"5105",
-        "LibCirElec":"5ème circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#ff6daa",
-        "Sortant":null,
-        "Details":"Le nom du candidat n'est pas encore connu. En 2022, la NUPES était représentée par une candidate LFI dans cette circonscription"
     }
 ]

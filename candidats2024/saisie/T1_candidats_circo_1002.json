@@ -18,6 +18,19 @@
         "LibDpt":"Aube",
         "CodCirElec":"1002",
         "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Albéric",
+        "NomPsn":"Ferrand",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Salomé",
         "NomPsn":"Fontaine-Garcia",
         "LibNuaCand":"Modem",
@@ -31,11 +44,24 @@
         "LibDpt":"Aube",
         "CodCirElec":"1002",
         "LibCirElec":"2ème circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#ff6daa",
+        "PrenomPsn":"Samira",
+        "NomPsn":"Sebbari",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
-        "Details":"Le nom du candidat n'est pas encore connu. La NUPES était déjà représentée par LFI dans cette circonscription en 2022."
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"Vallée",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
     }
 ]

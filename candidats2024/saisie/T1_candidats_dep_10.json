@@ -18,6 +18,32 @@
         "LibDpt":"Aube",
         "CodCirElec":"1001",
         "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alice",
+        "NomPsn":"Barry",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"Beury",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1001",
+        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Chris",
         "NomPsn":"Manieri-Bigorgne",
         "LibNuaCand":"Les Républicains",
@@ -31,12 +57,12 @@
         "LibDpt":"Aube",
         "CodCirElec":"1001",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#ff6daa",
+        "PrenomPsn":"Lionel",
+        "NomPsn":"Paillard",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":"Le nom du candidat n'est pas encore connu. La NUPES était déjà représentée par EELV dans cette circonscription en 2022."
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -49,6 +75,19 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Albéric",
+        "NomPsn":"Ferrand",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
         "Details":null
     },
     {
@@ -70,12 +109,25 @@
         "LibDpt":"Aube",
         "CodCirElec":"1002",
         "LibCirElec":"2ème circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#ff6daa",
+        "PrenomPsn":"Samira",
+        "NomPsn":"Sebbari",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
-        "Details":"Le nom du candidat n'est pas encore connu. La NUPES était déjà représentée par LFI dans cette circonscription en 2022."
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"Vallée",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -88,6 +140,32 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"Andrieux",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Nelly",
+        "NomPsn":"Collot-Touzé",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
         "Details":null
     },
     {
@@ -128,5 +206,18 @@
         "Couleur":"#0099FF",
         "Sortant":null,
         "Details":"Olivier Richard est conseiller municipal à Troyes"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Luc",
+        "NomPsn":"Scherrer",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]

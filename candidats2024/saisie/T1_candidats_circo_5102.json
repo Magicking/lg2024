@@ -44,10 +44,10 @@
         "LibDpt":"Marne",
         "CodCirElec":"5102",
         "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Stéphane",
-        "NomPsn":"Lang",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "PrenomPsn":"Marie",
+        "NomPsn":"Pace",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -74,6 +74,19 @@
         "NomPsn":"Rose",
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5102",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Ghislain",
+        "NomPsn":"Wysocinski",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     }

@@ -18,6 +18,32 @@
         "LibDpt":"Aube",
         "CodCirElec":"1003",
         "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"Andrieux",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Nelly",
+        "NomPsn":"Collot-Touzé",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Olivier",
         "NomPsn":"Girardin",
         "LibNuaCand":"Nouveau Front populaire (PS)",
@@ -50,5 +76,18 @@
         "Couleur":"#0099FF",
         "Sortant":null,
         "Details":"Olivier Richard est conseiller municipal à Troyes"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Luc",
+        "NomPsn":"Scherrer",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]
