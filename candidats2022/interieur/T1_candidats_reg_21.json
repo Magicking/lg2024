@@ -56,7 +56,7 @@
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
         "Couleur":null,
-        "Sortant":null,
+        "Sortant":"sortant",
         "Details":null
     },
     {
