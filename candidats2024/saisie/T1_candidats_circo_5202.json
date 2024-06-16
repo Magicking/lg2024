@@ -5,12 +5,12 @@
         "LibDpt":"Haute-Marne",
         "CodCirElec":"5202",
         "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Nicolas",
-        "NomPsn":"Lacroix",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
-        "Sortant":null,
-        "Details":"Nicolas Lacroix est président (LR) du conseil départemental de la Haute-Marne"
+        "PrenomPsn":"Laurence",
+        "NomPsn":"Robert-Dehault",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -18,12 +18,12 @@
         "LibDpt":"Haute-Marne",
         "CodCirElec":"5202",
         "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Laurence",
-        "NomPsn":"Robert-Dehault",
-        "LibNuaCand":"Rassemblement national",
-        "Couleur":"#002E61",
-        "Sortant":"sortante",
-        "Details":null
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"Lacroix",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":"Nicolas Lacroix est président (LR) du conseil départemental de la Haute-Marne"
     },
     {
         "NumTour":"1",

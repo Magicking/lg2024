@@ -5,12 +5,38 @@
         "LibDpt":"Ardennes",
         "CodCirElec":"0801",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Sonia",
-        "NomPsn":"d'Orgeville",
-        "LibNuaCand":"Écologie au centre",
-        "Couleur":"#04B34D",
-        "Sortant":null,
+        "PrenomPsn":"Lionel",
+        "NomPsn":"Vuibert",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Damien ",
+        "NomPsn":"Lerouge",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#ff6daa",
+        "Sortant":null,
+        "Details":"Damien Lerouge est Premier secrétaire fédéral du Parti socialiste dans les Ardennes"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Sabine",
+        "NomPsn":"Misset",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":"Guillaume Maréchal, vice-président du conseil régional du Grand Est et candidat pour Les Républicains en 2022 dans cette circonscription, nous a indiqué qu'il ne se présentait pas aux législatives 2024."
     },
     {
         "NumTour":"1",
@@ -57,37 +83,11 @@
         "LibDpt":"Ardennes",
         "CodCirElec":"0801",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Damien ",
-        "NomPsn":"Lerouge",
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#ff6daa",
+        "PrenomPsn":"Sonia",
+        "NomPsn":"d'Orgeville",
+        "LibNuaCand":"Écologie au centre",
+        "Couleur":"#04B34D",
         "Sortant":null,
-        "Details":"Damien Lerouge est Premier secrétaire fédéral du Parti socialiste dans les Ardennes"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"08",
-        "LibDpt":"Ardennes",
-        "CodCirElec":"0801",
-        "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Sabine",
-        "NomPsn":"Misset",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
-        "Sortant":null,
-        "Details":"Guillaume Maréchal, vice-président du conseil régional du Grand Est et candidat pour Les Républicains en 2022 dans cette circonscription, nous a indiqué qu'il ne se présentait pas aux législatives 2024."
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"08",
-        "LibDpt":"Ardennes",
-        "CodCirElec":"0801",
-        "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Lionel",
-        "NomPsn":"Vuibert",
-        "LibNuaCand":"Renaissance",
-        "Couleur":"#9859fc",
-        "Sortant":"sortant",
         "Details":null
     },
     {
@@ -102,6 +102,19 @@
         "Couleur":"#0099FF",
         "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"Loyez",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":"La NUPES était déjà représentée par Gilles Loyez dans cette circonscription en 2022"
     },
     {
         "NumTour":"1",
@@ -133,14 +146,14 @@
         "NumTour":"1",
         "CodDpt":"08",
         "LibDpt":"Ardennes",
-        "CodCirElec":"0802",
-        "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Gilles",
-        "NomPsn":"Loyez",
+        "CodCirElec":"0803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"Perrin",
         "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":"La NUPES était déjà représentée par Gilles Loyez dans cette circonscription en 2022"
+        "Details":"La NUPES déjà était représentée par Sophie Perrin dans cette circonscription en 2022"
     },
     {
         "NumTour":"1",
@@ -154,18 +167,5 @@
         "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"08",
-        "LibDpt":"Ardennes",
-        "CodCirElec":"0803",
-        "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Sophie",
-        "NomPsn":"Perrin",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
-        "Couleur":"#db1616",
-        "Sortant":null,
-        "Details":"La NUPES déjà était représentée par Sophie Perrin dans cette circonscription en 2022"
     }
 ]

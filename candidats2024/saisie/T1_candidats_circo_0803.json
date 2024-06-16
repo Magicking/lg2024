@@ -5,12 +5,12 @@
         "LibDpt":"Ardennes",
         "CodCirElec":"0803",
         "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Isabelle",
-        "NomPsn":"Roger",
-        "LibNuaCand":"Rassemblement national",
-        "Couleur":"#002E61",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"Perrin",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"La NUPES déjà était représentée par Sophie Perrin dans cette circonscription en 2022"
     },
     {
         "NumTour":"1",
@@ -18,11 +18,11 @@
         "LibDpt":"Ardennes",
         "CodCirElec":"0803",
         "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Sophie",
-        "NomPsn":"Perrin",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
-        "Couleur":"#db1616",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"Roger",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
-        "Details":"La NUPES déjà était représentée par Sophie Perrin dans cette circonscription en 2022"
+        "Details":null
     }
 ]

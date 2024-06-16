@@ -5,11 +5,11 @@
         "LibDpt":"Aube",
         "CodCirElec":"1001",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Chris",
-        "NomPsn":"Manieri-Bigorgne",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
-        "Sortant":null,
+        "PrenomPsn":"Jordan",
+        "NomPsn":"Guitton",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
         "Details":null
     },
     {
@@ -18,11 +18,11 @@
         "LibDpt":"Aube",
         "CodCirElec":"1001",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Jordan",
-        "NomPsn":"Guitton",
-        "LibNuaCand":"Rassemblement national",
-        "Couleur":"#002E61",
-        "Sortant":"sortant",
+        "PrenomPsn":"Chris",
+        "NomPsn":"Manieri-Bigorgne",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
         "Details":null
     },
     {

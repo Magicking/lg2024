@@ -5,19 +5,6 @@
         "LibDpt":"Marne",
         "CodCirElec":"5101",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Alexis",
-        "NomPsn":"Mexis",
-        "LibNuaCand":"Rassemblement national \/ Ciotti",
-        "Couleur":"#002E61",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"51",
-        "LibDpt":"Marne",
-        "CodCirElec":"5101",
-        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Xavier",
         "NomPsn":"Albertini",
         "LibNuaCand":"Horizons",
@@ -37,6 +24,19 @@
         "Couleur":"#04B34D",
         "Sortant":null,
         "Details":"Déjà candidate pour la NUPES en 2022"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alexis",
+        "NomPsn":"Mexis",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
     },
     {
         "NumTour":"1",

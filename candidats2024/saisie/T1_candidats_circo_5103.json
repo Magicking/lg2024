@@ -18,32 +18,6 @@
         "LibDpt":"Marne",
         "CodCirElec":"5103",
         "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Johanna",
-        "NomPsn":"Jabbour",
-        "LibNuaCand":"Debout la France",
-        "Couleur":"#1E32F0",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"51",
-        "LibDpt":"Marne",
-        "CodCirElec":"5103",
-        "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Maxime",
-        "NomPsn":"Michelet",
-        "LibNuaCand":"Rassemblement national \/ Ciotti",
-        "Couleur":"#002E61",
-        "Sortant":null,
-        "Details":"Membre du cabinet d'Éric Ciotti"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"51",
-        "LibDpt":"Marne",
-        "CodCirElec":"5103",
-        "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Chantal",
         "NomPsn":"Berthélémy",
         "LibNuaCand":"Nouveau Front populaire (PCF)",
@@ -63,5 +37,31 @@
         "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Johanna",
+        "NomPsn":"Jabbour",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"Michelet",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":"Membre du cabinet d'Éric Ciotti"
     }
 ]
