@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"26",
+        "LibDpt":"Drôme",
+        "CodCirElec":"2603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Paul",
+        "NomPsn":"BERARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"26",
+        "LibDpt":"Drôme",
+        "CodCirElec":"2603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Virginie",
+        "NomPsn":"RAYNAL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

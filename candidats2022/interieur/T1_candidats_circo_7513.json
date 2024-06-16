@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7513",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"JEANNETÉ",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7513",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Mickaël",
+        "NomPsn":"MARINHO",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7513",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Ornella",
+        "NomPsn":"EVANGELISTA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7513",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nadia",
+        "NomPsn":"TRAINAR",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Didier",
+        "NomPsn":"VALLVERDU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Marc",
+        "NomPsn":"FELEMEZ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

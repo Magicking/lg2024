@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"BLAISE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Médéric",
+        "NomPsn":"CHAPITAUX",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Justine",
+        "NomPsn":"GRUET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

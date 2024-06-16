@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"David",
+        "NomPsn":"QUINTELA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Michel",
+        "NomPsn":"MOZZICONACCI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"973",
+        "LibDpt":"Guyane",
+        "CodCirElec":"97301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Joëlle",
+        "NomPsn":"PREVOT-MADERE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"973",
+        "LibDpt":"Guyane",
+        "CodCirElec":"97301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"15",
+        "PrenomPsn":"Alix",
+        "NomPsn":"MADELEINE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"973",
+        "LibDpt":"Guyane",
+        "CodCirElec":"97301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"18",
+        "PrenomPsn":"Boris",
+        "NomPsn":"CHONG-SIT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"973",
+        "LibDpt":"Guyane",
+        "CodCirElec":"97302",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Jean-Philippe",
+        "NomPsn":"DOLOR",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

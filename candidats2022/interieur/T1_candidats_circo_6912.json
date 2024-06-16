@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6912",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"PIRRA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6912",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"MOROGE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

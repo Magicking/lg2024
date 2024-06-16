@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Dun",
+        "NomPsn":"FERUS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Nancy",
+        "NomPsn":"MATHIAS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Paola",
+        "NomPsn":"PLANTIER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Eric",
+        "NomPsn":"MAERTEN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"DEVOS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

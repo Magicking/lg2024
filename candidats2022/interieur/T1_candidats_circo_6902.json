@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6902",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"SIMON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6902",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Myriam",
+        "NomPsn":"FOGEL-JEDIDI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

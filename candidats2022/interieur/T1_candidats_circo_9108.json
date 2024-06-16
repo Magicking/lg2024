@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9108",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"DOHIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

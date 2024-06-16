@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"ROUSSEL",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Eve",
+        "NomPsn":"FROGER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

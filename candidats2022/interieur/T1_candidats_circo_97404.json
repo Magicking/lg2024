@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Sharif",
+        "NomPsn":"BEMAT",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"David",
+        "NomPsn":"LORION",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

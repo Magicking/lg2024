@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"François",
+        "NomPsn":"PÉGUILLET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Francois",
+        "NomPsn":"DEROCHE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Olga",
+        "NomPsn":"EDE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Anne-Solenne",
+        "NomPsn":"BUSCH",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

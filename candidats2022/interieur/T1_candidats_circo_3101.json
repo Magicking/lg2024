@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Oscar",
+        "NomPsn":"CASTILLO-MENDEGRIS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"ROCCA",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Aude",
+        "NomPsn":"BATTISTELLA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

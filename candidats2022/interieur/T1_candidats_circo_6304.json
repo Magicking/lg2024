@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Pascale",
+        "NomPsn":"SANCHEZ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"PRADIER",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Florence",
+        "NomPsn":"DUBESSY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

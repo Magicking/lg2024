@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Eric",
+        "NomPsn":"DAMAMME",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Anselme",
+        "NomPsn":"BOUSSUGE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

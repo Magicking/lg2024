@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Anne-Christine",
+        "NomPsn":"POISSON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Denise",
+        "NomPsn":"BARBARAT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Michel",
+        "NomPsn":"BOURNAT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

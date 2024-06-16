@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"DE BOISHUE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Stephane",
+        "NomPsn":"CAMUS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Inès",
+        "NomPsn":"VERA-FONTANO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

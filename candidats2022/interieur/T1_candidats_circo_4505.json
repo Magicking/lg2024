@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Eric",
+        "NomPsn":"DE NAS DE TOURRIS",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"BUIZARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"BARJONET",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Samia",
+        "NomPsn":"DUSSART",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Anne-Audrey",
+        "NomPsn":"PERRIN-PATURAL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

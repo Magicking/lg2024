@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"64",
+        "LibDpt":"Pyrénées-Atlantiques",
+        "CodCirElec":"6403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Fabienne",
+        "NomPsn":"COSTEDOAT-DIU",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"64",
+        "LibDpt":"Pyrénées-Atlantiques",
+        "CodCirElec":"6403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Romane",
+        "NomPsn":"ALBANEL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5918",
+        "LibCirElec":"18ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Gérard",
+        "NomPsn":"PHILIPPE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5918",
+        "LibCirElec":"18ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Pierre-Antoine",
+        "NomPsn":"VILLAIN",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

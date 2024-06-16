@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7706",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Claire",
+        "NomPsn":"MURCIA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7706",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Hamida",
+        "NomPsn":"REZEG",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

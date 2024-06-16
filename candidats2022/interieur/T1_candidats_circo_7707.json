@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7707",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"JAHIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7707",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Beatrice",
+        "NomPsn":"TROUSSARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7707",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Ketty",
+        "NomPsn":"BAKU MANDEDIBA",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9309",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Robenson",
+        "NomPsn":"PIERRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9309",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Laure",
+        "NomPsn":"GARRIGUE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

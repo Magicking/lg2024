@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"07",
+        "LibDpt":"Ardèche",
+        "CodCirElec":"0701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Marie Élisabeth",
+        "NomPsn":"FLACH",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"07",
+        "LibDpt":"Ardèche",
+        "CodCirElec":"0701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Michel",
+        "NomPsn":"VALLA",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

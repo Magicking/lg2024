@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"SEPTIERS",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean-Louis",
+        "NomPsn":"THIÉRIOT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"MALLET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

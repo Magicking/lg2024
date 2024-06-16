@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Geneviève",
+        "NomPsn":"LUCCHESI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"VINCENDET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Anna",
+        "NomPsn":"PAPA",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Izzet",
+        "NomPsn":"DOGANEL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

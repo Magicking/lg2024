@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"41",
+        "LibDpt":"Loir-et-Cher",
+        "CodCirElec":"4101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Malik",
+        "NomPsn":"BENAKCHA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"41",
+        "LibDpt":"Loir-et-Cher",
+        "CodCirElec":"4101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Frank",
+        "NomPsn":"MARTIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

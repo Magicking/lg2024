@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Virginie",
+        "NomPsn":"BECK",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Éric",
+        "NomPsn":"AMIET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

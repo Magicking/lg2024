@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"MOREAU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Ariel",
+        "NomPsn":"LÉVY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"CUIGNACHE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

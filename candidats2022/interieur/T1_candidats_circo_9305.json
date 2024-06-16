@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9305",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Raynald",
+        "NomPsn":"ROUECHE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9305",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Raphaël",
+        "NomPsn":"LIBERT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

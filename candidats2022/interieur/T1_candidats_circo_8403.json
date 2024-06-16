@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"TONNAIRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Christian",
+        "NomPsn":"MONTAGARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

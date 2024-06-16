@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean-Baptiste",
+        "NomPsn":"ABRIBAT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Naoual",
+        "NomPsn":"HAMZAOUI",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Didier",
+        "NomPsn":"GONZALES",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

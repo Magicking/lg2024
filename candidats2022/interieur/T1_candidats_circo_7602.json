@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Maxence",
+        "NomPsn":"BRIQUET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Jody",
+        "NomPsn":"HORCHOLLE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Jonas",
+        "NomPsn":"HADDAD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

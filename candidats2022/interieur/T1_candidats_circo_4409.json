@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4409",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"PILET",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4409",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"CHOMARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4409",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Paul",
+        "NomPsn":"BROUNAIS",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

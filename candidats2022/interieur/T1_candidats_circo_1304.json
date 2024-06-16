@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"RASTIT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Miloud",
+        "NomPsn":"BOUALEM",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Solange",
+        "NomPsn":"BIAGGI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

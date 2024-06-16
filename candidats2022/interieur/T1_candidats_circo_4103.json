@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"41",
+        "LibDpt":"Loir-et-Cher",
+        "CodCirElec":"4103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Dahbia",
+        "NomPsn":"KERMAD",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"41",
+        "LibDpt":"Loir-et-Cher",
+        "CodCirElec":"4103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Sabrina",
+        "NomPsn":"HUET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"41",
+        "LibDpt":"Loir-et-Cher",
+        "CodCirElec":"4103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Eric",
+        "NomPsn":"DOUMAS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

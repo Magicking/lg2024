@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Jérémie",
+        "NomPsn":"PIANO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Elodie",
+        "NomPsn":"VIRZI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

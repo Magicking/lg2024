@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Mirela",
+        "NomPsn":"BRATULESCU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Germain",
+        "NomPsn":"ROESCH",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

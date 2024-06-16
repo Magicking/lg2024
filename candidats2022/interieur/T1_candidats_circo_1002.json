@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"RIGLET",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Etienne",
+        "NomPsn":"IGNATOVITCH",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"BAZIN-MALGRAS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

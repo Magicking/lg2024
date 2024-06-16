@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5709",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Aurélie",
+        "NomPsn":"WALLIAN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5709",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Lionel",
+        "NomPsn":"BIEDER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5709",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Lucas",
+        "NomPsn":"GRANDJEAN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

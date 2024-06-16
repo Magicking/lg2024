@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7708",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Delphine",
+        "NomPsn":"MAIRIAUX",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7708",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Jean-Marc",
+        "NomPsn":"MOSKOWICZ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

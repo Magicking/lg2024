@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8307",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Marie-Eve",
+        "NomPsn":"PERRU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8307",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Romain",
+        "NomPsn":"VINCENT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8307",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Charles",
+        "NomPsn":"IANNESSI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

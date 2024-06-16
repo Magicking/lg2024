@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Franck",
+        "NomPsn":"CHEVREL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"François",
+        "NomPsn":"ARS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"14",
+        "PrenomPsn":"François",
+        "NomPsn":"MOUSSET",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

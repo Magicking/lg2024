@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"LEBRETON",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"DE LANOUVELLE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Inès",
+        "NomPsn":"LAURENT",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6203",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"KAZNOWSKI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6203",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"CAFLERS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6203",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Claudine",
+        "NomPsn":"LAMBRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

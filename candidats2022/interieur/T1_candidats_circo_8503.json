@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BLANCHARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Jean-Baptiste",
+        "NomPsn":"MOREAU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

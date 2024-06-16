@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Cyrille",
+        "NomPsn":"DOUMENGE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

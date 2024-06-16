@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Clément",
+        "NomPsn":"GALANTE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Anne",
+        "NomPsn":"BOUCHER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

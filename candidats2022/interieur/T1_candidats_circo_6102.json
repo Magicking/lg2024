@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"61",
+        "LibDpt":"Orne",
+        "CodCirElec":"6102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"LOUWAGIE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"61",
+        "LibDpt":"Orne",
+        "CodCirElec":"6102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Amaury",
+        "NomPsn":"DE BOURBON PARME",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

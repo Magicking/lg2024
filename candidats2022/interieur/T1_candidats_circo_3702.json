@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3702",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Angélique",
+        "NomPsn":"DELAHAYE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3702",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"DAILLET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3702",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Svetlana",
+        "NomPsn":"NICOLAEFF",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

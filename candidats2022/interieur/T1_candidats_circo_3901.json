@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3901",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"MARRAUD DES GROTTES",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3901",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"PERRET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

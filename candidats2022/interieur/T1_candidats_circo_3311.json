@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"CHALOPIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Eddie",
+        "NomPsn":"PUYJALON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Cecile",
+        "NomPsn":"PICARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

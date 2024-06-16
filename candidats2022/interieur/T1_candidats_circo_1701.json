@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"RICHEZ-LEROUGE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nadine",
+        "NomPsn":"TANGUY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"FRANÇOIS",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

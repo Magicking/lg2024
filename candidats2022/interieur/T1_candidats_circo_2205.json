@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Yves",
+        "NomPsn":"JEZEQUEL",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Bernard",
+        "NomPsn":"GERMAIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

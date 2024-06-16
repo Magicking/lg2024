@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Clément",
+        "NomPsn":"CHAPPET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Lucie",
+        "NomPsn":"TIVOLLE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

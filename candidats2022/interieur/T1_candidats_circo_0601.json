@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Eric",
+        "NomPsn":"CIOTTI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

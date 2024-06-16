@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Anne-Catherine",
+        "NomPsn":"LEUCART",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Marie-Jo",
+        "NomPsn":"ZIMMERMANN",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Christian",
+        "NomPsn":"BEMER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"COLIN-OESTERLÉ",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

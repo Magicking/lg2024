@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3808",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean-Claude",
+        "NomPsn":"LASSALLE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3808",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Thibaut",
+        "NomPsn":"MONNIER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

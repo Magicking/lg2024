@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Julien",
+        "NomPsn":"MORGANTI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean",
+        "NomPsn":"LAMBERTI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

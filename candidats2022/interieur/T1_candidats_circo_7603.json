@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Clémence",
+        "NomPsn":"BOURDET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"CHABERT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

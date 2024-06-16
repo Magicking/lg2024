@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Céline",
+        "NomPsn":"BOYER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

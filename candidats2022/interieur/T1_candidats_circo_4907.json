@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"TROTTIER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Barbara",
+        "NomPsn":"MAZIÈRES",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

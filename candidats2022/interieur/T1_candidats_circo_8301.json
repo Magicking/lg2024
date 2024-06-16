@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"VITEL",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"HENO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

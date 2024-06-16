@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Eveline",
+        "NomPsn":"BRYON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Mama",
+        "NomPsn":"SY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Antonin",
+        "NomPsn":"MORELLE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

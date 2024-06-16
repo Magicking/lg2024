@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"François",
+        "NomPsn":"BOURBEAU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Sabrina",
+        "NomPsn":"SELLINI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"SEITLINGER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

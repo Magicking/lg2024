@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"DESCOEUR",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"DE  BALINCOURT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"DELPONT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

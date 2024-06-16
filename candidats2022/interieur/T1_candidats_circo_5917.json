@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"NORREEL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"GARAUD",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

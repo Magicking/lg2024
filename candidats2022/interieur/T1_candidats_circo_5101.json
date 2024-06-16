@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Florian",
+        "NomPsn":"BENADASSI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5101",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"BEAUVAIS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

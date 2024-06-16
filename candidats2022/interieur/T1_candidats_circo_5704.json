@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Chloé",
+        "NomPsn":"KONARSKI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Fabien",
+        "NomPsn":"DI FILIPPO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

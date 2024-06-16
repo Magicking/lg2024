@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"03",
+        "LibDpt":"Allier",
+        "CodCirElec":"0301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"DE NICOLAY",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"03",
+        "LibDpt":"Allier",
+        "CodCirElec":"0301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Fabien",
+        "NomPsn":"MALAVAUD",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"03",
+        "LibDpt":"Allier",
+        "CodCirElec":"0301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Roger",
+        "NomPsn":"LITAUDON",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

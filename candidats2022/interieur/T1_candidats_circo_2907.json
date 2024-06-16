@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Eric",
+        "NomPsn":"LE GUEN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Yann",
+        "NomPsn":"LERICHE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

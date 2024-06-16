@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Élections</title>
+</head>
+<body>
+    <div id="content"></div>
+
+    <script>
+// Obtenir l'URL de la page courante
+const currentUrl = window.location.href;
+
+// Créer un nouvel objet URL à partir de l'URL courante
+const url = new URL(currentUrl);
+
+// Utiliser l'objet URLSearchParams pour extraire les paramètres
+const params = new URLSearchParams(url.search);
+
+// Récupérer les valeurs des paramètres
+const source = params.get('source');
+const zone = params.get('zone');
+const annee = params.get('annee');
+const tour = params.get('tour');
+
+
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch(`https://raw.githubusercontent.com/f3reg/lg2024/master/candidats${annee}/${source}/T${tour}_candidats_${zone}.json`)
+                .then(response => response.json())
+                .then(data => {
+                    generateHTML(data);
+                })
+                .catch(error => console.error('Erreur:', error));
+        });
+
+        function generateHTML(data) {
+            const contentDiv = document.getElementById('content');
+            
+            let html = '<p>Note : les candidats sont affichés dans l\'ordre du tirage au sort des panneaux électoraux. Les étiquettes politiques sont celles attribuées par le ministère de l\'Intérieur.</p>';
+
+            const departements = [];
+            
+            data.forEach(candidature => {
+                const { CodDpt, LibDpt, CodCirElec, LibCirElec, PrenomPsn, NomPsn, LibNuaCand } = candidature;
+                const circonscriptionKey = `${CodDpt}-${CodCirElec}`;
+                
+                let departement = departements.find(dep => dep.code === CodDpt);
+                if (!departement) {
+                    departement = {
+                        code: CodDpt,
+                        name: LibDpt,
+                        circonscriptions: {}
+                    };
+                    departements.push(departement);
+                }
+
+                if (!departement.circonscriptions[circonscriptionKey]) {
+                    departement.circonscriptions[circonscriptionKey] = {
+                        name: LibCirElec,
+                        candidats: []
+                    };
+                }
+
+                departement.circonscriptions[circonscriptionKey].candidats.push({
+                    prenom: PrenomPsn,
+                    nom: NomPsn,
+                    libNuaCand: LibNuaCand
+                });
+            });
+
+            departements.forEach(departement => {
+                html += `<h2 class="subheader">${departement.name} (${departement.code})</h2>`;
+                for (const [circonscriptionKey, circonscription] of Object.entries(departement.circonscriptions)) {
+                    html += `<h2 class="bullet">${departement.name} - ${circonscription.name}</h2>`;
+                    if (circonscription.candidats.length > 1) {
+                        html += `<p>${circonscription.candidats.length} candidats se présentent dans cette circonscription&nbsp;:</p>`;
+                    }
+                    if (circonscription.candidats.length == 1) {
+                        html += `<p>Un seul candidat se présente dans cette circonscription&nbsp;:</p>`;
+                    }
+                    html += '<ul>';
+                    circonscription.candidats.forEach(candidat => {
+                        html += `<li>${candidat.prenom} ${candidat.nom} - ${candidat.libNuaCand}</li>`;
+                    });
+                    html += '</ul>';
+                }
+            });
+
+            contentDiv.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

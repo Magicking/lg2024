@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Leïla",
+        "NomPsn":"ROSENSTECH",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean-Luc",
+        "NomPsn":"BOURGEAUX",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"FICHET",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

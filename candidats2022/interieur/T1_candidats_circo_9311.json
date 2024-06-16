@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Ton Tona",
+        "NomPsn":"KHUL",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"NAUD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"SCAGNI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Guillemette",
+        "NomPsn":"DUSAUSOY",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6708",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"KRILOFF",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6708",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Anne",
+        "NomPsn":"SANDER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

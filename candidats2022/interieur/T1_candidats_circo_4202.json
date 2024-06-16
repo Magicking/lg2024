@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Quentin",
+        "NomPsn":"FONTVIEILLE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Marie-Camille",
+        "NomPsn":"REY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Francette",
+        "NomPsn":"MOREAU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Jean-Yves",
+        "NomPsn":"GONTIER",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"PLOUVIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Martine",
+        "NomPsn":"AURY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"GAUDEAU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

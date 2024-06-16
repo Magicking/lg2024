@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2902",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jean-Charles",
+        "NomPsn":"LARSONNEUR",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2902",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Mikaël",
+        "NomPsn":"CABON",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2902",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"16",
+        "PrenomPsn":"Elisabeth",
+        "NomPsn":"LOUVEL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

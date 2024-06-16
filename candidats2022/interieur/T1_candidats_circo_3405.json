@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Richard",
+        "NomPsn":"VINUESA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Lewis",
+        "NomPsn":"MARCHAND",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Charles",
+        "NomPsn":"SALVAING",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

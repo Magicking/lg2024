@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6208",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Aude",
+        "NomPsn":"MAYAUD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6208",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Marie-Denise",
+        "NomPsn":"SACHOT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

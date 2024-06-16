@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Johny",
+        "NomPsn":"ADEKALOM",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Eric",
+        "NomPsn":"LEUNG",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Nadia",
+        "NomPsn":"RAMASSAMY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

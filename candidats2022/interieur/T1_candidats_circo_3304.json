@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean Patrice",
+        "NomPsn":"FILLANG",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Christine",
+        "NomPsn":"GAILLARD",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"GARNIER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3304",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Kevin",
+        "NomPsn":"BERNAUD",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7508",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Marie-Noelle",
+        "NomPsn":"BLONDEL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7508",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"MONTANDON",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7508",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Jannick",
+        "NomPsn":"TRUNKENWALD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

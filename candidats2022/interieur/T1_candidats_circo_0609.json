@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0609",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Michèle",
+        "NomPsn":"TABAROT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0609",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Xuan Truong",
+        "NomPsn":"NGUYEN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0609",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jean-Paul",
+        "NomPsn":"CAMERANO",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9001",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Ian",
+        "NomPsn":"BOUCARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9001",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"FRANQUET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9001",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Kévin",
+        "NomPsn":"BARATAY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

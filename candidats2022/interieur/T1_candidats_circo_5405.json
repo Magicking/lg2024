@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Julie",
+        "NomPsn":"RICARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Yannick",
+        "NomPsn":"FRANÇOIS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

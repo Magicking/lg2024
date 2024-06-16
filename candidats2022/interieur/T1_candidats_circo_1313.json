@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Christiane",
+        "NomPsn":"VILLECOURT-GIL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"ROUBY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

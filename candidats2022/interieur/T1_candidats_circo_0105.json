@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"01",
+        "LibDpt":"Ain",
+        "CodCirElec":"0105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"TOURNIER-BILLON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"01",
+        "LibDpt":"Ain",
+        "CodCirElec":"0105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Damien",
+        "NomPsn":"ABAD",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"01",
+        "LibDpt":"Ain",
+        "CodCirElec":"0105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"PARIS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"01",
+        "LibDpt":"Ain",
+        "CodCirElec":"0105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Julien",
+        "NomPsn":"MARTINEZ",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

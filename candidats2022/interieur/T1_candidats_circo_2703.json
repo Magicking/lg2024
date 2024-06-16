@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"COSTEY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"ELEXHAUSER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Catherine",
+        "NomPsn":"ROUVIER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean-Marc",
+        "NomPsn":"MACARIO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"GAIFFE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"ISNARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Abdel",
+        "NomPsn":"AÏSSOU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

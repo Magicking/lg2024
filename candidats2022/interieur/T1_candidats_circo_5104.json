@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jean-Louis",
+        "NomPsn":"DEVAUX",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Emilie Laurence",
+        "NomPsn":"BRY",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

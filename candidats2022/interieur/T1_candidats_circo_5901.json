@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5901",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Mai",
+        "NomPsn":"RIMLINGER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

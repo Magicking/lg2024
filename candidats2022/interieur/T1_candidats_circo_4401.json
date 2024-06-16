@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Anthony",
+        "NomPsn":"BÉRAUD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Carol",
+        "NomPsn":"GODON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

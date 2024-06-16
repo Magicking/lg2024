@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"François-Xavier",
+        "NomPsn":"LE HÉCHO",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Sandra",
+        "NomPsn":"BUREAU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Catherine",
+        "NomPsn":"LAILLÉ",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Francois",
+        "NomPsn":"GUYOT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Lucy",
+        "NomPsn":"GEORGES",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Thibault",
+        "NomPsn":"BAZIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

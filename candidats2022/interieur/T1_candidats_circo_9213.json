@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Numa",
+        "NomPsn":"ISNARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Thibault",
+        "NomPsn":"SIMONIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

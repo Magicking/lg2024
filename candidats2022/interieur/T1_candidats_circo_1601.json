@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"16",
+        "LibDpt":"Charente",
+        "CodCirElec":"1601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"DE LORGERIL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"16",
+        "LibDpt":"Charente",
+        "CodCirElec":"1601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Alice",
+        "NomPsn":"CLERGEAU",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

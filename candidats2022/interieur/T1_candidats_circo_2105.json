@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"MOREAU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Denis",
+        "NomPsn":"JORDAN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2105",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"FOUGÈRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

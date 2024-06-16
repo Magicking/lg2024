@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5605",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Ronan",
+        "NomPsn":"LOAS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5605",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Thibault",
+        "NomPsn":"PERRIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

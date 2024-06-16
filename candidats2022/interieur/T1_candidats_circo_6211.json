@@ -1,0 +1,110 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Léa",
+        "NomPsn":"CARON",
+        "CodNuaCand":"ECO",
+        "LibNuaCand":"Ecologistes"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"GAI",
+        "CodNuaCand":"DXG",
+        "LibNuaCand":"Divers extrême gauche"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Gautier",
+        "NomPsn":"WEINMANN",
+        "CodNuaCand":"DIV",
+        "LibNuaCand":"Divers"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"LEGRAND",
+        "CodNuaCand":"RDG",
+        "LibNuaCand":"Parti radical de gauche"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Marine",
+        "NomPsn":"LE PEN",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Marine",
+        "NomPsn":"TONDELIER",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Lahcen",
+        "NomPsn":"RAÏSS",
+        "CodNuaCand":"DIV",
+        "LibNuaCand":"Divers"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Anne-Sophie",
+        "NomPsn":"TASZAREK",
+        "CodNuaCand":"UDI",
+        "LibNuaCand":"Union des Démocrates et des Indépendants"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6211",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Alexandrine",
+        "NomPsn":"PINTUS",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)"
+    }
+]

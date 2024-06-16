@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Emmanuelle",
+        "NomPsn":"DANJOU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Martine",
+        "NomPsn":"BELOT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

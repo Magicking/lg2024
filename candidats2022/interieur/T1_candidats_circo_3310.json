@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Gonzague",
+        "NomPsn":"MALHERBE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

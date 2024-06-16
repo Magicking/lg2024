@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Mélanie",
+        "NomPsn":"ABASSI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Angelo",
+        "NomPsn":"ERRERA-MULLER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

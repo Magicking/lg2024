@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3408",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"LEFEUVRE-ROUMANOS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3408",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Marie-France",
+        "NomPsn":"BRITTO",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3408",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Franck",
+        "NomPsn":"SYLVESTRE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3408",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Stanislas",
+        "NomPsn":"THIRY",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

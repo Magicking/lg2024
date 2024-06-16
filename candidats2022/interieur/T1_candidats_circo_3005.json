@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3005",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Frédérique",
+        "NomPsn":"BOZEC",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3005",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Nathan",
+        "NomPsn":"CASANO",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3005",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Léa",
+        "NomPsn":"BOYER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6801",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Yves",
+        "NomPsn":"HEMEDINGER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6801",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Ariane",
+        "NomPsn":"BISCHOFF BATMA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

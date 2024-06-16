@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"86",
+        "LibDpt":"Vienne",
+        "CodCirElec":"8604",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Alain",
+        "NomPsn":"VERDIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

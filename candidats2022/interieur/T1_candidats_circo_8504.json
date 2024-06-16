@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Erick",
+        "NomPsn":"MAROLLEAU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"BESSE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Denis",
+        "NomPsn":"LE BARS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

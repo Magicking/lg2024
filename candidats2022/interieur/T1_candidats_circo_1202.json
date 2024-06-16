@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"André",
+        "NomPsn":"AT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Florian",
+        "NomPsn":"BARTHE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"DUVAL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

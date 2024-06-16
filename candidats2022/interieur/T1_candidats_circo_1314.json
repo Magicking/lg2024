@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1314",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Catie",
+        "NomPsn":"CALBET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1314",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Michel",
+        "NomPsn":"BOULAN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1314",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Rémi",
+        "NomPsn":"BOURGAREL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

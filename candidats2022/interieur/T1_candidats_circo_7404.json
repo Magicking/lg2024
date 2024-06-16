@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Virginie",
+        "NomPsn":"DUBY-MULLER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"BAILLY",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Céline",
+        "NomPsn":"LOPES VAZ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Baptiste",
+        "NomPsn":"GATOUILLAT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Didier",
+        "NomPsn":"FREVILLE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

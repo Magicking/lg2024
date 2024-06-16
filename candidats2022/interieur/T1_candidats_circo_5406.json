@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Jeanne",
+        "NomPsn":"AMANN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"HEDIN",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5406",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Jonathan",
+        "NomPsn":"RICHIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

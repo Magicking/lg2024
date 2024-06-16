@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"PRIVAT MATTIONI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Jean-Luc",
+        "NomPsn":"SCHAFFHAUSER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Martine",
+        "NomPsn":"CANADAS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

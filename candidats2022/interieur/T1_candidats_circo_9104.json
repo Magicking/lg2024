@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"François",
+        "NomPsn":"LA SELVE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Agathe",
+        "NomPsn":"SCACHE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Jérémy",
+        "NomPsn":"MARTIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"91",
+        "LibDpt":"Essonne",
+        "CodCirElec":"9104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Miriam",
+        "NomPsn":"DJABALI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

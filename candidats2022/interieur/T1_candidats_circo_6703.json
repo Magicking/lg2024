@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Imene",
+        "NomPsn":"SFAXI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Joëlle",
+        "NomPsn":"GAUBERT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

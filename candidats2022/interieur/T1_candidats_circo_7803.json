@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"NIEBEL",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"CUIGNET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

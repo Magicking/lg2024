@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"16",
+        "LibDpt":"Charente",
+        "CodCirElec":"1602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Daphné",
+        "NomPsn":"GORIAUX",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"16",
+        "LibDpt":"Charente",
+        "CodCirElec":"1602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Jean-Hubert",
+        "NomPsn":"LELIÈVRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

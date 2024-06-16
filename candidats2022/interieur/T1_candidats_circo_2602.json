@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"26",
+        "LibDpt":"Drôme",
+        "CodCirElec":"2602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"BATTESTI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"26",
+        "LibDpt":"Drôme",
+        "CodCirElec":"2602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"ARNAVON",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"26",
+        "LibDpt":"Drôme",
+        "CodCirElec":"2602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Salim",
+        "NomPsn":"BOUZIANE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"D'ANGIO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"COCAIGN",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"PAPPALARDO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

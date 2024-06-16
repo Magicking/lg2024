@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Delphine",
+        "NomPsn":"PIERQUIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"15",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"LUCE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"17",
+        "PrenomPsn":"Prévert",
+        "NomPsn":"MAYENGO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

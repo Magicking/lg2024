@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"SAVRY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

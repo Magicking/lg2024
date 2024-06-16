@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"PARIS",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Franck",
+        "NomPsn":"BONHOMME",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"14",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"DOVICHI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

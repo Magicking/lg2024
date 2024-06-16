@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8003",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Marine",
+        "NomPsn":"MASSONNEAU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8003",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"François",
+        "NomPsn":"MIRAMONT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8003",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"MAQUET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Florian",
+        "NomPsn":"COLOM",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"TAFFARELLI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

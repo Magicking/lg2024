@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"VALENTIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Emmanuelle",
+        "NomPsn":"POUMEAU DE LAFFOREST",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

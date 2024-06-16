@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7204",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"FRANCO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7204",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"BUARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

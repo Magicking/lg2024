@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"82",
+        "LibDpt":"Tarn-et-Garonne",
+        "CodCirElec":"8201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Claude",
+        "NomPsn":"VIGOUROUX",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"82",
+        "LibDpt":"Tarn-et-Garonne",
+        "CodCirElec":"8201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Luc",
+        "NomPsn":"FRANCEZ-CHARLOT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

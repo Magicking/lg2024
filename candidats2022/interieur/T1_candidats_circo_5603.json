@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Benoît",
+        "NomPsn":"QUÉRO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Yoann",
+        "NomPsn":"LOPEZ",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Régis",
+        "NomPsn":"LE GALL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

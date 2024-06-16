@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Sylvio",
+        "NomPsn":"VALENTE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Geoffrey",
+        "NomPsn":"CARVALHINHO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

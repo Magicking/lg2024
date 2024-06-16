@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7811",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"BENASSAYA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7811",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"ARNAUD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

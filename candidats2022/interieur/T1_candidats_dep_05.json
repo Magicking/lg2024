@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Patricia",
+        "NomPsn":"HOURS",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Kevin",
+        "NomPsn":"PARA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Margot",
+        "NomPsn":"PELISSIER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Carole",
+        "NomPsn":"CHAUVET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3809",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"GATTAZ",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3809",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"SEROR",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

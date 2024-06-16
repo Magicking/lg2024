@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"William",
+        "NomPsn":"BERTRAND",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Marie-Dominique",
+        "NomPsn":"PERCHET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

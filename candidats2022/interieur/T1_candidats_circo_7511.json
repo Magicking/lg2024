@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7511",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Marie-Claire",
+        "NomPsn":"CARRERE-GEE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7511",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Franck",
+        "NomPsn":"LAYRÉ-CASSOU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

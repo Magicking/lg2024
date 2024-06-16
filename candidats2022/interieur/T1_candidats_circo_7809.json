@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7809",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"LE HOT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7809",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Babette",
+        "NomPsn":"DE ROZIERES",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7809",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Rachid",
+        "NomPsn":"ZEROUALI",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7809",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Pauline",
+        "NomPsn":"WINOCOUR LEFEVRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

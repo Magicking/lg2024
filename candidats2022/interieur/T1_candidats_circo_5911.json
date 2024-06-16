@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Michel",
+        "NomPsn":"PLOUY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Eddy",
+        "NomPsn":"CASTERMAN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Sebastien",
+        "NomPsn":"FIEY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

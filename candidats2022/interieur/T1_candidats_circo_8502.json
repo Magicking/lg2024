@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"ORIZET-VIEILLEFOND",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"LOISEAU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Maxence",
+        "NomPsn":"DE RUGY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Brigitte",
+        "NomPsn":"NEVEUX",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Béatrice",
+        "NomPsn":"DE MONTILLE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"DELUCENAY",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

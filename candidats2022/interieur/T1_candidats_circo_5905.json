@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5905",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Hugues",
+        "NomPsn":"SION",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5905",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"HUYGHE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6604",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"TRUCHET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6604",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"GALAN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

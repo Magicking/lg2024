@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6908",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Marie",
+        "NomPsn":"DE PENFENTENYO DE KERVÉRÉGUIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6908",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"SERRE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

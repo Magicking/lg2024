@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0606",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"TRASTOUR-ISNART",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0606",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"TOUZEAU-MENONI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0606",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Denis",
+        "NomPsn":"CIESLIK",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

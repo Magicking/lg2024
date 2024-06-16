@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean Michel",
+        "NomPsn":"PÉROUX",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Alexandra",
+        "NomPsn":"BOTTON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"FORISSIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

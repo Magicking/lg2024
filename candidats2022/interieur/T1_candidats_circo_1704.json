@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean",
+        "NomPsn":"ROBIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Françoise",
+        "NomPsn":"DE ROFFIGNAC",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"LOTH",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1704",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"MARS",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

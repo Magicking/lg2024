@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"AUDISIO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Cecile",
+        "NomPsn":"DUFRAISSE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

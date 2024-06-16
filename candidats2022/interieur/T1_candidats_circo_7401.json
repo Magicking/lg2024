@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Aurélia",
+        "NomPsn":"PATTY GOMILA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"JAMBARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Béatrice",
+        "NomPsn":"LASSERRE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Monique",
+        "NomPsn":"HUON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

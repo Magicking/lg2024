@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"GARCIA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Louis",
+        "NomPsn":"BLEUZÉ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Marcellin",
+        "NomPsn":"BRAZON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

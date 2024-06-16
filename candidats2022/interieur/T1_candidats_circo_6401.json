@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"64",
+        "LibDpt":"Pyrénées-Atlantiques",
+        "CodCirElec":"6401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"LAFARGUE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"64",
+        "LibDpt":"Pyrénées-Atlantiques",
+        "CodCirElec":"6401",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Juliette",
+        "NomPsn":"GILLOT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

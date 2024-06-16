@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jean-Michel",
+        "NomPsn":"FARGE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"David",
+        "NomPsn":"YTIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

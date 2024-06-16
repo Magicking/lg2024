@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Maxence",
+        "NomPsn":"BRINGUIER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Alexandra",
+        "NomPsn":"DUBLANCHE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Amélie",
+        "NomPsn":"THEROND KERAUDREN",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9411",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sarah",
+        "NomPsn":"MILAMON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9411",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Mahrouf",
+        "NomPsn":"BOUNEGTA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9411",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Dany-Laure",
+        "NomPsn":"LAVILLETTE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

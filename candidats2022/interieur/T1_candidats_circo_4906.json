@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Marie",
+        "NomPsn":"DURAND",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Bernadette",
+        "NomPsn":"HUMEAU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Geneviève",
+        "NomPsn":"GAILLARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Djemi",
+        "NomPsn":"DRICI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Christine",
+        "NomPsn":"TROIA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

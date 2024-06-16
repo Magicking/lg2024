@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5909",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"GODDYN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5909",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"PAPIACHVILI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9209",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Julien",
+        "NomPsn":"DESNOS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9209",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"BESSIÈRES",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9209",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"LOUAP",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9209",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Antoine",
+        "NomPsn":"DE JERPHANION",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

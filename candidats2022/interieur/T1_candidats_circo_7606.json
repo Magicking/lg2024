@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7606",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Renaud",
+        "NomPsn":"THÉRON",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7606",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Claire",
+        "NomPsn":"COPPIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7606",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Robin",
+        "NomPsn":"DEVOGELAERE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Salomé",
+        "NomPsn":"BENYAMIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"CALABRO",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"83",
+        "LibDpt":"Var",
+        "CodCirElec":"8303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"RIALLAND",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

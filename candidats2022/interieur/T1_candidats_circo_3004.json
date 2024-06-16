@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Aurélie",
+        "NomPsn":"WAGNER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Gaël",
+        "NomPsn":"GIRARD",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Dominique Richard",
+        "NomPsn":"PASSIEU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"DE FARIA",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

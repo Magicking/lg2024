@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Marc",
+        "NomPsn":"MORIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Alexane",
+        "NomPsn":"ISNARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Christele",
+        "NomPsn":"PORTELAS LEPELLETIER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Elena",
+        "NomPsn":"CHRISTMANN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"17",
+        "PrenomPsn":"Audrey",
+        "NomPsn":"ROZENHAFT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6806",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"SEVIN",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6806",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Sylvain",
+        "NomPsn":"MARCELLI",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6806",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Yvan",
+        "NomPsn":"ZILL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6806",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Anne",
+        "NomPsn":"GERHART",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2905",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Félix",
+        "NomPsn":"BRIANT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2905",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Thierry-Hubert",
+        "NomPsn":"LOLLIÉROU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

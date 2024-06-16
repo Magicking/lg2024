@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7812",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"François",
+        "NomPsn":"MOUTOT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"78",
+        "LibDpt":"Yvelines",
+        "CodCirElec":"7812",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Sabine",
+        "NomPsn":"CLÉMENT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Marie-Luce",
+        "NomPsn":"PENCHARD",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Cédric",
+        "NomPsn":"LOUPADIERE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Christian",
+        "NomPsn":"ZOZIO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Christine",
+        "NomPsn":"HOUBLON",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7709",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Guy",
+        "NomPsn":"GEOFFROY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7709",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Bruno-Charles",
+        "NomPsn":"DELALANDRE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

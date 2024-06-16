@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"BOIGARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"JULIEN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"MARTINEZ",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

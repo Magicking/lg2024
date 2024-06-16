@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9506",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Anaïs",
+        "NomPsn":"FERDEL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9506",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"FLAMENT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9506",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"ELIMAS",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

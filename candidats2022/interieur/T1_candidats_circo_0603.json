@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"VARDON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"CASTILLO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

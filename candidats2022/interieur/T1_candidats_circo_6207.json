@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6207",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"LEPRETRE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6207",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Pierre-Henri",
+        "NomPsn":"DUMONT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6207",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"BERTELOOT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1309",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"LEGUEM",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1309",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Roland",
+        "NomPsn":"GIBERTI",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1309",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Giovanni",
+        "NomPsn":"SCHIPANI",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1309",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"14",
+        "PrenomPsn":"Amélie",
+        "NomPsn":"BREGEON",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

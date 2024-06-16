@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Régis",
+        "NomPsn":"BARBIÉ DE PRÉAUDEAU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Maël",
+        "NomPsn":"TOURNADE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

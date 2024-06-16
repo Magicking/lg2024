@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Yannick",
+        "NomPsn":"NEUDER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Hugo",
+        "NomPsn":"GAGNIEU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

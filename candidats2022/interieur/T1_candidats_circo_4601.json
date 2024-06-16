@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Patrice",
+        "NomPsn":"MAURY",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Monique",
+        "NomPsn":"GOUSSU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4601",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Aurélien",
+        "NomPsn":"PRADIÉ",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

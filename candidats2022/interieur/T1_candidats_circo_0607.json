@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0607",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Eric",
+        "NomPsn":"PAUGET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0607",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Audrey",
+        "NomPsn":"MARIUS",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0607",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Bérengère",
+        "NomPsn":"HUMBERT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

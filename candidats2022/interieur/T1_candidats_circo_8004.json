@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"JACQUES",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"MAGUIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

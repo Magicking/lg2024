@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Charles",
+        "NomPsn":"ASCARINO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Paul",
+        "NomPsn":"VIDAL",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Aude",
+        "NomPsn":"ROSSOLINI",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7516",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Marie",
+        "NomPsn":"TOUBIANA",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7516",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"FOURNIER",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7516",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"DESGRANGE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

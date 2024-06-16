@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5916",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Mady",
+        "NomPsn":"DORCHIES",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5916",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Tanneguy",
+        "NomPsn":"ADRIENCENSE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

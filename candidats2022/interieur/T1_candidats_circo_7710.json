@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7710",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"DERVAUX",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7710",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Ingrid",
+        "NomPsn":"CAILLIS-BRANDL",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

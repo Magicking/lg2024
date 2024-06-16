@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"POIRSON",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2701",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"ALORY",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

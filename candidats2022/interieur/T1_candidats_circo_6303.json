@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Élisabeth",
+        "NomPsn":"WATREMEZ",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Mathilde",
+        "NomPsn":"HENRY",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Marie-Anne",
+        "NomPsn":"MARCHIS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

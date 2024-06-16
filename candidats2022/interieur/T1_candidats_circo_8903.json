@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"LOUIS-STOKOBER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"PIRMAN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"FRANTZ",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

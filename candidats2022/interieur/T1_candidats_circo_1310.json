@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean-Philippe",
+        "NomPsn":"COURTARO",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"COUTENET",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Serge",
+        "NomPsn":"PEROTTINO",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

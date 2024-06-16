@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6914",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Mokrane",
+        "NomPsn":"KESSI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6914",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"ATTAL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

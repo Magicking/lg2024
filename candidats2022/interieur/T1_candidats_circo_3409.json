@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3409",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Maya",
+        "NomPsn":"BOUISSET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3409",
+        "LibCirElec":"9ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"BOUSCARAIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

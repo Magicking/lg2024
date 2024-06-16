@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6006",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Anne-Sophie",
+        "NomPsn":"FONTAINE",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6006",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Guy-Eric",
+        "NomPsn":"IMBERT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6006",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Marc-Antoine",
+        "NomPsn":"MAB-BREKIESZ",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

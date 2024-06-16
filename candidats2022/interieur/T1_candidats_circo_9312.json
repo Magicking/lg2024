@@ -1,0 +1,17 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9312",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Pierre, Marie",
+        "NomPsn":"SALLE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

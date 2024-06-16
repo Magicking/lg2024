@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3307",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Benoît",
+        "NomPsn":"RAUTUREAU",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3307",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Dany",
+        "NomPsn":"BONNET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

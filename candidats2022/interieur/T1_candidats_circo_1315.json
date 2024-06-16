@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Bernard",
+        "NomPsn":"REYNÈS",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Nadia",
+        "NomPsn":"OUKKAL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Audrey",
+        "NomPsn":"MARCHAND",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

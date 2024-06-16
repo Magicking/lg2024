@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7302",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Jordan",
+        "NomPsn":"CHENU",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7302",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Anne-Sophie",
+        "NomPsn":"WURTZ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7302",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"ROLLAND",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

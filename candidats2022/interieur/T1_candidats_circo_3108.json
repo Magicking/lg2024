@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3108",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Wilfried",
+        "NomPsn":"SERRE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3108",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Yves",
+        "NomPsn":"RIERE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

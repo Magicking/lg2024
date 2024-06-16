@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Béatrice",
+        "NomPsn":"DESCAMPS",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"LASSELIN",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Corinne",
+        "NomPsn":"LAIRÉ",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"FORESTIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"GROUSSARD",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

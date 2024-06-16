@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"ROBERT",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Jean François",
+        "NomPsn":"NATIVEL",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"BACHOU",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"PERROY",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"DELATRE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8505",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Yveline",
+        "NomPsn":"THIBAUD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

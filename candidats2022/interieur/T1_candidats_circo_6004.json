@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Arnaud",
+        "NomPsn":"DUMONTIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"MEESCHAERT",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"BASSINOT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6004",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"REYNAL",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

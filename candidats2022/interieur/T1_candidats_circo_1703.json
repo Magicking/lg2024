@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"GIRAUD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Maurice",
+        "NomPsn":"PINEAU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"DIETZ",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

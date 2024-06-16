@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"EUGÈNE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Florence",
+        "NomPsn":"TRIBOULET",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Jade",
+        "NomPsn":"GILQUIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

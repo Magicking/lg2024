@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Andrijana",
+        "NomPsn":"TOPUZOVIC",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"LE GUEVEL",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

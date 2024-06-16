@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"TARANTO",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"PIUSSAN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"BONNEMAISON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"ALVES",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

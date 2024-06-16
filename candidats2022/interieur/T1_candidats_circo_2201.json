@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Pierre-Yves",
+        "NomPsn":"THOMAS",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"BRIEND",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"SIMELIERE",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"14",
+        "PrenomPsn":"Romain",
+        "NomPsn":"FALIGOT",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Ghislaine",
+        "NomPsn":"BOURLAND",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"RESPAUD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Baptiste",
+        "NomPsn":"MARQUIE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3110",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Réda",
+        "NomPsn":"ZITOUNI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

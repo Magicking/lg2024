@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7512",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Benoît",
+        "NomPsn":"DE CLINCHAMP-BELLEGARDE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7512",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"LORIAU",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

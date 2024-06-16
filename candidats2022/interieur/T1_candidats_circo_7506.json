@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7506",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Victor",
+        "NomPsn":"MELDENER",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7506",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Yasmin",
+        "NomPsn":"BERROUBA",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7506",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Jean-Christophe",
+        "NomPsn":"MARTIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

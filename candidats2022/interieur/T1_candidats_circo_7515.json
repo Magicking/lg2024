@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7515",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"HOUPLAIN",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7515",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"François-Marie",
+        "NomPsn":"DIDIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7515",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"ARAGON",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"BASSIRE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Didier",
+        "NomPsn":"TÉCHER",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Patrice",
+        "NomPsn":"THIEN-AH-KOON",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

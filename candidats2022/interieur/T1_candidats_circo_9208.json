@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9208",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Chantal",
+        "NomPsn":"TARANNE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9208",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Cécile",
+        "NomPsn":"RICHEZ",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

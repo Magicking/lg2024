@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5913",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"DE MIRIBEL",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5913",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Eugénie",
+        "NomPsn":"MADELAINE",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Alain",
+        "NomPsn":"RAMADIER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Leïla",
+        "NomPsn":"ABDELLAOUI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Mohamed",
+        "NomPsn":"BOUNOUA",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Praince Germain",
+        "NomPsn":"LOUBOTA",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]
