@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Didier",
+        "NomPsn":"Leprince",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"Richard",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":"Olivier Richard est conseiller municipal à Troyes"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"Girardin",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#ff6daa",
+        "Sortant":null,
+        "Details":"Olivier Girardin est maire de La Chapelle Saint-Luc"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Angélique",
+        "NomPsn":"Ranc",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    }
+]

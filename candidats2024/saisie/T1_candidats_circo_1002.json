@@ -1,0 +1,41 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Salomé",
+        "NomPsn":"Fontaine-Garcia",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":null,
+        "Details":"Présidente du mouvement territorial Modem dans l'Aube"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"Bazin-Malgras",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"10",
+        "LibDpt":"Aube",
+        "CodCirElec":"1002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#ff6daa",
+        "Sortant":null,
+        "Details":"Le nom du candidat n'est pas encore connu. La NUPES était déjà représentée par LFI dans cette circonscription en 2022."
+    }
+]
