@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"BARREZ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Jimi",
+        "NomPsn":"EROTICO",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"PARMENTIER-LECOQ",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Célia",
+        "NomPsn":"PEREIRA",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Marie-Hélène",
+        "NomPsn":"QUATREBOEUFS",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

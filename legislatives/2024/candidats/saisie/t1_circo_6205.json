@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"PONT",
+        "LibNuaCand":"Ensemble pour la République",
+        "Couleur":null,
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"BARBARIN",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Antoine",
+        "NomPsn":"GOLLIOT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"LANGLET",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Luc",
+        "NomPsn":"VIUDES",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]
