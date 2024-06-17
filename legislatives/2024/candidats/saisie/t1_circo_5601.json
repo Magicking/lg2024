@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"LE HÉNANFF",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"GALLO",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Yann",
+        "NomPsn":"LE BARAILLEC",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Ronan",
+        "NomPsn":"LE SANT",
+        "LibNuaCand":"Parti Breton",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Joseph",
+        "NomPsn":"MARTIN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"PESCHANSKI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"56",
+        "LibDpt":"Morbihan",
+        "CodCirElec":"5601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alice",
+        "NomPsn":"VASSEUR ",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]

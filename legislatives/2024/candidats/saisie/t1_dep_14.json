@@ -241,9 +241,9 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Christophe",
         "NomPsn":"BLANCHET",
-        "LibNuaCand":null,
-        "Couleur":null,
-        "Sortant":null,
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
         "Details":null
     },
     {
@@ -254,8 +254,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"François",
         "NomPsn":"BUISSON",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
         "Sortant":null,
         "Details":null
     },
@@ -267,8 +267,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Pascale",
         "NomPsn":"DEUTSCH",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -306,8 +306,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Pierre",
         "NomPsn":"MOURARET",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
         "Sortant":null,
         "Details":null
     },

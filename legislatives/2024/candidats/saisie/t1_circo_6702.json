@@ -11,5 +11,18 @@
         "Couleur":"#db1616",
         "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]
