@@ -1,0 +1,41 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sandra",
+        "NomPsn":"GERMAIN",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Julien",
+        "NomPsn":"GUIBERT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marc-Alexandre",
+        "NomPsn":"VINCENT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]
