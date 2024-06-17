@@ -24,5 +24,18 @@
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Christine",
+        "NomPsn":"LE BONTÉ",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
     }
 ]

@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"DIRX",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Rachel",
+        "NomPsn":"DREVET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
