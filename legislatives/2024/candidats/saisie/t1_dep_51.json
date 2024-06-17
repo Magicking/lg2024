@@ -345,9 +345,9 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Gaël",
         "NomPsn":"PADIOU",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
-        "Details":null
+        "Details":"directeur de cabinet du maire PS de Vitry le François"
     }
 ]
