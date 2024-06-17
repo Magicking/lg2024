@@ -1190,8 +1190,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Yves",
         "NomPsn":"HEMEDINGER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

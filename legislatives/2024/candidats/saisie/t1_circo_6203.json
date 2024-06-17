@@ -7,8 +7,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"TELLIER",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
         "Sortant":"sortant",
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"François",
         "NomPsn":"QUESTE",
-        "LibNuaCand":"Ensemble pour la République",
-        "Couleur":"\t#45b3ab",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     }
