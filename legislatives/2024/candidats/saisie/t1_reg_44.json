@@ -707,19 +707,6 @@
         "LibDpt":"Bas-Rhin",
         "CodCirElec":"6701",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Sandra",
-        "NomPsn":"REGOL",
-        "LibNuaCand":"Nouveau Front populaire (EELV)",
-        "Couleur":"#04B34D",
-        "Sortant":"sortante",
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"67",
-        "LibDpt":"Bas-Rhin",
-        "CodCirElec":"6701",
-        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"ARBOGAST",
         "LibNuaCand":null,
@@ -907,19 +894,6 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"67",
-        "LibDpt":"Bas-Rhin",
-        "CodCirElec":"6702",
-        "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Emmanuel",
-        "NomPsn":"FERNANDES",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
-        "Couleur":"#db1616",
-        "Sortant":"sortant",
         "Details":null
     },
     {

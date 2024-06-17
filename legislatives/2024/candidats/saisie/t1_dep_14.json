@@ -7,8 +7,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Joël",
         "NomPsn":"BRUNEAU",
-        "LibNuaCand":"Divers droite",
-        "Couleur":"#0099FF",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Matéo",
         "NomPsn":"LELOUP",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Cédric",
         "NomPsn":"BAZINCOURT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
         "Sortant":null,
         "Details":null
     },
@@ -98,8 +98,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Grégory",
         "NomPsn":"BERKOVICZ",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },

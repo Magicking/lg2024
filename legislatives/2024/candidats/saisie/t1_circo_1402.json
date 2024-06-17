@@ -20,8 +20,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Cédric",
         "NomPsn":"BAZINCOURT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
         "Sortant":null,
         "Details":null
     },
@@ -33,8 +33,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Grégory",
         "NomPsn":"BERKOVICZ",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },

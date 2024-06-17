@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"CHABERT",
+        "LibNuaCand":"LR - UDI - Les Centristes",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Florence",
+        "NomPsn":"HEROUIN-LEAUTAY",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jody",
+        "NomPsn":"HORCHOLLE",
+        "LibNuaCand":"Écologistes",
+        "Couleur":"#2ECC2E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7601",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Christian",
+        "NomPsn":"SAVEY",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

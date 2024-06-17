@@ -59,8 +59,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Georges",
         "NomPsn":"MEZUI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
