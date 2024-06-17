@@ -46,10 +46,10 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Lucila",
         "NomPsn":"GRAU",
-        "LibNuaCand":null,
+        "LibNuaCand":"Front catalan",
         "Couleur":null,
         "Sortant":null,
-        "Details":"Front Catalan"
+        "Details":null
     },
     {
         "NumTour":"1",

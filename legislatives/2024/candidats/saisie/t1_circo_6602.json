@@ -33,10 +33,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Mercedes",
         "NomPsn":"GARCIA",
-        "LibNuaCand":null,
+        "LibNuaCand":"Front catalan",
         "Couleur":null,
         "Sortant":null,
-        "Details":"Front Catalan"
+        "Details":null
     },
     {
         "NumTour":"1",
