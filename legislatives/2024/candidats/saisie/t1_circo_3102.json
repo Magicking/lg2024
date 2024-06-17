@@ -5,6 +5,19 @@
         "LibDpt":"Haute-Garonne",
         "CodCirElec":"3102",
         "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Anne ",
+        "NomPsn":"STAMBACH-TERRENOIR",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3102",
+        "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Clotilde",
         "NomPsn":" BARTHÉLÉMY",
         "LibNuaCand":"Lutte ouvrière",
@@ -74,19 +87,6 @@
         "NomPsn":" NESTIER",
         "LibNuaCand":null,
         "Couleur":null,
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"31",
-        "LibDpt":"Haute-Garonne",
-        "CodCirElec":"3102",
-        "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Anne ",
-        "NomPsn":"STAMBACH-TERRENOIR",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
-        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     }
