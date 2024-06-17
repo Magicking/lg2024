@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Véronique ",
+        "NomPsn":"RIOTTON",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Anne-Valérie",
+        "NomPsn":"DUVAL",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"ESPIC",
+        "LibNuaCand":"Gilets jaunes",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"MATTEI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Claudine",
+        "NomPsn":"MOLIN",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"ROIT-LEVÊQUE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
