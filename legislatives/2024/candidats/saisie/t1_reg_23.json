@@ -254,8 +254,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Florence",
         "NomPsn":"HEROUIN-LEAUTAY",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -309,7 +309,7 @@
         "LibNuaCand":"Divers gauche",
         "Couleur":"#de3c80",
         "Sortant":null,
-        "Details":null
+        "Details":"République souveraine"
     },
     {
         "NumTour":"1",
@@ -332,8 +332,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Vincent",
         "NomPsn":"DECORDE",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -722,8 +722,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Florence",
         "NomPsn":"MARTIN PÉRÉON",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
