@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Céline",
+        "NomPsn":"CELCE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"DESHAIES",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Martin",
+        "NomPsn":"LEFÈVRE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Adrien",
+        "NomPsn":"MORENAS",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Catherine",
+        "NomPsn":"RIMBERT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

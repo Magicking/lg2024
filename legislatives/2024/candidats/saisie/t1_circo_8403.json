@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"DE LÉPINAU",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Muriel",
+        "NomPsn":"DUENAS",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"HELLEU",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Louis",
+        "NomPsn":"ROUSSEL",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"TONNAIRE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"84",
+        "LibDpt":"Vaucluse",
+        "CodCirElec":"8403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Souad",
+        "NomPsn":"ZITOUNI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
