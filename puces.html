@@ -19,14 +19,17 @@ const url = new URL(currentUrl);
 const params = new URLSearchParams(url.search);
 
 // Récupérer les valeurs des paramètres
+
+const scrutin = params.get('scrutin');
+const type = params.get('type');
+const annee = params.get('annee');
 const source = params.get('source');
 const zone = params.get('zone');
-const annee = params.get('annee');
 const tour = params.get('tour');
 
 
         document.addEventListener("DOMContentLoaded", function() {
-            fetch(`https://raw.githubusercontent.com/f3reg/lg2024/master/candidats${annee}/${source}/T${tour}_candidats_${zone}.json`)
+            fetch(`https://raw.githubusercontent.com/f3reg/lg2024/main/${scrutin}/${annee}/${type}/${source}/t${tour}_${zone}.json`)
                 .then(response => response.json())
                 .then(data => {
                     generateHTML(data);
