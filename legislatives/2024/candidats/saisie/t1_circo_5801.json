@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Perrine",
+        "NomPsn":"GOULET",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Baptiste",
+        "NomPsn":"DUBOST",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Charles-Henri",
+        "NomPsn":"GALLOIS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Brice",
+        "NomPsn":"LARÈPE",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Chantal",
+        "NomPsn":"VARELA",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    }
+]
