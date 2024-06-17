@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"VIGIER",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anne-Laure",
+        "NomPsn":"ASSAYAG",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Sylviane",
+        "NomPsn":"BOËNS",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"LHOPITEAU",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Roger",
+        "NomPsn":"PECOUT",
+        "LibNuaCand":"À droite les amis d'Éric Ciotti",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
