@@ -20,7 +20,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"ARBOGAST",
-        "LibNuaCand":null,
+        "LibNuaCand":"Égalité active",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1216,8 +1216,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Thiébault",
         "NomPsn":"ZITVOGEL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -1268,8 +1268,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"BURGEL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },

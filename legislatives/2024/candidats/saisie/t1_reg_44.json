@@ -803,7 +803,7 @@
         "LibNuaCand":"Nouveau Front populaire (PS)",
         "Couleur":"#fa6daa",
         "Sortant":null,
-        "Details":"En 2022, la NUPES était représentée par une candidate LFI dans cette circonscription."
+        "Details":"Directeur de la stratégie et du marketing éditorial à la mairie de Vitry le François. En 2022, la NUPES était représentée par une candidate LFI dans cette circonscription."
     },
     {
         "NumTour":"1",
@@ -943,7 +943,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"ARBOGAST",
-        "LibNuaCand":null,
+        "LibNuaCand":"Égalité active",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -2139,8 +2139,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Thiébault",
         "NomPsn":"ZITVOGEL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -2191,8 +2191,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"BURGEL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },

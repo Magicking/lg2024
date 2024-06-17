@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7102",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Josiane",
+        "NomPsn":"CORNELOUP",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7102",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"BERTHELOT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7102",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"DAMIEN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7102",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"GAUTHERON",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7102",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Raymond",
+        "NomPsn":"ZEKPA",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]
