@@ -5,6 +5,19 @@
         "LibDpt":"Puy-de-Dôme",
         "CodCirElec":"6303",
         "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"VICHNIEVSKY",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6303",
+        "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Nicolas",
         "NomPsn":"BONNET",
         "LibNuaCand":"Nouveau Front populaire (EELV)",
@@ -87,19 +100,6 @@
         "NomPsn":"SAVRE",
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"63",
-        "LibDpt":"Puy-de-Dôme",
-        "CodCirElec":"6303",
-        "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Laurence",
-        "NomPsn":"VICHNIEVSKY",
-        "LibNuaCand":"Ensemble - MoDem",
-        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     }
