@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"VIGIER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Antoine",
+        "NomPsn":"BREBION",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"André",
+        "NomPsn":"CHAPAVAIRE",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Suzanne",
+        "NomPsn":"FOURETS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Patricia",
+        "NomPsn":"GIRE-JOUBERT",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

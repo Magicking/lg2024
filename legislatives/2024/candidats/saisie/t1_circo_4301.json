@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Electre",
+        "NomPsn":"DARCOS",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Celline",
+        "NomPsn":"GACON",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Cécile",
+        "NomPsn":"GALLION",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"HEUZEY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"43",
+        "LibDpt":"Haute-Loire",
+        "CodCirElec":"4301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"WAUQUIEZ",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

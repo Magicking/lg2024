@@ -660,7 +660,7 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":"Nicolas Lacroix est président (LR) du conseil départemental de la Haute-Marne"
+        "Details":"1404"
     },
     {
         "NumTour":"1",
@@ -1175,11 +1175,11 @@
         "LibDpt":"Haut-Rhin",
         "CodCirElec":"6805",
         "LibCirElec":"5ème circonscription",
-        "PrenomPsn":"Jean-Frédéric",
-        "NomPsn":"BAECHLER",
-        "LibNuaCand":null,
-        "Couleur":null,
-        "Sortant":null,
+        "PrenomPsn":"Olivier",
+        "NomPsn":"BECHT",
+        "LibNuaCand":"Ensemble - Agir",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
         "Details":null
     },
     {
@@ -1188,10 +1188,10 @@
         "LibDpt":"Haut-Rhin",
         "CodCirElec":"6805",
         "LibCirElec":"5ème circonscription",
-        "PrenomPsn":"Olivier",
-        "NomPsn":"BECHT",
-        "LibNuaCand":"Ensemble - Agir",
-        "Couleur":"#9859fc",
+        "PrenomPsn":"Jean-Frédéric",
+        "NomPsn":"BAECHLER",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -1292,6 +1292,19 @@
         "LibDpt":"Haut-Rhin",
         "CodCirElec":"6806",
         "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"FUCHS",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6806",
+        "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Pascal",
         "NomPsn":"BLUM",
         "LibNuaCand":null,
@@ -1309,19 +1322,6 @@
         "NomPsn":"CLAUDEPIERRE",
         "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"68",
-        "LibDpt":"Haut-Rhin",
-        "CodCirElec":"6806",
-        "LibCirElec":"6ème circonscription",
-        "PrenomPsn":"Bruno",
-        "NomPsn":"FUCHS",
-        "LibNuaCand":"Modem",
-        "Couleur":"#ff8400",
         "Sortant":null,
         "Details":null
     },

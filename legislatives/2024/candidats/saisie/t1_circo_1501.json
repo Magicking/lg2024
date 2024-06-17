@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"DESCOEUR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Jacques",
+        "NomPsn":"BRUXELLE",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Rémy",
+        "NomPsn":"DAUVILLIER",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Dorothée",
+        "NomPsn":"GALLAIS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"RUEDA",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Denis",
+        "NomPsn":"SABOT",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

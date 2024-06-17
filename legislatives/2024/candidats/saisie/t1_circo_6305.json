@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6305",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"BASTET",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6305",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Gabrielle",
+        "NomPsn":"CAPRON",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6305",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Brigitte",
+        "NomPsn":"CARLETTO",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6305",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"André",
+        "NomPsn":"CHASSAIGNE",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"63",
+        "LibDpt":"Puy-de-Dôme",
+        "CodCirElec":"6305",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Yves",
+        "NomPsn":"COURTALHIAC",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]
