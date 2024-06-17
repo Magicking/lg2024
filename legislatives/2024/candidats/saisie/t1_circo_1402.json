@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Arthur",
+        "NomPsn":"DELAPORTE",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Cédric",
+        "NomPsn":"BAZINCOURT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Grégory",
+        "NomPsn":"BERKOVICZ",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Camille",
+        "NomPsn":"BROU",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"GARCIA",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Josseline",
+        "NomPsn":"LIBAN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
