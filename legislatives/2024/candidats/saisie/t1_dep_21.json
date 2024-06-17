@@ -332,8 +332,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Nicolas",
         "NomPsn":"BAUDOT",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Jeunesse des campagnes",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"MAQUET",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Léon",
+        "NomPsn":"DEFFONTAINES",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    }
+]

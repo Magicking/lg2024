@@ -1,0 +1,41 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Ingrid",
+        "NomPsn":"DORDAIN",
+        "LibNuaCand":"En commun !",
+        "Couleur":null,
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Hubert",
+        "NomPsn":"DE JENLIS",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Zahia",
+        "NomPsn":"HAMDANE",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

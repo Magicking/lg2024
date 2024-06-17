@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Jean-Philippe",
+        "NomPsn":"TANGUY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anthony",
+        "NomPsn":"GEST",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]
