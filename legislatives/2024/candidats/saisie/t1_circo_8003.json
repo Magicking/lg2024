@@ -24,5 +24,18 @@
         "Couleur":"#C50F1E",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"MARIAGE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]

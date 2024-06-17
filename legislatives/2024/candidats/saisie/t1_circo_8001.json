@@ -11,5 +11,57 @@
         "Couleur":null,
         "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Patrick",
+        "NomPsn":"BAUDRY",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Albane",
+        "NomPsn":"BRANLANT",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"DUMONT",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"80",
+        "LibDpt":"Somme",
+        "CodCirElec":"8001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"RIBEIRO BILLET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
     }
 ]

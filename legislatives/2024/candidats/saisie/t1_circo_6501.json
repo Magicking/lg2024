@@ -18,10 +18,10 @@
         "LibDpt":"Hautes-Pyrénées",
         "CodCirElec":"6501",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Maria",
-        "NomPsn":" SAEZ ",
-        "LibNuaCand":"Lutte ouvrière",
-        "Couleur":"#AF0000",
+        "PrenomPsn":"Sylvie ",
+        "NomPsn":"FERRER ",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
         "Sortant":"sortante",
         "Details":null
     },
@@ -31,10 +31,10 @@
         "LibDpt":"Hautes-Pyrénées",
         "CodCirElec":"6501",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Sylvie ",
-        "NomPsn":"FERRER ",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
-        "Couleur":"#db1616",
+        "PrenomPsn":"Maria",
+        "NomPsn":"SAEZ ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":"sortante",
         "Details":null
     },
@@ -75,7 +75,7 @@
         "LibNuaCand":"Résistons !",
         "Couleur":null,
         "Sortant":null,
-        "Details":"Résistons !"
+        "Details":"Résistons ! L’appel de Jean Lassalle"
     },
     {
         "NumTour":"1",
