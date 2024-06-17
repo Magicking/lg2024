@@ -11,5 +11,83 @@
         "Couleur":"#005ce6",
         "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6007",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Agnès",
+        "NomPsn":"DINGIVAL",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6007",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Florence",
+        "NomPsn":"ITALIANI",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6007",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"David",
+        "NomPsn":"MAGNIER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6007",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"MONGIRAUD",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6007",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Loïc",
+        "NomPsn":"PEN",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6007",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Ophélie",
+        "NomPsn":"VAN ELSUWE",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
     }
 ]

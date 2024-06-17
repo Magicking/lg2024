@@ -11,5 +11,70 @@
         "Couleur":"#002E61",
         "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Ludovic",
+        "NomPsn":"CASTANIE",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"DELARBOULAS",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Mohamed",
+        "NomPsn":"EL AIYATE",
+        "LibNuaCand":"Écologie au centre",
+        "Couleur":"#04B34D",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Renée",
+        "NomPsn":"POTCHTOVIK",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6002",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marianne",
+        "NomPsn":"SECK",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
     }
 ]
