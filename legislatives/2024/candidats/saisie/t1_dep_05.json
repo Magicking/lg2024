@@ -72,8 +72,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Louis",
         "NomPsn":"ALBRAND",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -111,8 +111,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Johann",
         "NomPsn":"MONDAIN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -124,8 +124,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Valérie",
         "NomPsn":"ROSSI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     }

@@ -1606,8 +1606,8 @@
         "LibCirElec":"21ème circonscription",
         "PrenomPsn":"Valérie",
         "NomPsn":"LÉTARD",
-        "LibNuaCand":"LR - UDI - Les Centristes",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Union des démocrates et indépendants",
+        "Couleur":"#00FFFF",
         "Sortant":null,
         "Details":null
     },
@@ -2308,8 +2308,8 @@
         "LibCirElec":"9ème circonscription",
         "PrenomPsn":"Hakim",
         "NomPsn":"ELAZOUZI",
-        "LibNuaCand":"LR - UDI - Les Centristes",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Union des démocrates et indépendants",
+        "Couleur":"#00FFFF",
         "Sortant":null,
         "Details":"Adjoint au maire de Béthune"
     },

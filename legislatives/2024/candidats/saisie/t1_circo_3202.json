@@ -5,6 +5,19 @@
         "LibDpt":"Gers",
         "CodCirElec":"3202",
         "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"David ",
+        "NomPsn":"TAUPIAC",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Martine ",
         "NomPsn":"ARNAUDY",
         "LibNuaCand":null,
@@ -74,19 +87,6 @@
         "NomPsn":"NETO",
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"32",
-        "LibDpt":"Gers",
-        "CodCirElec":"3202",
-        "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"David ",
-        "NomPsn":"TAUPIAC",
-        "LibNuaCand":"Parti socialiste",
-        "Couleur":"#FD6DAA",
         "Sortant":null,
         "Details":null
     }

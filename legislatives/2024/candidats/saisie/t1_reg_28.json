@@ -166,7 +166,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Se déclare candidat \"RN-LR\"."
     },
     {
         "NumTour":"1",
@@ -202,10 +202,10 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Nathalie",
         "NomPsn":"PORTE",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
-        "Details":null
+        "Details":"Encartée aux Républicains, elle attend une clarification de M. Ciotti sur son partenariat avec le RN avant de s'afficher aux couleurs de LR."
     },
     {
         "NumTour":"1",
