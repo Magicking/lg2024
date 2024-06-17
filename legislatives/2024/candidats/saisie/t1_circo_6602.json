@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Anaïs",
+        "NomPsn":"SABATINI",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"David",
+        "NomPsn":"BERRUÉ",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Mercedes",
+        "NomPsn":"GARCIA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":"Front Catalan"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"GOISET",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Brigitte",
+        "NomPsn":"LAURENS",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"MÉDINA",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    }
+]
