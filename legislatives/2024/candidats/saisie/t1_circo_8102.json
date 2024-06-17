@@ -5,6 +5,19 @@
         "LibDpt":"Tarn",
         "CodCirElec":"8102",
         "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Karen",
+        "NomPsn":"ERODI",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8102",
+        "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Julien",
         "NomPsn":"BACOU",
         "LibNuaCand":"Rassemblement national",
@@ -37,19 +50,6 @@
         "Couleur":null,
         "Sortant":null,
         "Details":"Parti Occitan"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"81",
-        "LibDpt":"Tarn",
-        "CodCirElec":"8102",
-        "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"Karen",
-        "NomPsn":"ERODI",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
-        "Couleur":"#db1616",
-        "Sortant":null,
-        "Details":null
     },
     {
         "NumTour":"1",
