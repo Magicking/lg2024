@@ -57,36 +57,10 @@
         "LibDpt":"Aveyron",
         "CodCirElec":"1203",
         "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Pierre-Antoine ",
-        "NomPsn":"FEVRE",
-        "LibNuaCand":"Rassemblement national \/ Ciotti",
-        "Couleur":"#002E61",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"12",
-        "LibDpt":"Aveyron",
-        "CodCirElec":"1203",
-        "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Thierry",
         "NomPsn":"NOEL",
         "LibNuaCand":"Écologistes",
         "Couleur":"#2ECC2E",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"12",
-        "LibDpt":"Aveyron",
-        "CodCirElec":"1203",
-        "LibCirElec":"3ème circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":null,
-        "Couleur":null,
         "Sortant":null,
         "Details":null
     }
