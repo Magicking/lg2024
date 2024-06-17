@@ -5,6 +5,19 @@
         "LibDpt":"Nord",
         "CodCirElec":"5903",
         "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"SAINT-HUILE",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5903",
+        "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Sandra",
         "NomPsn":"DELANNOY",
         "LibNuaCand":"Rassemblement national",
@@ -35,19 +48,6 @@
         "NomPsn":"RONDEAUX",
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"59",
-        "LibDpt":"Nord",
-        "CodCirElec":"5903",
-        "LibCirElec":"3ème circonscription",
-        "PrenomPsn":"Benjamin",
-        "NomPsn":"SAINT-HUILE",
-        "LibNuaCand":"Divers gauche",
-        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     }

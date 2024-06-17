@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Stéphane ",
+        "NomPsn":"MAZARS",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Léon ",
+        "NomPsn":"THEBAULT",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Arlette ",
+        "NomPsn":"SAINT-AVIT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Philippe ",
+        "NomPsn":"CHARTIER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"12",
+        "LibDpt":"Aveyron",
+        "CodCirElec":"1201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Antoine ",
+        "NomPsn":"DA CRUZ ",
+        "LibNuaCand":"Résistons !",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

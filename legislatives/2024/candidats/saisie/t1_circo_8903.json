@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Julien",
+        "NomPsn":"ODOUL",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Michèle",
+        "NomPsn":"CROUZET",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Jean-Charles",
+        "NomPsn":"KERMIN",
+        "LibNuaCand":"Parti des travailleurs",
+        "Couleur":"#a41615",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Simone",
+        "NomPsn":"PALLANT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"SORET",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Annick",
+        "NomPsn":"VILBOIS",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Grégoire",
+        "NomPsn":"WEIGEL",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

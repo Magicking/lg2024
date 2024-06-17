@@ -18,7 +18,7 @@
         "LibDpt":"Nord",
         "CodCirElec":"5913",
         "LibCirElec":"13ème circonscription",
-        "PrenomPsn":"Clémence",
+        "PrenomPsn":"Clément",
         "NomPsn":"BÉZINE",
         "LibNuaCand":null,
         "Couleur":null,
@@ -33,7 +33,7 @@
         "LibCirElec":"13ème circonscription",
         "PrenomPsn":"Julien",
         "NomPsn":"GOKEL",
-        "LibNuaCand":"PS soutenu par Ensemble",
+        "LibNuaCand":"Parti socialiste",
         "Couleur":"#FD6DAA",
         "Sortant":null,
         "Details":null
@@ -46,8 +46,8 @@
         "LibCirElec":"13ème circonscription",
         "PrenomPsn":"Damien",
         "NomPsn":"LACROIX",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     }
