@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Luc-Étienne",
+        "NomPsn":"GOUSSEAU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Michel",
+        "NomPsn":"GUIRAL",
+        "LibNuaCand":"Résistons !",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":"Parti de Jean Lasalle"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"MOREL-À-L’HUISSIER",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"PANTEL",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Annie",
+        "NomPsn":"SOUCHON",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Dja",
+        "NomPsn":"ZIDOUN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
