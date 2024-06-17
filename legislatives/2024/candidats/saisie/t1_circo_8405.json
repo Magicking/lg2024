@@ -7,8 +7,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Céline",
         "NomPsn":"CELCE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Adrien",
         "NomPsn":"MORENAS",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Catherine",
         "NomPsn":"RIMBERT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     }

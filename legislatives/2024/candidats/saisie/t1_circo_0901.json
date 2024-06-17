@@ -5,11 +5,11 @@
         "LibDpt":"Ariège",
         "CodCirElec":"0901",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Jean-Marc ",
-        "NomPsn":"GARNIER",
-        "LibNuaCand":"Rassemblement national",
-        "Couleur":"#002E61",
-        "Sortant":"sortant",
+        "PrenomPsn":"Martine",
+        "NomPsn":" FROGER",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
         "Details":null
     },
     {
@@ -18,11 +18,11 @@
         "LibDpt":"Ariège",
         "CodCirElec":"0901",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Martine",
-        "NomPsn":" FROGER",
-        "LibNuaCand":"Divers gauche",
-        "Couleur":"#de3c80",
-        "Sortant":"sortante",
+        "PrenomPsn":"Jean-Marc ",
+        "NomPsn":"GARNIER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
         "Details":null
     },
     {
@@ -35,7 +35,7 @@
         "NomPsn":"LAPEYRE",
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
-        "Sortant":"sortante",
+        "Sortant":null,
         "Details":null
     },
     {

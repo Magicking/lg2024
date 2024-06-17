@@ -7,7 +7,7 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"ZULESI",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -20,8 +20,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Rémy",
         "NomPsn":"BAZZALI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -33,8 +33,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Alexandre",
         "NomPsn":"BEDDOCK",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Céline",
         "NomPsn":"FANFAN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Écologie au centre",
+        "Couleur":"#04B34D",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Romain",
         "NomPsn":"TONUSSI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Stéphanie",
         "NomPsn":"VOLPINI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     }

@@ -7,7 +7,7 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Lionel",
         "NomPsn":"ROYER-PERREAUT",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -20,8 +20,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Jeanne",
         "NomPsn":"ASTOLFI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -46,7 +46,7 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Caroline",
         "NomPsn":"COURONNE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Équinoxe",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -59,8 +59,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Olivier",
         "NomPsn":"FAYSSAT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -72,7 +72,7 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Sylvie",
         "NomPsn":"GIOVANNINI",
-        "LibNuaCand":null,
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -98,8 +98,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Christine",
         "NomPsn":"JUSTE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -111,8 +111,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Corinne",
         "NomPsn":"MOREL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -150,8 +150,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Séréna",
         "NomPsn":"ZOUAGHI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     }

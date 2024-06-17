@@ -33,8 +33,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Hayat",
         "NomPsn":"ATIA",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Danièle",
         "NomPsn":"PÉCOUT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Arezki",
         "NomPsn":"SELLOUM",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     }

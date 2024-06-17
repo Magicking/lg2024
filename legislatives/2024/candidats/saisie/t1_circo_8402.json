@@ -33,8 +33,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Dominique",
         "NomPsn":"BROGI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Julien",
         "NomPsn":"LANGARD",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Gérard",
         "NomPsn":"MANGIAVILLANO",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Sylvie",
         "NomPsn":"VIALA",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     }
