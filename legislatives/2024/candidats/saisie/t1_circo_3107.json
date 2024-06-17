@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Hervé ",
+        "NomPsn":"BERGNES",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Christophe ",
+        "NomPsn":"BEX",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Gaëtan ",
+        "NomPsn":"INARD",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Élisabeth",
+        "NomPsn":"TOUTUT-PICARD",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

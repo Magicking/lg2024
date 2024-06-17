@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Nadine",
+        "NomPsn":" DEMANGE-FIERLEJ",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Monique",
+        "NomPsn":" IBORRA ",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Sandra",
+        "NomPsn":" LAPORTE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Michèle",
+        "NomPsn":" PUEL",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Annaël ",
+        "NomPsn":"GERARD",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Arnaud ",
+        "NomPsn":"SIMION",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    }
+]
