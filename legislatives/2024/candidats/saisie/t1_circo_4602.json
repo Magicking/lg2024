@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Gérard ",
+        "NomPsn":"BLANCHET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Rabah ",
+        "NomPsn":"BOUGUERRA",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":"Sans étiquette divers gauche"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Daniel ",
+        "NomPsn":"PAGET",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Christophe ",
+        "NomPsn":"PROENÇA",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Huguette ",
+        "NomPsn":"TIEGNA",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"46",
+        "LibDpt":"Lot",
+        "CodCirElec":"4602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marie-Michèle ",
+        "NomPsn":"VIAU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

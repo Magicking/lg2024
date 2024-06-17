@@ -7,7 +7,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Léo",
         "NomPsn":"WALTER",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":"sortant",
         "Details":null
@@ -20,8 +20,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Dominique",
         "NomPsn":"BLANC",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -33,8 +33,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Myriam",
         "NomPsn":"CADENEL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Henri ",
         "NomPsn":"CYVOCT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Loan ",
         "NomPsn":"REYNAUD",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Sophie ",
         "NomPsn":"VAGINAY",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     }

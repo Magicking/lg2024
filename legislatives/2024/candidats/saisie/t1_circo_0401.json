@@ -20,8 +20,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Félix",
         "NomPsn":"BLANC",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Benoît",
         "NomPsn":"GAUVAN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
