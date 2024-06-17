@@ -23,7 +23,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Enseignant"
     },
     {
         "NumTour":"1",
@@ -36,7 +36,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Calais"
     },
     {
         "NumTour":"1",
@@ -49,7 +49,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Directeur de comptes"
     },
     {
         "NumTour":"1",
@@ -62,6 +62,6 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Calais"
     }
 ]

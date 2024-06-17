@@ -1047,7 +1047,7 @@
         "LibCirElec":"12ème circonscription",
         "PrenomPsn":"Sébastien",
         "NomPsn":"SEGUIN",
-        "LibNuaCand":"Ensemble (DVD)",
+        "LibNuaCand":"DVD soutenu par Ensemble",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1583,7 +1583,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Enseignant"
     },
     {
         "NumTour":"1",
@@ -1596,7 +1596,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Calais"
     },
     {
         "NumTour":"1",
@@ -1609,7 +1609,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Directeur de comptes"
     },
     {
         "NumTour":"1",
@@ -1622,7 +1622,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Calais"
     },
     {
         "NumTour":"1",
@@ -1648,7 +1648,7 @@
         "LibNuaCand":"Sans étiquette",
         "Couleur":"#8f8f8f",
         "Sortant":null,
-        "Details":null
+        "Details":"Ingénieur"
     },
     {
         "NumTour":"1",
@@ -1661,7 +1661,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Collaborateur à la mairie de Bruay-la-Buissière"
     },
     {
         "NumTour":"1",
@@ -1674,7 +1674,7 @@
         "LibNuaCand":"Horizons",
         "Couleur":"#9859fc",
         "Sortant":null,
-        "Details":null
+        "Details":"Opticien"
     },
     {
         "NumTour":"1",
@@ -1700,7 +1700,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Salarié du centre d'élevage d'arthropodes Millénac"
     },
     {
         "NumTour":"1",
@@ -1726,7 +1726,7 @@
         "LibNuaCand":"Ensemble",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Chef de cabinet adjoint au ministère des solidarités"
     },
     {
         "NumTour":"1",
@@ -1778,7 +1778,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Secrétaire Fédérale à la communication des Jeunes Socialistes du Nord"
     },
     {
         "NumTour":"1",

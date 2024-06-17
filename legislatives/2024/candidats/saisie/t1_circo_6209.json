@@ -23,7 +23,7 @@
         "LibNuaCand":"Ensemble",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Chef de cabinet adjoint au ministère des solidarités"
     },
     {
         "NumTour":"1",
@@ -75,6 +75,6 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Secrétaire Fédérale à la communication des Jeunes Socialistes du Nord"
     }
 ]

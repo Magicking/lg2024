@@ -23,7 +23,7 @@
         "LibNuaCand":"Sans étiquette",
         "Couleur":"#8f8f8f",
         "Sortant":null,
-        "Details":null
+        "Details":"Ingénieur"
     },
     {
         "NumTour":"1",
@@ -36,7 +36,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Collaborateur à la mairie de Bruay-la-Buissière"
     },
     {
         "NumTour":"1",
@@ -49,7 +49,7 @@
         "LibNuaCand":"Horizons",
         "Couleur":"#9859fc",
         "Sortant":null,
-        "Details":null
+        "Details":"Opticien"
     },
     {
         "NumTour":"1",
@@ -75,6 +75,6 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Salarié du centre d'élevage d'arthropodes Millénac"
     }
 ]
