@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"GUILLEMARD",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Aurélien",
+        "NomPsn":"ARNOULD",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Patricia",
+        "NomPsn":"MELET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Estelle",
+        "NomPsn":"MERCIER",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Massimo",
+        "NomPsn":"NESPOLO",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Christiane",
+        "NomPsn":"NIMSGERN",
+        "LibNuaCand":"Lutte Ouvrière",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
