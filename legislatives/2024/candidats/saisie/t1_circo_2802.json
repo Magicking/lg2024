@@ -63,5 +63,31 @@
         "Couleur":"#a41615",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Florent",
+        "NomPsn":"MAZY",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Florence",
+        "NomPsn":"ROGÉ",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
     }
 ]
