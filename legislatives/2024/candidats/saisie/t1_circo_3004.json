@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Pierre ",
+        "NomPsn":"MEURIN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Nadia ",
+        "NomPsn":"EL OKKI",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Yoann ",
+        "NomPsn":"GILLET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Charles ",
+        "NomPsn":"MÉNARD",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3001",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"ROUVERAND",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]
