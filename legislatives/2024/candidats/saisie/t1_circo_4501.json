@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"RIST",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"CHASSANG",
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Ghislaine",
+        "NomPsn":"KOUNOWSKI",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Nicole",
+        "NomPsn":"MAURICE",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Tiffanie",
+        "NomPsn":"RABAULT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Claude",
+        "NomPsn":"TREPKA",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]
