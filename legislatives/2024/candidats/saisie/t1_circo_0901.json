@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"09",
+        "LibDpt":"Ariège",
+        "CodCirElec":"0901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Marc ",
+        "NomPsn":"GARNIER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"09",
+        "LibDpt":"Ariège",
+        "CodCirElec":"0901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Martine",
+        "NomPsn":" FROGER",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"09",
+        "LibDpt":"Ariège",
+        "CodCirElec":"0901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Gisèle ",
+        "NomPsn":"LAPEYRE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"09",
+        "LibDpt":"Ariège",
+        "CodCirElec":"0901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pascal ",
+        "NomPsn":"MASCETTI",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]
