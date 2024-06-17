@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Barbara",
+        "NomPsn":" NETO",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Martine ",
+        "NomPsn":"ARNAUDY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Alice ",
+        "NomPsn":"CENDRÉ",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jean-Luc ",
+        "NomPsn":"DAVEZAC",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":"Bastir Occitanie"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Abla ",
+        "NomPsn":"LAZORAT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Michèle ",
+        "NomPsn":"MARTIN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"32",
+        "LibDpt":"Gers",
+        "CodCirElec":"3202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"David ",
+        "NomPsn":"TAUPIAC",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
+        "Sortant":null,
+        "Details":null
+    }
+]

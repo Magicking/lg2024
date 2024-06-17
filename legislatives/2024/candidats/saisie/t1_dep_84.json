@@ -7,8 +7,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Catherine",
         "NomPsn":"JAOUEN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":"sortante",
         "Details":null
     },
@@ -111,8 +111,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Bénédicte",
         "NomPsn":"AUZANOT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":"sortante",
         "Details":null
     },
@@ -280,8 +280,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Marie-France",
         "NomPsn":"LORHO",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":"sortante",
         "Details":null
     },
