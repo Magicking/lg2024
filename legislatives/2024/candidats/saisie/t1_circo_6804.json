@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Raphaël",
+        "NomPsn":"SCHELLENBERGER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Raymonde",
+        "NomPsn":"DIOP",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Simone",
+        "NomPsn":"FEST",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Helfrich",
+        "NomPsn":"MAXENCE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Corinne",
+        "NomPsn":"MORGEN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Aimé",
+        "NomPsn":"SENSE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"68",
+        "LibDpt":"Haut-Rhin",
+        "CodCirElec":"6804",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Marion",
+        "NomPsn":"WILHELM",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
