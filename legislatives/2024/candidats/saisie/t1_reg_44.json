@@ -3430,5 +3430,57 @@
         "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"VIRY",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Evelyne",
+        "NomPsn":"ABBOT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"FRANÇOIS",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"PERRIN",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
     }
 ]
