@@ -9,7 +9,7 @@
         "NomPsn":"DE LÉPINAU",
         "LibNuaCand":null,
         "Couleur":null,
-        "Sortant":null,
+        "Sortant":"sortant",
         "Details":null
     },
     {
