@@ -618,10 +618,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Nathalie",
         "NomPsn":"DOUSPIS",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"la voix du peuple et du citoyen"
     },
     {
         "NumTour":"1",
