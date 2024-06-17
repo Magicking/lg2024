@@ -33,8 +33,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Patricia",
         "NomPsn":"CAMPART",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Nadia",
         "NomPsn":"LAKHLEF TSALAMLAL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Union des démocrates et indépendants",
+        "Couleur":"#00FFFF",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Sandra",
         "NomPsn":"RAPONI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Annabel",
         "NomPsn":"ROS",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     }
