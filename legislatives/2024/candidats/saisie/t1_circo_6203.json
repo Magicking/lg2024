@@ -23,7 +23,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller régional"
     },
     {
         "NumTour":"1",
@@ -36,7 +36,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Retraité de l'industrie automobile"
     },
     {
         "NumTour":"1",
@@ -49,7 +49,7 @@
         "LibNuaCand":"Union des démocrates et indépendants",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Collaborateur à la mairie de Béthune"
     },
     {
         "NumTour":"1",
@@ -62,7 +62,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Gestionnaire agent de maîtrise"
     },
     {
         "NumTour":"1",

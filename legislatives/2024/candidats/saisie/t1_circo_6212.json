@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"BILDE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BAVAY",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":"Président du Pôle métropolitain de l'Artois"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Steve",
+        "NomPsn":"BOSSART",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":"Maire de Billy Berclau"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Régis",
+        "NomPsn":"SCHEENAERTS",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":"Ouvrier dans l'automobile"
+    }
+]

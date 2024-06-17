@@ -23,7 +23,7 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Maire de La Cauchie"
     },
     {
         "NumTour":"1",
@@ -36,7 +36,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Contractuelle dans la fonction publique"
     },
     {
         "NumTour":"1",
@@ -49,7 +49,7 @@
         "LibNuaCand":"Ensemble pour la République",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Ostéopathe et adjoint à Beaumetz-les-Loges"
     },
     {
         "NumTour":"1",
@@ -62,7 +62,7 @@
         "LibNuaCand":"Divers gauche",
         "Couleur":"#de3c80",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller départemental"
     },
     {
         "NumTour":"1",
@@ -75,7 +75,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Agriculteur"
     },
     {
         "NumTour":"1",
@@ -101,7 +101,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Arras et conseiller régional"
     },
     {
         "NumTour":"1",
@@ -114,7 +114,7 @@
         "LibNuaCand":"Sans étiquette",
         "Couleur":"#8f8f8f",
         "Sortant":null,
-        "Details":null
+        "Details":"Maire de Saint-Laurent-Blangy"
     },
     {
         "NumTour":"1",
@@ -127,7 +127,7 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseillère régionale"
     },
     {
         "NumTour":"1",
@@ -140,7 +140,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Arras"
     },
     {
         "NumTour":"1",
@@ -166,7 +166,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Adjointe technique"
     },
     {
         "NumTour":"1",
@@ -179,7 +179,7 @@
         "LibNuaCand":"Ensemble",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Ministre déléguée auprès du ministre de l'agriculture et de la souveraineté alimentaire"
     },
     {
         "NumTour":"1",
@@ -205,7 +205,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller régional"
     },
     {
         "NumTour":"1",
@@ -218,7 +218,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Retraité de l'industrie automobile"
     },
     {
         "NumTour":"1",
@@ -231,7 +231,7 @@
         "LibNuaCand":"Union des démocrates et indépendants",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Collaborateur à la mairie de Béthune"
     },
     {
         "NumTour":"1",
@@ -244,7 +244,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Gestionnaire agent de maîtrise"
     },
     {
         "NumTour":"1",
@@ -283,7 +283,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Directeur de la fondation Hopale"
     },
     {
         "NumTour":"1",
@@ -296,7 +296,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Vice-présidente du conseil départemental"
     },
     {
         "NumTour":"1",
@@ -335,7 +335,7 @@
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
         "Sortant":null,
-        "Details":null
+        "Details":"Gestionnaire LEADER"
     },
     {
         "NumTour":"1",
@@ -348,7 +348,7 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Juriste"
     },
     {
         "NumTour":"1",
@@ -387,7 +387,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Maire du Portel"
     },
     {
         "NumTour":"1",
@@ -400,7 +400,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller municipal à Boulogne"
     },
     {
         "NumTour":"1",
@@ -413,7 +413,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Enseignant"
     },
     {
         "NumTour":"1",
@@ -882,5 +882,57 @@
         "Couleur":null,
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"BILDE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BAVAY",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":"Président du Pôle métropolitain de l'Artois"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Steve",
+        "NomPsn":"BOSSART",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":"Maire de Billy Berclau"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Régis",
+        "NomPsn":"SCHEENAERTS",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":"Ouvrier dans l'automobile"
     }
 ]

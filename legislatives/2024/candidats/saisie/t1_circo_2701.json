@@ -31,10 +31,36 @@
         "LibDpt":"Eure",
         "CodCirElec":"2701",
         "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"DUCAMP",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2701",
+        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Christine",
         "NomPsn":"LE BONTÉ",
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"THALMANN",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     }

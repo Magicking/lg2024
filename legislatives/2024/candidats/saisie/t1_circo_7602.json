@@ -18,6 +18,19 @@
         "LibDpt":"Seine-Maritime",
         "CodCirElec":"7602",
         "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marie-Françoise",
+        "NomPsn":"ACCARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7602",
+        "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Vincent",
         "NomPsn":"DECORDE",
         "LibNuaCand":"Nouveau Front populaire (PS)",
@@ -74,6 +87,19 @@
         "NomPsn":"MAZIER",
         "LibNuaCand":"Reconquête !",
         "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Soren",
+        "NomPsn":"PETIOT",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     }

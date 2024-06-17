@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Carole",
+        "NomPsn":"BAILLEUL",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Ingrid",
+        "NomPsn":"BRULANT-FORTIN",
+        "LibNuaCand":"Ensemble",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Robin",
+        "NomPsn":"COUPIGNY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"MOULIN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Roger",
+        "NomPsn":"VICOT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Jonathan",
+        "NomPsn":"WILSON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -23,7 +23,7 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Maire de La Cauchie"
     },
     {
         "NumTour":"1",
@@ -36,7 +36,7 @@
         "LibNuaCand":"Lutte ouvrière",
         "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Contractuelle dans la fonction publique"
     },
     {
         "NumTour":"1",
@@ -49,7 +49,7 @@
         "LibNuaCand":"Ensemble pour la République",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Ostéopathe et adjoint à Beaumetz-les-Loges"
     },
     {
         "NumTour":"1",
@@ -62,7 +62,7 @@
         "LibNuaCand":"Divers gauche",
         "Couleur":"#de3c80",
         "Sortant":null,
-        "Details":null
+        "Details":"Conseiller départemental"
     },
     {
         "NumTour":"1",
@@ -75,6 +75,6 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Agriculteur"
     }
 ]

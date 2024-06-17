@@ -76,5 +76,18 @@
         "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Jean-Nicolas",
+        "NomPsn":"ROUSSEAU",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]
