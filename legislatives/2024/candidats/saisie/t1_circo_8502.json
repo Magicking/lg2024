@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Béatrice",
+        "NomPsn":"BELLAMY",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"BARILLOT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marie-Christine",
+        "NomPsn":"EBRAN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"HELARY",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

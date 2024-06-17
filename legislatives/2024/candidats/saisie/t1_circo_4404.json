@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Julie",
+        "NomPsn":"LAERNOES",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Aude",
+        "NomPsn":"AMADOU",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Matthis",
+        "NomPsn":"GAUVIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Astrid",
+        "NomPsn":"LUSSON",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"François",
+        "NomPsn":"OLLÉON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"PELLEGRINI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Gaëlle",
+        "NomPsn":"PINEAU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

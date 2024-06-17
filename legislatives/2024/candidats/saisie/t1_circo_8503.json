@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"BUCHOU",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"DUBIN",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Noël",
+        "NomPsn":"FAUCHER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"FESTIEN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Armelle",
+        "NomPsn":"GUENOLE",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pascale",
+        "NomPsn":"MARCHAND",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8503",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"MAUVOISIN-DELAVAUD",
+        "LibNuaCand":"Front patriote",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

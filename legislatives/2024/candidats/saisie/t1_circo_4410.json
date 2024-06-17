@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"ERRANTE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"CHEVALIER",
+        "LibNuaCand":"Gauche républicaine et socialiste",
+        "Couleur":"#DE3C7E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"COTREL",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"COUSIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Emmanuèle",
+        "NomPsn":"GARDAIR",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"RINEAU",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4410",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"VIANCIN",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

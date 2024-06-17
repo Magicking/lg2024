@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4408",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Matthias",
+        "NomPsn":"TAVEL",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4408",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Florence",
+        "NomPsn":"BEUVELET",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4408",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Gauthier",
+        "NomPsn":"BOUCHET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4408",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Audrey",
+        "NomPsn":"DUFEU",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4408",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Eddy",
+        "NomPsn":"LE BELLER",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4408",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"PERRIN",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Jean-Claude",
+        "NomPsn":"RAUX",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Marie-Paul",
+        "NomPsn":"CATHELINE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"HUNAULT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Fannie",
+        "NomPsn":"LEJAU",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Julio",
+        "NomPsn":"PICHON",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

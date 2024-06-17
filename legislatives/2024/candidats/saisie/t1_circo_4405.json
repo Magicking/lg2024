@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Sarah",
+        "NomPsn":"EL HAÏRY",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Emmanuelle",
+        "NomPsn":"CLOPEAU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"COMBY",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"ROUSSEL",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    }
+]

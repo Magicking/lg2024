@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"BESSE",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Claude",
+        "NomPsn":"BOUR",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Julie",
+        "NomPsn":"MARIEL-GODARD",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Ilias",
+        "NomPsn":"NAGNONHOU",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"PROU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
