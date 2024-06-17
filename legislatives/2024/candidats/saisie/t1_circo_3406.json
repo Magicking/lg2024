@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Emmanuelle",
+        "NomPsn":"MÉNARD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Magali",
+        "NomPsn":"CROZIER",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Sarah Fatima ",
+        "NomPsn":"DAUDÉ-ALLAOUI",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Julien ",
+        "NomPsn":"GABARRON",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Laurent ",
+        "NomPsn":"GILHODES",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

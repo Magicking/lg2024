@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"ROME",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Manon ",
+        "NomPsn":"BOUQUIN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"ELIAOU",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Florence ",
+        "NomPsn":"LARUE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Bleuette ",
+        "NomPsn":"SIMON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Laurence ",
+        "NomPsn":"CRISTOL",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Flavio ",
+        "NomPsn":"DALMAU",
+        "LibNuaCand":"Écologistes",
+        "Couleur":"#2ECC2E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Fanny ",
+        "NomPsn":"DOMBRE-COSTE",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Serge ",
+        "NomPsn":"GACHON",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Babeth",
+        "NomPsn":"SEGURA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Lauriane ",
+        "NomPsn":"TROISE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Aurélien",
+        "NomPsn":"LOPEZ-LIGUORI",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Gabriel",
+        "NomPsn":"BLASCO",
+        "LibNuaCand":"Parti communiste français",
+        "Couleur":"#dd0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Jocelyne ",
+        "NomPsn":"GIZARDIN ",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Daniel",
+        "NomPsn":"PILAUDEAU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

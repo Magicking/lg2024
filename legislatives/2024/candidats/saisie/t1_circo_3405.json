@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Stéphanie ",
+        "NomPsn":"GALZY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Lilian ",
+        "NomPsn":"BOURRIE ",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Véronique ",
+        "NomPsn":"CHESNARD",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Rémy ",
+        "NomPsn":"GROUSSARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Philippe ",
+        "NomPsn":"HUPPÉ",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3405",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Aurélien",
+        "NomPsn":"MANENC",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
+        "Sortant":null,
+        "Details":null
+    }
+]
