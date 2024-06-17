@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Liliana",
+        "NomPsn":"TANGUY",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Annick",
+        "NomPsn":"ALANOU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Régis",
+        "NomPsn":"DEBLIQUI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Jugdeep",
+        "NomPsn":"HARVINDER",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Aela",
+        "NomPsn":"MALET",
+        "LibNuaCand":"Parti Breton",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"RAHER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2907",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"TANGUY",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    }
+]

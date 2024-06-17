@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Annaïg",
+        "NomPsn":"LE MEUR",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Serge",
+        "NomPsn":"HARDY",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Christel",
+        "NomPsn":"HENAFF",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"France",
+        "NomPsn":"HERMAN",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"LE GRAND",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2901",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Grégory",
+        "NomPsn":"LEBERT",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]
