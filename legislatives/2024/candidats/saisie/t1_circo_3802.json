@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Cyrielle",
+        "NomPsn":"CHATELAIN",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Louve",
+        "NomPsn":"CARRIERE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Raphaele",
+        "NomPsn":"DE CARVALHO",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Chantal",
+        "NomPsn":"GOMEZ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"LAFEUILLE",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Edouard",
+        "NomPsn":"ROBERT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
