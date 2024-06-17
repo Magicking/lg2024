@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jocelyn",
+        "NomPsn":"DESSIGNY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Karim",
+        "NomPsn":"BELAID",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jade",
+        "NomPsn":"GILQUIN",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Yona",
+        "NomPsn":"MERBOUCHE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jeanne",
+        "NomPsn":"ROUSSEL",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

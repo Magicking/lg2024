@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"DRAGON",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Mathieu",
+        "NomPsn":"BOUFFLET",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Charles",
+        "NomPsn":"CULIOLI",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Damien",
+        "NomPsn":"DELAVENNE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Loup",
+        "NomPsn":"PERNELLE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"TREGUIER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
