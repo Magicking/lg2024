@@ -279,9 +279,9 @@
         "CodCirElec":"0204",
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Lola",
-        "NomPsn":"PRIE",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "NomPsn":"PRIÉ",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -306,8 +306,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Karim",
         "NomPsn":"BELAID",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -2126,7 +2126,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jean-Michel ",
         "NomPsn":"SAUVAGE",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":"Agriculteur"

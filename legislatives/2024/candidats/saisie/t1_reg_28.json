@@ -7,8 +7,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Joël",
         "NomPsn":"BRUNEAU",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -243,7 +243,7 @@
         "NomPsn":"BLANCHET",
         "LibNuaCand":"Ensemble - MoDem",
         "Couleur":"#9859fc",
-        "Sortant":"sortante",
+        "Sortant":"sortant",
         "Details":null
     },
     {

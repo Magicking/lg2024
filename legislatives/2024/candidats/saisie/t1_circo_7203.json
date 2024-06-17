@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"MARTINEAU",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Maryse",
+        "NomPsn":"BRUTOUT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Raymond",
+        "NomPsn":"DE MALHERBE",
+        "LibNuaCand":"Centre National des Indépendants et Paysans (CNIP)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"GRUAU",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Mathilde",
+        "NomPsn":"JACK",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"LEMOIGNE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"TROCHON",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    }
+]

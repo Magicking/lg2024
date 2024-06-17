@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Carles",
+        "NomPsn":"GRELIER",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Cécile",
+        "NomPsn":"BAYLE DE JESSÉ",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Karine",
+        "NomPsn":"FOUQUET",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"ROUILLON",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"VAUGARNY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]
