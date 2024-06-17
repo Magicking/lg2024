@@ -20,8 +20,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Florence",
         "NomPsn":"CLAUDEPIERRE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Romuald",
         "NomPsn":"LOURENÇO",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
         "Sortant":null,
         "Details":null
     },
