@@ -20,8 +20,8 @@
         "LibCirElec":"13ème circonscription",
         "PrenomPsn":"Hervé",
         "NomPsn":"DELESPAUL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
         "Sortant":null,
         "Details":null
     },
@@ -33,8 +33,8 @@
         "LibCirElec":"13ème circonscription",
         "PrenomPsn":"Emmanuel",
         "NomPsn":"FOUQUART",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"13ème circonscription",
         "PrenomPsn":"Lila",
         "NomPsn":"LOKMANE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"13ème circonscription",
         "PrenomPsn":"Cyril",
         "NomPsn":"METRAL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },

@@ -33,8 +33,8 @@
         "LibCirElec":"11ème circonscription",
         "PrenomPsn":"Hervé",
         "NomPsn":"FABRE-AUBRESPY",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"11ème circonscription",
         "PrenomPsn":"Charlotte",
         "NomPsn":"MARIA",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"11ème circonscription",
         "PrenomPsn":"Marc",
         "NomPsn":"PENA",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"11ème circonscription",
         "PrenomPsn":"Fayçal",
         "NomPsn":"ZERGUINE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     }
