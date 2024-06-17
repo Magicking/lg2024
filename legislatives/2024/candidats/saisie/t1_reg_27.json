@@ -830,5 +830,83 @@
         "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Louis",
+        "NomPsn":"MARGUERITTE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"CADIOT",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"DUFRAIGNE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Fatima",
+        "NomPsn":"KOURICHE",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"PLATRET",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Arnaud",
+        "NomPsn":"SANVERT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
     }
 ]

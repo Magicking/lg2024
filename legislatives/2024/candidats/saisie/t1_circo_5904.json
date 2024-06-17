@@ -1,0 +1,41 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5904",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"BRUN",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5904",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Brigitte",
+        "NomPsn":"LISO",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5904",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"MORAND",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

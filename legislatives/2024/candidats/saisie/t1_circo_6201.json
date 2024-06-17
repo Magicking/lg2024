@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"BLAIRY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marie",
+        "NomPsn":"BERNARD",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marie",
+        "NomPsn":"BERTHOUD",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Phillipe",
+        "NomPsn":"BOLET",
+        "LibNuaCand":"Ensemble pour la République",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Jacques ",
+        "NomPsn":"COTREL",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Michel ",
+        "NomPsn":"SAUVAGE",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]
