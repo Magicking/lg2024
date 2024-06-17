@@ -840,7 +840,7 @@
         "PrenomPsn":"Sébastien",
         "NomPsn":"HUYGHE",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1048,7 +1048,7 @@
         "PrenomPsn":"Tarik",
         "NomPsn":"MEKKI",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1139,7 +1139,7 @@
         "PrenomPsn":"Violette",
         "NomPsn":"SPILLEBOUT",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1204,7 +1204,7 @@
         "PrenomPsn":"Gérald",
         "NomPsn":"DARMANIN",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1282,7 +1282,7 @@
         "PrenomPsn":"Ingrid",
         "NomPsn":"BRULANT-FORTIN",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1737,7 +1737,7 @@
         "PrenomPsn":"Nicolas",
         "NomPsn":"SIEGLER",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1867,7 +1867,7 @@
         "PrenomPsn":"Pierre-Luc",
         "NomPsn":"VERVANDIER",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2231,7 +2231,7 @@
         "PrenomPsn":"Agnès",
         "NomPsn":"PANNIER-RUNACHER",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":"Ministre déléguée auprès du ministre de l'agriculture et de la souveraineté alimentaire"
     },
@@ -2517,7 +2517,7 @@
         "PrenomPsn":"Brigitte",
         "NomPsn":"BOURGUIGNON",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2725,7 +2725,7 @@
         "PrenomPsn":"Hadrien",
         "NomPsn":"COISNE",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":"Chef de cabinet adjoint au ministère des solidarités"
     },
@@ -2998,7 +2998,7 @@
         "PrenomPsn":"François",
         "NomPsn":"RUFFIN",
         "LibNuaCand":"Picardie debout !",
-        "Couleur":"#db1616",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -3010,8 +3010,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Ingrid",
         "NomPsn":"DORDAIN",
-        "LibNuaCand":"En commun !",
-        "Couleur":null,
+        "LibNuaCand":"En commun",
+        "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
     },

@@ -177,7 +177,7 @@
         "PrenomPsn":"Agnès",
         "NomPsn":"PANNIER-RUNACHER",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":"Ministre déléguée auprès du ministre de l'agriculture et de la souveraineté alimentaire"
     },
@@ -463,7 +463,7 @@
         "PrenomPsn":"Brigitte",
         "NomPsn":"BOURGUIGNON",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -671,7 +671,7 @@
         "PrenomPsn":"Hadrien",
         "NomPsn":"COISNE",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":"Chef de cabinet adjoint au ministère des solidarités"
     },

@@ -320,7 +320,7 @@
         "PrenomPsn":"Sandrine",
         "NomPsn":"LE FEUR",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
     },
@@ -385,7 +385,7 @@
         "PrenomPsn":"Graziella",
         "NomPsn":"MELCHIOR",
         "LibNuaCand":"Ensemble",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
     },

@@ -8,7 +8,7 @@
         "PrenomPsn":"François",
         "NomPsn":"RUFFIN",
         "LibNuaCand":"Picardie debout !",
-        "Couleur":"#db1616",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -20,8 +20,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Ingrid",
         "NomPsn":"DORDAIN",
-        "LibNuaCand":"En commun !",
-        "Couleur":null,
+        "LibNuaCand":"En commun",
+        "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
     },
