@@ -778,5 +778,57 @@
         "Couleur":"#fa6daa",
         "Sortant":"sortante",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"BELLEST",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Claude",
+        "NomPsn":"COURATIER",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Eric ",
+        "NomPsn":"MICHOUX",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anthony",
+        "NomPsn":"VADOT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
     }
 ]

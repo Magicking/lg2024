@@ -99,7 +99,7 @@
         "PrenomPsn":"Thiébault",
         "NomPsn":"ZITVOGEL",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -151,7 +151,7 @@
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"BURGEL",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -359,7 +359,7 @@
         "PrenomPsn":"Jean-Denis",
         "NomPsn":"ZOELLÉ",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -411,7 +411,7 @@
         "PrenomPsn":"Helfrich",
         "NomPsn":"MAXENCE",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -475,7 +475,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Frédéric",
         "NomPsn":"BAECHLER",
-        "LibNuaCand":"Unser land",
+        "LibNuaCand":"Unser Land",
         "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
@@ -683,7 +683,7 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Laurent",
         "NomPsn":"ROTH",
-        "LibNuaCand":"Unser land",
+        "LibNuaCand":"Unser Land",
         "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null

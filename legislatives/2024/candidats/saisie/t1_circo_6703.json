@@ -46,7 +46,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Hicham",
         "NomPsn":"HAMZA",
-        "LibNuaCand":null,
+        "LibNuaCand":"Gauche patriote",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -59,7 +59,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Félix",
         "NomPsn":"KLEIMANN",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti fédéraliste Volt",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -85,8 +85,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Gautier",
         "NomPsn":"PERRIN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },

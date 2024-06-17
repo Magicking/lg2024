@@ -956,7 +956,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Albéric",
         "NomPsn":"BARRET",
-        "LibNuaCand":null,
+        "LibNuaCand":"Équinoxe",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1034,8 +1034,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Odette",
         "NomPsn":"HOLTZER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -1112,7 +1112,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Frédéric",
         "NomPsn":"SEIGLE-MURANDI",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti fédéraliste Volt",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1177,8 +1177,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Soubise",
         "NomPsn":"CLÉMENT JEAN ETIENNE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau parti anticapitaliste (NPA)",
+        "Couleur":"#af0000",
         "Sortant":null,
         "Details":null
     },
@@ -1190,8 +1190,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Cendrine",
         "NomPsn":"DIEMUNSCH",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -1307,7 +1307,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Hicham",
         "NomPsn":"HAMZA",
-        "LibNuaCand":null,
+        "LibNuaCand":"Gauche patriote",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1320,7 +1320,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Félix",
         "NomPsn":"KLEIMANN",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti fédéraliste Volt",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1346,8 +1346,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Gautier",
         "NomPsn":"PERRIN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -1619,8 +1619,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Sarah",
         "NomPsn":"WEISS-MOESSMER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -2140,7 +2140,7 @@
         "PrenomPsn":"Thiébault",
         "NomPsn":"ZITVOGEL",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -2192,7 +2192,7 @@
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"BURGEL",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -2400,7 +2400,7 @@
         "PrenomPsn":"Jean-Denis",
         "NomPsn":"ZOELLÉ",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -2452,7 +2452,7 @@
         "PrenomPsn":"Helfrich",
         "NomPsn":"MAXENCE",
         "LibNuaCand":"Unser Land",
-        "Couleur":null,
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -2516,7 +2516,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Frédéric",
         "NomPsn":"BAECHLER",
-        "LibNuaCand":"Unser land",
+        "LibNuaCand":"Unser Land",
         "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
@@ -2724,7 +2724,7 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Laurent",
         "NomPsn":"ROTH",
-        "LibNuaCand":"Unser land",
+        "LibNuaCand":"Unser Land",
         "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null

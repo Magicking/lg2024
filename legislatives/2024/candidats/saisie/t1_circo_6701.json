@@ -33,7 +33,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Albéric",
         "NomPsn":"BARRET",
-        "LibNuaCand":null,
+        "LibNuaCand":"Équinoxe",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -111,8 +111,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Odette",
         "NomPsn":"HOLTZER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser Land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -189,7 +189,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Frédéric",
         "NomPsn":"SEIGLE-MURANDI",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti fédéraliste Volt",
         "Couleur":null,
         "Sortant":null,
         "Details":null
