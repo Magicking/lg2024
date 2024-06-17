@@ -20,7 +20,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Alice",
         "NomPsn":"BERGER",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -33,7 +33,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Loïc",
         "NomPsn":"FOLLEAT",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
@@ -46,8 +46,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Béatrice",
         "NomPsn":"GUILBERT",
-        "LibNuaCand":"Lutte ouvrière",
-        "Couleur":"#AF0000",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Hélène",
         "NomPsn":"LAUNAY",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
