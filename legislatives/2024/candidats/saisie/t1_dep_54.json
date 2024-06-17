@@ -154,5 +154,70 @@
         "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Martine",
+        "NomPsn":"ETIENNE",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"BOURY",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"MAURICE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Mathieu",
+        "NomPsn":"SERVAGI",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"54",
+        "LibDpt":"Meurthe-et-Moselle",
+        "CodCirElec":"5403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"WEBER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
     }
 ]
