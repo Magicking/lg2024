@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"ROSEREN",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"DEMEURE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Cyrille",
+        "NomPsn":"DU PELOUX",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Charles",
+        "NomPsn":"PRATS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7406",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"ROUBIAN",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

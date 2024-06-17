@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"CABROLIER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"BONNECARRERE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"CHAVEGRAND",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Margot",
+        "NomPsn":"LAPEYRE",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Orphée",
+        "NomPsn":"PAUTHIER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Denis",
+        "NomPsn":"ROUQUETTE",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]
