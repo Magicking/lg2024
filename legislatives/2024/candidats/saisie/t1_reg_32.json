@@ -358,7 +358,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Audric",
         "NomPsn":"ALEXANDRE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti des citoyens européens",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -2958,8 +2958,8 @@
         "LibCirElec":"12ème circonscription",
         "PrenomPsn":"Alain",
         "NomPsn":"BAVAY",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":"Président du Pôle métropolitain de l'Artois"
     },
