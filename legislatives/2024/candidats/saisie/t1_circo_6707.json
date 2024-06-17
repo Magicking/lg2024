@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"HETZEL",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Serge",
+        "NomPsn":"BLOCH",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Anastasie",
+        "NomPsn":"LEIPP",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"WOLFF",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"67",
+        "LibDpt":"Bas-Rhin",
+        "CodCirElec":"6707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
