@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9207",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Cécile",
+        "NomPsn":"ABAD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9207",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Rémi",
+        "NomPsn":"CARILLON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9207",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"CAZENEUVE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9207",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Christine",
+        "NomPsn":"PASTOR",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9207",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Lucas",
+        "NomPsn":"PEYRET",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9207",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"RICHARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
