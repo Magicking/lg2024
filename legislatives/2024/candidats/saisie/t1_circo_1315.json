@@ -20,8 +20,8 @@
         "LibCirElec":"15ème circonscription",
         "PrenomPsn":"Wassila",
         "NomPsn":"AÏDAROUS",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"15ème circonscription",
         "PrenomPsn":"Stéphane",
         "NomPsn":"HERMELLIN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"15ème circonscription",
         "PrenomPsn":"Solange",
         "NomPsn":"PONCHON",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"15ème circonscription",
         "PrenomPsn":"Anne",
         "NomPsn":"TESTUT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     }
