@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Lise",
+        "NomPsn":"MAGNIER",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Achille",
+        "NomPsn":"BISIAUX",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Marty",
+        "NomPsn":"DUCANDA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"GOSSEAU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Maxence",
+        "NomPsn":"LAURENT",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":"La NUPES était déjà représentée par LFI dans cette circonscription en 2022."
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"51",
+        "LibDpt":"Marne",
+        "CodCirElec":"5104",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Gabriel",
+        "NomPsn":"MICHEL",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]
