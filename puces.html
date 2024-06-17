@@ -87,7 +87,7 @@ const tour = params.get('tour');
                     }
                     html += '<ul>';
                     circonscription.candidats.forEach(candidat => {
-                        html += `<li>${candidat.prenom} ${candidat.nom} - ${candidat.libNuaCand}`;
+                        html += `<li>${candidat.prenom ? candidat.prenom : ''} ${candidat.nom ? candidat.nom : ''} ${candidat.libNuaCand ? ` - ${candidat.libNuaCand}` : ''}`;
                             if (candidat.sortant) {
                                 html += ` - ${candidat.sortant}`;
                             }
