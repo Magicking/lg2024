@@ -1217,7 +1217,7 @@
         "PrenomPsn":"Thiébault",
         "NomPsn":"ZITVOGEL",
         "LibNuaCand":"Unser Land",
-        "Couleur":"#8b1919",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -1269,7 +1269,7 @@
         "PrenomPsn":"Jean-Marc",
         "NomPsn":"BURGEL",
         "LibNuaCand":"Unser Land",
-        "Couleur":"#8b1919",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -1437,8 +1437,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Antoine",
         "NomPsn":"WAECHTER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
         "Sortant":null,
         "Details":null
     },
@@ -1476,7 +1476,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Jean-Denis",
         "NomPsn":"ZOELLÉ",
-        "LibNuaCand":null,
+        "LibNuaCand":"Unser Land",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1528,7 +1528,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Helfrich",
         "NomPsn":"MAXENCE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Unser Land",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1541,8 +1541,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Corinne",
         "NomPsn":"MORGEN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
         "Sortant":null,
         "Details":null
     },
@@ -1593,8 +1593,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Frédéric",
         "NomPsn":"BAECHLER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     },
@@ -1710,8 +1710,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Pascal",
         "NomPsn":"BLUM",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
         "Sortant":null,
         "Details":null
     },
@@ -1801,8 +1801,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Laurent",
         "NomPsn":"ROTH",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     }

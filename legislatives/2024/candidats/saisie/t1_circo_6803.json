@@ -85,8 +85,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Antoine",
         "NomPsn":"WAECHTER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
         "Sortant":null,
         "Details":null
     },
@@ -124,7 +124,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Jean-Denis",
         "NomPsn":"ZOELLÉ",
-        "LibNuaCand":null,
+        "LibNuaCand":"Unser Land",
         "Couleur":null,
         "Sortant":null,
         "Details":null

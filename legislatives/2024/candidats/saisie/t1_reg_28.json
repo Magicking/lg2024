@@ -733,6 +733,19 @@
         "LibDpt":"Eure",
         "CodCirElec":"2704",
         "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"ISTIN",
+        "LibNuaCand":"LR - UDI - Les Centristes",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Patrice",
         "NomPsn":"PAUPER",
         "LibNuaCand":"Rassemblement national",
@@ -777,6 +790,32 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2705",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Delphine",
+        "NomPsn":"BLITMAN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2705",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"David",
+        "NomPsn":"DAVERTON",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
         "Details":null
     },
     {

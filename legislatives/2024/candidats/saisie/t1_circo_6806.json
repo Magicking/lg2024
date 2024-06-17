@@ -20,8 +20,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Pascal",
         "NomPsn":"BLUM",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
         "Sortant":null,
         "Details":null
     },
@@ -111,8 +111,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Laurent",
         "NomPsn":"ROTH",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Unser land",
+        "Couleur":"#8b1919",
         "Sortant":null,
         "Details":null
     }

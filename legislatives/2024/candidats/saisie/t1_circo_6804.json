@@ -46,7 +46,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Helfrich",
         "NomPsn":"MAXENCE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Unser Land",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -59,8 +59,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Corinne",
         "NomPsn":"MORGEN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
         "Sortant":null,
         "Details":null
     },
