@@ -2657,6 +2657,19 @@
         "LibDpt":"Lozère",
         "CodCirElec":"4801",
         "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"MOREL-À-L’HUISSIER",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Luc-Étienne",
         "NomPsn":"GOUSSEAU",
         "LibNuaCand":"Rassemblement national",
@@ -2676,19 +2689,6 @@
         "Couleur":null,
         "Sortant":null,
         "Details":"Parti de Jean Lasalle"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"48",
-        "LibDpt":"Lozère",
-        "CodCirElec":"4801",
-        "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Pierre",
-        "NomPsn":"MOREL-À-L’HUISSIER",
-        "LibNuaCand":"Divers droite",
-        "Couleur":"#0099FF",
-        "Sortant":null,
-        "Details":null
     },
     {
         "NumTour":"1",
