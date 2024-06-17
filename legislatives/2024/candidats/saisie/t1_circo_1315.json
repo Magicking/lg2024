@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Wassila",
+        "NomPsn":"AÏDAROUS",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"BAUBRY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Martine",
+        "NomPsn":"ELESIKIAN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"HERMELLIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Solange",
+        "NomPsn":"PONCHON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"PTAK",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1315",
+        "LibCirElec":"15ème circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"TESTUT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Rémy",
+        "NomPsn":"BAZZALI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"BEDDOCK",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Céline",
+        "NomPsn":"FANFAN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"TONUSSI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Jeanne",
+        "NomPsn":"VIGIER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"VOLPINI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Jean-Marc",
+        "NomPsn":"ZULESI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

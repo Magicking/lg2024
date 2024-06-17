@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Sabrina",
+        "NomPsn":"AGRESTI-ROUBACHE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Céline",
+        "NomPsn":"CARAVELLAZI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"CECONE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Monique",
+        "NomPsn":"GRISETI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pascaline",
+        "NomPsn":"LÉCORCHÉ",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Salomé",
+        "NomPsn":"MOYAL",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

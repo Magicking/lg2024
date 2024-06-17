@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Michel",
+        "NomPsn":"BAYLE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"FABRE-AUBRESPY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Mohamed",
+        "NomPsn":"LAQHILA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"MARIA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"MEBTOUCHE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"PENA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Fayçal",
+        "NomPsn":"ZERGUINE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

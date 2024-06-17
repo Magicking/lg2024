@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BERNARDET",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Marion",
+        "NomPsn":"BISCIONE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Samir",
+        "NomPsn":"BOUZIANI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Guy",
+        "NomPsn":"DUBOST",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"KOUKAS",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Florent",
+        "NomPsn":"SEDDIK",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"TACHE DE LA PAGERIE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

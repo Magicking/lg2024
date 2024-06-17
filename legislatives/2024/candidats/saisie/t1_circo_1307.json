@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Ines",
+        "NomPsn":"ALBACETE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Hayat",
+        "NomPsn":"ATIA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Hakim",
+        "NomPsn":"BENAMRANE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"DELOGU",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Danièle",
+        "NomPsn":"PÉCOUT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Arezki",
+        "NomPsn":"SELLOUM",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marie-José",
+        "NomPsn":"ALLEMAND",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pascale",
+        "NomPsn":"BOYER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"BUISSON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Dorian",
+        "NomPsn":"DEININGER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0501",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"SAINTE-MARIE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

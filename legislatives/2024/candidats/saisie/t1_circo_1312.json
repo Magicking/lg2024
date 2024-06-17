@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1312",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"AGHEMO",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1312",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Franck",
+        "NomPsn":"ALLISIO",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1312",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Axel",
+        "NomPsn":"BRETON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1312",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Maryline",
+        "NomPsn":"CZURKA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1312",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"François",
+        "NomPsn":"ROCHE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1312",
+        "LibCirElec":"12ème circonscription",
+        "PrenomPsn":"Raymonde",
+        "NomPsn":"ZINI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

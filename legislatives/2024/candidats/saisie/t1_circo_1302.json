@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Laure-Agnès",
+        "NomPsn":"CARADEC",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jean-Marc",
+        "NomPsn":"GRAFFEO",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"LHARDIT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Claire",
+        "NomPsn":"PITOLLAT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"RIOULT",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Hugo",
+        "NomPsn":"ROCHE POGGI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1302",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Claudine",
+        "NomPsn":"RODINSON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

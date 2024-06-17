@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Louis",
+        "NomPsn":"ALBRAND",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"FINE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Boris",
+        "NomPsn":"GUIGNARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Johann",
+        "NomPsn":"MONDAIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"ROSSI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
