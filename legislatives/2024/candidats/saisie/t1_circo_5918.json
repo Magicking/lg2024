@@ -20,8 +20,8 @@
         "LibCirElec":"18ème circonscription",
         "PrenomPsn":"Benoit",
         "NomPsn":"MARÉCHAL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
     },
@@ -33,8 +33,8 @@
         "LibCirElec":"18ème circonscription",
         "PrenomPsn":"Nadine",
         "NomPsn":"REYNAERT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },

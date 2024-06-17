@@ -163,8 +163,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Edouard",
         "NomPsn":"FAUVAGE",
-        "LibNuaCand":"Reconquête !",
-        "Couleur":"#1019c1",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -735,7 +735,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Pierre",
         "NomPsn":"GIRY",
-        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "LibNuaCand":"Divers extrême droite",
         "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
@@ -852,7 +852,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Nicolas",
         "NomPsn":"CONQUER",
-        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "LibNuaCand":"Divers extrême droite",
         "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
