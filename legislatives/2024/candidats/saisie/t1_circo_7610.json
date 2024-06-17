@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"BATUT",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Handy",
+        "NomPsn":"BARRÉ",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"DUMAS",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Robert",
+        "NomPsn":"LE BOURGEOIS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Rémy",
+        "NomPsn":"LECUYER",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7610",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"RIVIERE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

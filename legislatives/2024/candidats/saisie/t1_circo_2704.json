@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"BRUN",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"TERLEZ",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

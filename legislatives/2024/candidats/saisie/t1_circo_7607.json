@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Agnès",
+        "NomPsn":"FIRMIN LE BODO",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"DUCOEURJOLY",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"FORESTIER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Jean-Paul",
+        "NomPsn":"MACÉ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Florence",
+        "NomPsn":"MARTIN PÉRÉON",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7607",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Anaïs",
+        "NomPsn":"THOMAS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

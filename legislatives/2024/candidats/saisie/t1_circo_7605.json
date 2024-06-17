@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7605",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Gérard",
+        "NomPsn":"LESEUL",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7605",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Marc",
+        "NomPsn":"BLED",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7605",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean",
+        "NomPsn":"DELALANDRE",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7605",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Cyril",
+        "NomPsn":"MONTIER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7605",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Simon",
+        "NomPsn":"SULKOWSKI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

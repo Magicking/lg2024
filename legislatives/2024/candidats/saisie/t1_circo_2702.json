@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Katiana",
+        "NomPsn":"LEVAVASSEUR",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"BRELY",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"COLLIN",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Timour",
+        "NomPsn":"VEYRI",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    }
+]
