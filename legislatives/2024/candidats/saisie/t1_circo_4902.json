@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Stella",
+        "NomPsn":"DUPONT",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"BRISSEAU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"LEBRUN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Léo",
+        "NomPsn":"MÉTAYER",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"SALQUAIN",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Benoît",
+        "NomPsn":"TRIOT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

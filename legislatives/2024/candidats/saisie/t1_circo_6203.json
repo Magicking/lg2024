@@ -47,7 +47,7 @@
         "PrenomPsn":"Jacques",
         "NomPsn":"DUQUENNE",
         "LibNuaCand":"Union des démocrates et indépendants",
-        "Couleur":null,
+        "Couleur":"#00FFFF",
         "Sortant":null,
         "Details":"Collaborateur à la mairie de Béthune"
     },
@@ -73,7 +73,7 @@
         "PrenomPsn":"François",
         "NomPsn":"QUESTE",
         "LibNuaCand":"Ensemble pour la République",
-        "Couleur":null,
+        "Couleur":"\t#45b3ab",
         "Sortant":null,
         "Details":null
     }

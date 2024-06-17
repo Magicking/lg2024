@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Nicole",
+        "NomPsn":"DUBRÉ-CHIRAT",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Anaëlle",
+        "NomPsn":"CHAUSSIVERT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"GABIN",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Yann",
+        "NomPsn":"LE DIAGON",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"MERCIER",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4906",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Tim",
+        "NomPsn":"PAVAGEAU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

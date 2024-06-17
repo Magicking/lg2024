@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"BARA",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Pierrick",
+        "NomPsn":"COLPIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Séverine",
+        "NomPsn":"DUMINY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Edith",
+        "NomPsn":"DUQUESNOY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"GRINER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"LASSELIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5921",
+        "LibCirElec":"21ème circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"LÉTARD",
+        "LibNuaCand":"LR - UDI - Les Centristes",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

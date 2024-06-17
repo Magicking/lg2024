@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"CHENU",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "PrenomPsn":"Cécile",
+        "NomPsn":"BOURLET",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "PrenomPsn":"Cédric",
+        "NomPsn":"BRUN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "PrenomPsn":"Djemi",
+        "NomPsn":"DRICI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5919",
+        "LibCirElec":"19ème circonscription",
+        "PrenomPsn":"Franck",
+        "NomPsn":"WATELET",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

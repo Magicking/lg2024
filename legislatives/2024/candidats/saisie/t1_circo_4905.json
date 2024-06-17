@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Denis",
+        "NomPsn":"MASSEGLIA",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"BOURDOULEIX",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"ESTANG",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"GUYARD",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jacquelin",
+        "NomPsn":"LIGOT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"France",
+        "NomPsn":"MOREAU",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4905",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Didier",
+        "NomPsn":"TESTU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

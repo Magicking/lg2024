@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"FLORQUIN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "PrenomPsn":"Elisabeth",
+        "NomPsn":"GONDRY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "PrenomPsn":"Dimitri",
+        "NomPsn":"MOZDZIZERZ",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "PrenomPsn":"Fabien",
+        "NomPsn":"ROUSSEL",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5920",
+        "LibCirElec":"20ème circonscription",
+        "PrenomPsn":"Pierre-Luc",
+        "NomPsn":"VERVANDIER",
+        "LibNuaCand":"Ensemble",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

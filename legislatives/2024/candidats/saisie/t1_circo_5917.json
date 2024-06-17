@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "PrenomPsn":"Loick",
+        "NomPsn":"BOUAZIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"CHÉREAU",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "PrenomPsn":"Cédric",
+        "NomPsn":"FLUCKIGER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"HONORÉ",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5917",
+        "LibCirElec":"17ème circonscription",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"TESSON",
+        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

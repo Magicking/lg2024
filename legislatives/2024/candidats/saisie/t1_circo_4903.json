@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Anne-Laure",
+        "NomPsn":"BLIN",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"ALEXANDRE",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Edouard",
+        "NomPsn":"BOURGEAULT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Simon",
+        "NomPsn":"HOLLEY",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"49",
+        "LibDpt":"Maine-et-Loire",
+        "CodCirElec":"4903",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Patricia",
+        "NomPsn":"PEILLON",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

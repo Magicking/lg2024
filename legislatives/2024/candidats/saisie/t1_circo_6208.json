@@ -8,7 +8,7 @@
         "PrenomPsn":"Bertrand",
         "NomPsn":"PETIT",
         "LibNuaCand":"Parti socialiste (refuse l'étiquette Nouveau Front Populaire)",
-        "Couleur":null,
+        "Couleur":"#ff8080",
         "Sortant":"sortant",
         "Details":null
     },
