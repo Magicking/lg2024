@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Jean-Luc",
+        "NomPsn":"BOURGEAUX",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Edouard",
+        "NomPsn":"DESCOTTES",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"FICHET",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"GUIVARC’H",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3507",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Dylan",
+        "NomPsn":"LEMOINE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Mickaël",
+        "NomPsn":"BOULOUX",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Camille",
+        "NomPsn":"CHAMPALAUNE",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Maël",
+        "NomPsn":"EGRON",
+        "LibNuaCand":"Parti Breton",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Mahé",
+        "NomPsn":"GARGAM",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"LUCAS",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Kellie",
+        "NomPsn":"LUCCO",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3508",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Hermine",
+        "NomPsn":"MAUZE",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]
