@@ -59,8 +59,8 @@
         "LibCirElec":"11ème circonscription",
         "PrenomPsn":"Dorian",
         "NomPsn":"LAMY",
-        "LibNuaCand":"LR - UDI - Les Centristes",
-        "Couleur":"#005ce6",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
