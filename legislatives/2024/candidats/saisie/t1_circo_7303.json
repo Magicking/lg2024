@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Emilie",
+        "NomPsn":"BONNIVARD",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Marie",
+        "NomPsn":"DAUCHY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Daniel",
+        "NomPsn":"IBANEZ",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pascale",
+        "NomPsn":"TROUVE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]
