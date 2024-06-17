@@ -85,8 +85,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Elsa",
         "NomPsn":"RICHARD",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":null,
         "Details":null
     },
@@ -137,7 +137,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Léo",
         "NomPsn":"MÉTAYER",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -189,7 +189,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"ALEXANDRE",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -254,8 +254,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Charlyne",
         "NomPsn":"BOUVET",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
         "Sortant":null,
         "Details":null
     },
@@ -358,7 +358,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Gilles",
         "NomPsn":"BOURDOULEIX",
-        "LibNuaCand":"Rassemblement national \/ Ciotti",
+        "LibNuaCand":"DVD - soutien RN",
         "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
@@ -410,7 +410,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"France",
         "NomPsn":"MOREAU",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -462,7 +462,7 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Sylvie",
         "NomPsn":"GABIN",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -579,8 +579,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Guillaume",
         "NomPsn":"JOUANNEAU",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
