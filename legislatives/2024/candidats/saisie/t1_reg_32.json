@@ -2347,8 +2347,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Blandine",
         "NomPsn":"DRAIN",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":"Vice-présidente du conseil départemental"
     },
@@ -2425,8 +2425,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Pierre",
         "NomPsn":"PONT",
-        "LibNuaCand":"Ensemble pour la République",
-        "Couleur":"\t#45b3ab",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
     },
@@ -2438,8 +2438,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Olivier",
         "NomPsn":"BARBARIN",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":"Maire du Portel"
     },
@@ -2555,8 +2555,8 @@
         "LibCirElec":"6ème circonscription",
         "PrenomPsn":"Aurore",
         "NomPsn":"PAGEAUD",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
