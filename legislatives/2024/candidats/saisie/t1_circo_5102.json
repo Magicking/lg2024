@@ -46,8 +46,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Marie",
         "NomPsn":"PACE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -85,7 +85,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Ghislain",
         "NomPsn":"WYSOCINSKI",
-        "LibNuaCand":null,
+        "LibNuaCand":"Divers Ecologie",
         "Couleur":null,
         "Sortant":null,
         "Details":null

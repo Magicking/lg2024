@@ -46,7 +46,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Baptiste",
         "NomPsn":"GALLET",
-        "LibNuaCand":null,
+        "LibNuaCand":"Divers",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -98,8 +98,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Justin",
         "NomPsn":"PRUM",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },

@@ -20,8 +20,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"BENYOUCEF",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Parti ouvrier indépendant démocratique",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Mink",
         "NomPsn":"TAKAWE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     }

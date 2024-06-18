@@ -20,8 +20,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Christian",
         "NomPsn":"CHARVET",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers extrême droite",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Arnaud",
         "NomPsn":"RENNESSON",
-        "LibNuaCand":"Écologistes",
-        "Couleur":"#2ECC2E",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
