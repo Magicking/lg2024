@@ -10,7 +10,7 @@
         "NomPsn":"GARNIER",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -40,7 +40,7 @@
         "NomPsn":"LAPEYRE",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -55,7 +55,7 @@
         "NomPsn":"FROGER",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -85,7 +85,7 @@
         "NomPsn":"TESTARD",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -115,7 +115,7 @@
         "NomPsn":"ALOZY",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -130,7 +130,7 @@
         "NomPsn":"PANIFOUS",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -145,7 +145,7 @@
         "NomPsn":"THEBAULT",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -160,7 +160,7 @@
         "NomPsn":"MAZARS",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -190,7 +190,7 @@
         "NomPsn":"SAINT-AVIT",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -205,7 +205,7 @@
         "NomPsn":"CHARTIER",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -220,7 +220,7 @@
         "NomPsn":"PAROLIN",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -235,7 +235,7 @@
         "NomPsn":"ALEXANDRE",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -250,7 +250,7 @@
         "NomPsn":"ARMET",
         "CodNuaCand":"DSV",
         "LibNuaCand":"Droite souverainiste",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -265,7 +265,7 @@
         "NomPsn":"EL HEDRI",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -280,7 +280,7 @@
         "NomPsn":"DEGUARA",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -295,7 +295,7 @@
         "NomPsn":"BOUIGUE",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -310,7 +310,7 @@
         "NomPsn":"ROUSSET",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -325,7 +325,7 @@
         "NomPsn":"COMBES",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -340,7 +340,7 @@
         "NomPsn":"NOEL",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -355,7 +355,7 @@
         "NomPsn":"FEVRE",
         "CodNuaCand":"UXD",
         "LibNuaCand":"Union de l'extrême droite",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -385,7 +385,7 @@
         "NomPsn":"CLOUET",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -400,7 +400,7 @@
         "NomPsn":"HOBET",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -415,7 +415,7 @@
         "NomPsn":"CHAMBELIN",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -445,7 +445,7 @@
         "NomPsn":"LE PENVEN",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -490,7 +490,7 @@
         "NomPsn":"STAMBACH-TERRENOIR",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -505,7 +505,7 @@
         "NomPsn":"KHALIFA",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -520,7 +520,7 @@
         "NomPsn":"NESTIER",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -535,7 +535,7 @@
         "NomPsn":"MAYORAL",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -550,7 +550,7 @@
         "NomPsn":"BARTHÉLÉMY",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -565,7 +565,7 @@
         "NomPsn":"LAGLEIZE",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -580,7 +580,7 @@
         "NomPsn":"ALARCON",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -595,7 +595,7 @@
         "NomPsn":"ADRADA",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -610,7 +610,7 @@
         "NomPsn":"ALLORANT",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -655,7 +655,7 @@
         "NomPsn":"VIGNON",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -715,7 +715,7 @@
         "NomPsn":"ROBY",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -760,7 +760,7 @@
         "NomPsn":"LARREGLE",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -790,7 +790,7 @@
         "NomPsn":"PIQUEMAL",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -805,7 +805,7 @@
         "NomPsn":"PECH",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -820,7 +820,7 @@
         "NomPsn":"MARCIREAU",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -835,7 +835,7 @@
         "NomPsn":"CAZALS",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -880,7 +880,7 @@
         "NomPsn":"PORTARRIEU",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -895,7 +895,7 @@
         "NomPsn":"ESPAGNOLLE",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -910,7 +910,7 @@
         "NomPsn":"LEONARDELLI",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -925,7 +925,7 @@
         "NomPsn":"LASERGE",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -955,7 +955,7 @@
         "NomPsn":"PUEL",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -970,7 +970,7 @@
         "NomPsn":"LAPORTE",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -985,7 +985,7 @@
         "NomPsn":"SIMION",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1000,7 +1000,7 @@
         "NomPsn":"DEMANGE-FIERLEJ",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1015,7 +1015,7 @@
         "NomPsn":"IBORRA",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1030,7 +1030,7 @@
         "NomPsn":"BERGNES",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1045,7 +1045,7 @@
         "NomPsn":"TOUTUT-PICARD",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1060,7 +1060,7 @@
         "NomPsn":"BEX",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1075,7 +1075,7 @@
         "NomPsn":"INARD",
         "CodNuaCand":"UXD",
         "LibNuaCand":"Union de l'extrême droite",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -1105,7 +1105,7 @@
         "NomPsn":"DELCHARD",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1120,7 +1120,7 @@
         "NomPsn":"GUIRAUD",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1150,7 +1150,7 @@
         "NomPsn":"AVIRAGNET",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1165,7 +1165,7 @@
         "NomPsn":"LAURENTIES-BARRERE",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1195,7 +1195,7 @@
         "NomPsn":"VIOLA",
         "CodNuaCand":"DSV",
         "LibNuaCand":"Droite souverainiste",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -1240,7 +1240,7 @@
         "NomPsn":"DELRIEU",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1255,7 +1255,7 @@
         "NomPsn":"ARRIGHI",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1270,7 +1270,7 @@
         "NomPsn":"BEOUT",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1285,7 +1285,7 @@
         "NomPsn":"MARTIN",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1300,7 +1300,7 @@
         "NomPsn":"LOUBET--SRUH",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1330,7 +1330,7 @@
         "NomPsn":"FALGAS-COLOMINA",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1390,7 +1390,7 @@
         "NomPsn":"SOUCHE",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1405,7 +1405,7 @@
         "NomPsn":"BOURGEADE",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -1420,7 +1420,7 @@
         "NomPsn":"OBERTI",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1450,7 +1450,7 @@
         "NomPsn":"FAURE",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1465,7 +1465,7 @@
         "NomPsn":"CAZENEUVE",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1480,7 +1480,7 @@
         "NomPsn":"LEVIEUX",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1495,7 +1495,7 @@
         "NomPsn":"CHARETON",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1540,7 +1540,7 @@
         "NomPsn":"YELMA",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1555,7 +1555,7 @@
         "NomPsn":"BOUDAUD ANDUAGA",
         "CodNuaCand":"ECO",
         "LibNuaCand":"Ecologistes",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -1585,7 +1585,7 @@
         "NomPsn":"CENDRÉ",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1645,7 +1645,7 @@
         "NomPsn":"MARTIN",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1690,7 +1690,7 @@
         "NomPsn":"DECREMPS",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1735,7 +1735,7 @@
         "NomPsn":"BOUGEARD",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1750,7 +1750,7 @@
         "NomPsn":"MIHAYLOVA",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1765,7 +1765,7 @@
         "NomPsn":"DOMENECH",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1780,7 +1780,7 @@
         "NomPsn":"TIEGNA",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -1795,7 +1795,7 @@
         "NomPsn":"PROENÇA",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1825,7 +1825,7 @@
         "NomPsn":"VIAU",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1840,7 +1840,7 @@
         "NomPsn":"BLANCHET",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1870,7 +1870,7 @@
         "NomPsn":"SORIN",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -1915,7 +1915,7 @@
         "NomPsn":"FERRER",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -1945,7 +1945,7 @@
         "NomPsn":"SAEZ",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -1975,7 +1975,7 @@
         "NomPsn":"MEUNIER",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -2020,7 +2020,7 @@
         "NomPsn":"MOURNET",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2035,7 +2035,7 @@
         "NomPsn":"FÉGNÉ",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2065,7 +2065,7 @@
         "NomPsn":"MONTEIL",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -2110,7 +2110,7 @@
         "NomPsn":"LAPEYRE",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2125,7 +2125,7 @@
         "NomPsn":"CHAVEGRAND",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -2140,7 +2140,7 @@
         "NomPsn":"CABROLIER",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -2155,7 +2155,7 @@
         "NomPsn":"BONNECARRERE",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2215,7 +2215,7 @@
         "NomPsn":"ERODI",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2230,7 +2230,7 @@
         "NomPsn":"VERDIER",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2245,7 +2245,7 @@
         "NomPsn":"GIMENEZ SASTRE",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -2260,7 +2260,7 @@
         "NomPsn":"BACOU",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -2290,7 +2290,7 @@
         "NomPsn":"LASSALLE",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2305,7 +2305,7 @@
         "NomPsn":"TRESSENS",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -2320,7 +2320,7 @@
         "NomPsn":"AZAIS",
         "CodNuaCand":"DSV",
         "LibNuaCand":"Droite souverainiste",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -2335,7 +2335,7 @@
         "NomPsn":"TERLIER",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2350,7 +2350,7 @@
         "NomPsn":"CARAYON",
         "CodNuaCand":"UXD",
         "LibNuaCand":"Union de l'extrême droite",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -2380,7 +2380,7 @@
         "NomPsn":"BAREGES",
         "CodNuaCand":"UXD",
         "LibNuaCand":"Union de l'extrême droite",
-        "Couleur":null,
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -2395,7 +2395,7 @@
         "NomPsn":"SIMONIN-BENAZET",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -2410,7 +2410,7 @@
         "NomPsn":"RABAULT",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2440,7 +2440,7 @@
         "NomPsn":"BLANCO",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -2470,7 +2470,7 @@
         "NomPsn":"CHRETIEN",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2485,7 +2485,7 @@
         "NomPsn":"IUS",
         "CodNuaCand":"RDG",
         "LibNuaCand":"Parti radical de gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -2500,7 +2500,7 @@
         "NomPsn":"RATSIMBA",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -2515,7 +2515,7 @@
         "NomPsn":"HAMELET",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -2530,7 +2530,7 @@
         "NomPsn":"DUFFAUT",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },

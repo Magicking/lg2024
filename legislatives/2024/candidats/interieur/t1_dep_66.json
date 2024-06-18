@@ -10,7 +10,7 @@
         "NomPsn":"BLANC",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -25,7 +25,7 @@
         "NomPsn":"DASPE",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -55,7 +55,7 @@
         "NomPsn":"EUZET",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -115,7 +115,7 @@
         "NomPsn":"ADVENARD",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -130,7 +130,7 @@
         "NomPsn":"BERRUÉ",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -145,7 +145,7 @@
         "NomPsn":"GOISET",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -205,7 +205,7 @@
         "NomPsn":"SABATINI",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -250,7 +250,7 @@
         "NomPsn":"GAYTE",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -265,7 +265,7 @@
         "NomPsn":"URROZ",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -280,7 +280,7 @@
         "NomPsn":"DOGOR-SUCH",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -295,7 +295,7 @@
         "NomPsn":"CULLELL",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -310,7 +310,7 @@
         "NomPsn":"POUPARD",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -325,7 +325,7 @@
         "NomPsn":"MARTINEZ",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -340,7 +340,7 @@
         "NomPsn":"NADAL",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -385,7 +385,7 @@
         "NomPsn":"BARAILLÉ",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },

@@ -10,7 +10,7 @@
         "NomPsn":"GAROT",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -25,7 +25,7 @@
         "NomPsn":"VEYRE DE SORAS",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -55,7 +55,7 @@
         "NomPsn":"ROMIER",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -70,7 +70,7 @@
         "NomPsn":"SAULNIER",
         "CodNuaCand":"UDI",
         "LibNuaCand":"Union des Démocrates et Indépendants",
-        "Couleur":null,
+        "Couleur":"#00FFFF",
         "Sortant":null,
         "Details":null
     },
@@ -85,7 +85,7 @@
         "NomPsn":"PLACE",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -100,7 +100,7 @@
         "NomPsn":"BOISSEAU",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },
@@ -115,7 +115,7 @@
         "NomPsn":"CADENAS",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -160,7 +160,7 @@
         "NomPsn":"BANNIER",
         "CodNuaCand":"ENS",
         "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
-        "Couleur":null,
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -175,7 +175,7 @@
         "NomPsn":"BELL",
         "CodNuaCand":"RN",
         "LibNuaCand":"Rassemblement National",
-        "Couleur":null,
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -190,7 +190,7 @@
         "NomPsn":"AMELIN",
         "CodNuaCand":"EXG",
         "LibNuaCand":"Extrême gauche",
-        "Couleur":null,
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -220,7 +220,7 @@
         "NomPsn":"LEFOULON",
         "CodNuaCand":"UG",
         "LibNuaCand":"Union de la gauche",
-        "Couleur":null,
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     }
