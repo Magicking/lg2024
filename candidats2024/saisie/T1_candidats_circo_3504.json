@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Mathilde",
+        "NomPsn":"HIGNET",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Sandra",
+        "NomPsn":"CHIRAZI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Jacques",
+        "NomPsn":"FRANÇOIS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Jeremy",
+        "NomPsn":"GILBERT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"HUBERT",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3504",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"PATAULT",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

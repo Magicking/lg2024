@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Perrine",
+        "NomPsn":"Goulet",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Baptiste",
+        "NomPsn":"Dubost",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Charles-Henri",
+        "NomPsn":"Gallois",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Brice",
+        "NomPsn":"Larèpe",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Geneviève",
+        "NomPsn":"Lemoine",
+        "LibNuaCand":"Parti des travailleurs",
+        "Couleur":"#a41615",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Chantal",
+        "NomPsn":"Varela",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    }
+]

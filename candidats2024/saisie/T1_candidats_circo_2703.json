@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Kévin",
+        "NomPsn":"MAUVIEUX",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Didier",
+        "NomPsn":"DARIC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"ELEXHAUSER",
+        "LibNuaCand":"LR - UDI - Les Centristes",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Marie-Noëlle",
+        "NomPsn":"HUARD",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Marie",
+        "NomPsn":"TAMARELLE VERHAEGHE",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Jean-Christophe",
+        "NomPsn":"TURPIN",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

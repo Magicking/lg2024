@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Yannick",
+        "NomPsn":"Favennec",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Martine",
+        "NomPsn":"Amelin",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Annie",
+        "NomPsn":"Bell",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5303",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"Lefoulon",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

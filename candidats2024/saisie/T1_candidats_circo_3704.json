@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Fabienne",
+        "NomPsn":"COLBOC",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"BAUMEL",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"BELLANGER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Kévin",
+        "NomPsn":"GARDEAU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"LAGRÉE",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jean-Yves",
+        "NomPsn":"BONY",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Mona",
+        "NomPsn":"CHEIKHI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"LACROIX",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Zoé",
+        "NomPsn":"PEBAY",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Vladimir",
+        "NomPsn":"TILMANT-TATISCHEFF",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Louis",
+        "NomPsn":"TOTY",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"15",
+        "LibDpt":"Cantal",
+        "CodCirElec":"1502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"VEYSSET-RAPAPORT",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

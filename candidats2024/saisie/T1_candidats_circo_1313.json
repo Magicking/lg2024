@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"DHARRÉVILLE",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"DELESPAUL",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"FOUQUART",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Lila",
+        "NomPsn":"LOKMANE",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Cyril",
+        "NomPsn":"METRAL",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1313",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Olympe",
+        "NomPsn":"SCHREDRE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

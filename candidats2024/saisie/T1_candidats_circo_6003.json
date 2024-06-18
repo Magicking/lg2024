@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"SABATOU",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"BOIS",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Marie",
+        "NomPsn":"FERREIRA",
+        "LibNuaCand":"Verts démocrates",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Amadou",
+        "NomPsn":"KA",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Béatrice",
+        "NomPsn":"LEGRIS",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6003",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Roland",
+        "NomPsn":"SZPIRKO",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

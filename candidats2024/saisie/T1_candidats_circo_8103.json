@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Jean",
+        "NomPsn":"Terlier",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Alban",
+        "NomPsn":"Azais",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Guilhem",
+        "NomPsn":"Carayon",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":"Les Républicains soutenu par RN"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Claire",
+        "NomPsn":"Dauge",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":"Occitanie Pais Nostre"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Julien",
+        "NomPsn":"Lassalle",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"81",
+        "LibDpt":"Tarn",
+        "CodCirElec":"8103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Chantal",
+        "NomPsn":"Tressens",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

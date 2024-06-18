@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"LOUBET",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Younès",
+        "NomPsn":"BOUCETTA",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Diane",
+        "NomPsn":"BOUSSET",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Luc",
+        "NomPsn":"MULLER",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Yasmine",
+        "NomPsn":"SELMANI",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5707",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"André",
+        "NomPsn":"WOJCIECHOWSKI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

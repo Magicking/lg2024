@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Alma",
+        "NomPsn":"DUFOUR",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"BONNATERRE",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Ingrid",
+        "NomPsn":"LOSFELD",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"PENELLE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7604",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"PODGUSZER",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

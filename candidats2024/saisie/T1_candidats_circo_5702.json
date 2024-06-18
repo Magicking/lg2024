@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Ludovic ",
+        "NomPsn":"MENDES ",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Aurélie ",
+        "NomPsn":"CONTAL ",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Victorien ",
+        "NomPsn":"NICOLAS ",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Laurent ",
+        "NomPsn":"PARISSE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Mario",
+        "NomPsn":"RINALDI ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Gisèle ",
+        "NomPsn":"TATY BOUANGA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5702",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marie-Claude",
+        "NomPsn":"VOINÇON ",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

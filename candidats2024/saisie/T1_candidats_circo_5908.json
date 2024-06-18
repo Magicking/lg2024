@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5908",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"David",
+        "NomPsn":"GUIRAUD",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5908",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Maël",
+        "NomPsn":"CAMERLYNCK",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5908",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Françoise",
+        "NomPsn":"DELBARRE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5908",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Ethan",
+        "NomPsn":"LEYS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5908",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Tarik",
+        "NomPsn":"MEKKI",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

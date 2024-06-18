@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Jean-Paul",
+        "NomPsn":"LECOQ",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Magali",
+        "NomPsn":"CAUCHOIS",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Régis",
+        "NomPsn":"DEBONS",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"LE COZ",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Benoît",
+        "NomPsn":"NAOUS",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

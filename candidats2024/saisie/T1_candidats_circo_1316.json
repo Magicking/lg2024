@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"TACHE DE LA PAGERIE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BERNARDET",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Marion",
+        "NomPsn":"BISCIONE",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Samir",
+        "NomPsn":"BOUZIANI",
+        "LibNuaCand":"Équinoxe",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Guy",
+        "NomPsn":"DUBOST",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"KOUKAS",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1316",
+        "LibCirElec":"16ème circonscription",
+        "PrenomPsn":"Florent",
+        "NomPsn":"SEDDIK",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

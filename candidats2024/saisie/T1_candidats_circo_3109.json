@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Christine ",
+        "NomPsn":"Arrighi",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Camille",
+        "NomPsn":" Clinet",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Nathanaëlle",
+        "NomPsn":" Loubet-Sruh",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Caroline ",
+        "NomPsn":"Beout",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Florian ",
+        "NomPsn":"Delrieu",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Christelle ",
+        "NomPsn":"Filippi",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3109",
+        "LibCirElec":"9ème circonscription",
+        "PrenomPsn":"Henri ",
+        "NomPsn":"Martin ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

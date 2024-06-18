@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Florence ",
+        "NomPsn":"GOULET ",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jérôme ",
+        "NomPsn":"DUMONT ",
+        "LibNuaCand":"Union républicaine du centre et de la droite",
+        "Couleur":"#00ffff",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Johan ",
+        "NomPsn":"LAFLOTTE ",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Valentine",
+        "NomPsn":"LAFUE ",
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"NORDEMANN ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

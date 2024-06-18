@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Anthony",
+        "NomPsn":"BROSSE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Christine",
+        "NomPsn":"BIARDEAU",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Anne-Laure",
+        "NomPsn":"BOUTET",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Lin",
+        "NomPsn":"LACAPELLE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"QUELIN",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Martine",
+        "NomPsn":"ROBERT",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"45",
+        "LibDpt":"Loiret",
+        "CodCirElec":"4505",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Céline",
+        "NomPsn":"SOTTEJEAU",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

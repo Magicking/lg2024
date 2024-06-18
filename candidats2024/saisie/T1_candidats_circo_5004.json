@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"50",
+        "LibDpt":"Manche",
+        "CodCirElec":"5004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anna",
+        "NomPsn":"PIC",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"50",
+        "LibDpt":"Manche",
+        "CodCirElec":"5004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Abdelkader",
+        "NomPsn":"BENRAMDANE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"50",
+        "LibDpt":"Manche",
+        "CodCirElec":"5004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"CONQUER",
+        "LibNuaCand":"Divers extrême droite",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"50",
+        "LibDpt":"Manche",
+        "CodCirElec":"5004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Yann",
+        "NomPsn":"DA CRUZ-LEGELEUX",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"50",
+        "LibDpt":"Manche",
+        "CodCirElec":"5004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Yann",
+        "NomPsn":"LEPETIT",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"50",
+        "LibDpt":"Manche",
+        "CodCirElec":"5004",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Camille",
+        "NomPsn":"MARGUERITTE",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

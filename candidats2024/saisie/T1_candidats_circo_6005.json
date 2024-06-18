@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"VATIN",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Hélène",
+        "NomPsn":"BECHERINI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Paul",
+        "NomPsn":"BOUCHER",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"BRASSENS",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Etienne",
+        "NomPsn":"DIOT",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"ROGEZ",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"60",
+        "LibDpt":"Oise",
+        "CodCirElec":"6005",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"VOS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

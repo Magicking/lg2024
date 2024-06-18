@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Mounir",
+        "NomPsn":"Belhamiti",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Karim",
+        "NomPsn":"Benbrahim",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Betty",
+        "NomPsn":"Collober",
+        "LibNuaCand":"Nouveau parti anticapitaliste (NPA)",
+        "Couleur":"#af0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Hélène ",
+        "NomPsn":"Defrance",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Bryan",
+        "NomPsn":"Pecqueur",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

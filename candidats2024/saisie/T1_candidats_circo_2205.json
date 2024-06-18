@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"BOTHOREL",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Yann",
+        "NomPsn":"GUEGEN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-Yves",
+        "NomPsn":"LE BOULANGER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Marielle",
+        "NomPsn":"LEMAITRE",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Louis",
+        "NomPsn":"Margueritte",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"Cadiot",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Pascal",
+        "NomPsn":"Dufraigne",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Fatima",
+        "NomPsn":"Kouriche",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Gilles",
+        "NomPsn":"Platret",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Arnaud",
+        "NomPsn":"Sanvert",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

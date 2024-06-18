@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Hadrien ",
+        "NomPsn":"Clouet",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Evelyne ",
+        "NomPsn":"Boujat",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Lola",
+        "NomPsn":"Chambelin",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alexis",
+        "NomPsn":"De Berranger",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Elodie ",
+        "NomPsn":"Hobet ",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Olivier ",
+        "NomPsn":"Le Penven",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3101",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Marie",
+        "NomPsn":"Trouillet",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]

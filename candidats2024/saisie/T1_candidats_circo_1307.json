@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"DELOGU",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Ines",
+        "NomPsn":"ALBACETE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Hayat",
+        "NomPsn":"ATIA",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Hakim",
+        "NomPsn":"BENAMRANE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Danièle",
+        "NomPsn":"PÉCOUT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1307",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Arezki",
+        "NomPsn":"SELLOUM",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

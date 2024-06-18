@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Bastien",
+        "NomPsn":"VERBRUGGHE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Marcellin",
+        "NomPsn":"BRAZON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"CHARLON",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Gérald",
+        "NomPsn":"DARMANIN",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"GARCIA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Leslie",
+        "NomPsn":"MORTREUX",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5910",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Gustave",
+        "NomPsn":"VIGUIE-DESPLACES",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Jérémie",
+        "NomPsn":"PATRIER-LEITUS",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Edouard",
+        "NomPsn":"FAUVAGE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Michel",
+        "NomPsn":"LANGEVIN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Steven",
+        "NomPsn":"MAFIODO",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"TRUFFAUT",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1403",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Thierry-Paul",
+        "NomPsn":"VALETTE",
+        "LibNuaCand":"Europe Équitable",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

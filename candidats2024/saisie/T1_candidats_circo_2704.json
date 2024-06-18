@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"BRUN",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Stacy",
+        "NomPsn":"BLONDEL",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Olivier",
+        "NomPsn":"ISTIN",
+        "LibNuaCand":"LR - UDI - Les Centristes",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Patrice",
+        "NomPsn":"PAUPER",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"SOLAL",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2704",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"TERLEZ",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":null,
+        "Details":null
+    }
+]

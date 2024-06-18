@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"BAY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"CHEVROLLIER",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Harold",
+        "NomPsn":"HUWART",
+        "LibNuaCand":"Parti radical",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"LAQUA",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Rémi",
+        "NomPsn":"MARTIAL",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

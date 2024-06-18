@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marina",
+        "NomPsn":"FERRARI",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Adien",
+        "NomPsn":"CASEJUANE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"CHAUVEAU",
+        "LibNuaCand":"Aliance des souverainistes et patriotes",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Typhanie",
+        "NomPsn":"DEGOIS",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Frédéric",
+        "NomPsn":"EXERTIER",
+        "LibNuaCand":"Mouvement \"hommes animaux nature\"",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Christel",
+        "NomPsn":"GRANATA",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Guy-Alain",
+        "NomPsn":"PEYRARD",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Louis",
+        "NomPsn":"ALBRAND",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"FINE",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Boris",
+        "NomPsn":"GUIGNARD",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Johann",
+        "NomPsn":"MONDAIN",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"05",
+        "LibDpt":"Hautes-Alpes",
+        "CodCirElec":"0502",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"ROSSI",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

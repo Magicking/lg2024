@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"David",
+        "NomPsn":"VALENCE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Lionel",
+        "NomPsn":"CHAMBROT",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Gaëtan",
+        "NomPsn":"DUSSAUSAYE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Emma",
+        "NomPsn":"GATEAU",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jeanne-Françoise",
+        "NomPsn":"LANGLADE ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"THIEBAUT",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Julie",
+        "NomPsn":"XICOLA",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

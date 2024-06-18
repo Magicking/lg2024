@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"Dupuis",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sandra",
+        "NomPsn":"Germain",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Julien",
+        "NomPsn":"Guibert",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Aurore",
+        "NomPsn":"Munoz",
+        "LibNuaCand":"Pas d'information",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Christian",
+        "NomPsn":"Paul",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"58",
+        "LibDpt":"Nièvre",
+        "CodCirElec":"5802",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marc-Alexandre",
+        "NomPsn":"Vincent",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

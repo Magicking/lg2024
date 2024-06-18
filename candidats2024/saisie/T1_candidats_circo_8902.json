@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"André",
+        "NomPsn":"Villiers",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Anita",
+        "NomPsn":"Carrasco",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"Demussy",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Iris",
+        "NomPsn":"Nakov",
+        "LibNuaCand":"Mouvement écologiste indépendant",
+        "Couleur":"#09c10c",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sophie-Laurence",
+        "NomPsn":"Roy Clemendot",
+        "LibNuaCand":"Divers extrême droite",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"Verhegge",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"89",
+        "LibDpt":"Yonne",
+        "CodCirElec":"8902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"Veyssière",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

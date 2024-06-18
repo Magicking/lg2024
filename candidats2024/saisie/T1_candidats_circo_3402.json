@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"Oziol",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Christelle ",
+        "NomPsn":"Boyer",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sandra ",
+        "NomPsn":"Houée",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Robert ",
+        "NomPsn":"Le Stum",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Hugo ",
+        "NomPsn":"Leboon",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Flavia ",
+        "NomPsn":"Mangano",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Didier ",
+        "NomPsn":"Michel",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

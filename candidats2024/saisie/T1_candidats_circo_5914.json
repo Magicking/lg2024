@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "PrenomPsn":"Paul",
+        "NomPsn":"CHRISTOPHE",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"DESRAYAUD",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "PrenomPsn":"Jean-Baptiste",
+        "NomPsn":"GARDES",
+        "LibNuaCand":"Divers extrême droite",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "PrenomPsn":"Philippine",
+        "NomPsn":"HEYMAN",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "PrenomPsn":"Anne-Lise",
+        "NomPsn":"PERCHE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

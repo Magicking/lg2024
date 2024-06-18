@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Fadila",
+        "NomPsn":"Khattabi",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Charle",
+        "NomPsn":"Bourgadel",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"Coudert",
+        "LibNuaCand":"Divers extrême droite",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Fabienne",
+        "NomPsn":"Delorme",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Georges",
+        "NomPsn":"Mezui",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2103",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"Pribetich",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Jean-Louis",
+        "NomPsn":"BRICOUT",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Eddy",
+        "NomPsn":"CASTERMAN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Damien",
+        "NomPsn":"CREON",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Anne-Marie",
+        "NomPsn":"FOURNIER",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Lætitia",
+        "NomPsn":"VOISIN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

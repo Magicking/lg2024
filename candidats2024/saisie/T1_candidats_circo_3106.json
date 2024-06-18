@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Monique",
+        "NomPsn":" Iborra ",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Nadine",
+        "NomPsn":" Demange-Fierlej",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Sandra",
+        "NomPsn":" Laporte",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Michèle",
+        "NomPsn":" Puel",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Annaël ",
+        "NomPsn":"Gerard",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3106",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Arnaud ",
+        "NomPsn":"Simion",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    }
+]

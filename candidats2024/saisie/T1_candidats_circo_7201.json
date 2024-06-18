@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Julie",
+        "NomPsn":"Delpech",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Ghislaine",
+        "NomPsn":"Bonnet",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Clément",
+        "NomPsn":"Coulon",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"Maillet",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"72",
+        "LibDpt":"Sarthe",
+        "CodCirElec":"7201",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Céline",
+        "NomPsn":"de Cossé Brissac",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

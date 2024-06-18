@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"Josso",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Marie-France",
+        "NomPsn":"Belin",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Gaëlle",
+        "NomPsn":"Bourdeau",
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"Corbin",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Michel",
+        "NomPsn":"Hunault",
+        "LibNuaCand":"DVD - soutien RN",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"Mahé",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4407",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"Plouvier",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"DAHAN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Aline",
+        "NomPsn":"FRADIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"GERARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"JUVIN",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9203",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Carole",
+        "NomPsn":"ROUSSEL",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

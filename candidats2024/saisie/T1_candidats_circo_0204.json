@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0204",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"José",
+        "NomPsn":"BEAURAIN",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0204",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Flora",
+        "NomPsn":"BOUILLAGUET",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0204",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"GOUJARD",
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0204",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"MAURICE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"02",
+        "LibDpt":"Aisne",
+        "CodCirElec":"0204",
+        "LibCirElec":"4ème circonscription",
+        "PrenomPsn":"Lola",
+        "NomPsn":"PRIÉ",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    }
+]

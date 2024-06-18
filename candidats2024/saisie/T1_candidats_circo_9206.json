@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"François-Xavier",
+        "NomPsn":"DEROCHE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Geoffroy",
+        "NomPsn":"DIDIER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Constance",
+        "NomPsn":"LE GRIP",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Françoise",
+        "NomPsn":"MARCEL",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Jean",
+        "NomPsn":"MESSIHA",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Sihame",
+        "NomPsn":"MUSCIANISI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9206",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Alexis",
+        "NomPsn":"PANY",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

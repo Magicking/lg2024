@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Ugo",
+        "NomPsn":"BERNALICIS",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"BOISARD-VANNIER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Claire",
+        "NomPsn":"GUENON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"GUERARD",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Pascale",
+        "NomPsn":"ROUGÉE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Violette",
+        "NomPsn":"SALANON",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5902",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Etienne",
+        "NomPsn":"TESTART",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

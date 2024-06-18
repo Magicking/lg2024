@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Jean-Marc",
+        "NomPsn":"ZULESI",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Rémy",
+        "NomPsn":"BAZZALI",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"BEDDOCK",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Céline",
+        "NomPsn":"FANFAN",
+        "LibNuaCand":"Écologie au centre",
+        "Couleur":"#04B34D",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"TONUSSI",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Jeanne",
+        "NomPsn":"VIGIER",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1308",
+        "LibCirElec":"8ème circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"VOLPINI",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

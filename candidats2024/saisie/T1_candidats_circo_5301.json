@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"Garot",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"Hibon Arthuis",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"Romier",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"Saulnier",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"53",
+        "LibDpt":"Mayenne",
+        "CodCirElec":"5301",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Paule ",
+        "NomPsn":"Veyre de Soras",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

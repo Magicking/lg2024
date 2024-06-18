@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Andrée",
+        "NomPsn":"TAURINYA",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":"sortante",
+        "Details":"Secrétaire de la commission des Lois"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"BREUIL",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":"Déja candidat en 2022"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"DIETERICH",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":"déja candidate en 2022"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"DOUSPIS",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":"la voix du peuple et du citoyen"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Quentin",
+        "NomPsn":"FONTVIEILLE",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Eric",
+        "NomPsn":"LE JAOUEN",
+        "LibNuaCand":"LR - UDI - Les Centristes",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":"Ancien président de l'Unedic "
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4202",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Martial",
+        "NomPsn":"MOSSMANN",
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
+        "Sortant":null,
+        "Details":null
+    }
+]

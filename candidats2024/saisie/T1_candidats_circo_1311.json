@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Mohamed",
+        "NomPsn":"LAQHILA",
+        "LibNuaCand":"Ensemble",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Michel",
+        "NomPsn":"BAYLE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"FABRE-AUBRESPY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"MARIA",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"MEBTOUCHE",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"PENA",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"13",
+        "LibDpt":"Bouches-du-Rhône",
+        "CodCirElec":"1311",
+        "LibCirElec":"11ème circonscription",
+        "PrenomPsn":"Fayçal",
+        "NomPsn":"ZERGUINE",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

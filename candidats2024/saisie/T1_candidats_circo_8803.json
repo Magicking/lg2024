@@ -1,0 +1,54 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"NAEGELEN",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Etienne",
+        "NomPsn":"BACHELART",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"BAILLY",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"88",
+        "LibDpt":"Vosges",
+        "CodCirElec":"8803",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Pauline",
+        "NomPsn":"FRESSE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

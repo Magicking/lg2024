@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"KASBARIAN",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Marie-José",
+        "NomPsn":"AUBERT",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"BRIDET",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Pierre-Louis",
+        "NomPsn":"DELAUNEY",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Emma",
+        "NomPsn":"MINOT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"28",
+        "LibDpt":"Eure-et-Loir",
+        "CodCirElec":"2801",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Ladislas",
+        "NomPsn":"VERGNE",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

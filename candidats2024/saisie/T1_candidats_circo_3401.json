@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"Arguel",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Eric ",
+        "NomPsn":"Chaveroche",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Morgane ",
+        "NomPsn":"Lachiver",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Stéphanie ",
+        "NomPsn":"Lévy",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Patricia",
+        "NomPsn":"Miralles ",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":"Secrétaire d'Etat"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Josyan ",
+        "NomPsn":"Oliva",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-Louis",
+        "NomPsn":"Roumegas",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

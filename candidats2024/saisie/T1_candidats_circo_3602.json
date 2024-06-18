@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"FORISSIER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Damien",
+        "NomPsn":"MERCIER",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Clément",
+        "NomPsn":"SAPIN",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"SCHWARZ",
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"36",
+        "LibDpt":"Indre",
+        "CodCirElec":"3602",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Marc",
+        "NomPsn":"SIFFERT",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

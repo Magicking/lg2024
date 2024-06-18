@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Maud",
+        "NomPsn":"BREGEON",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Brice",
+        "NomPsn":"GAILLARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Numa",
+        "NomPsn":"ISNARD",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Marie",
+        "NomPsn":"PRETO",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Mohamed",
+        "NomPsn":"TOUNSI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9213",
+        "LibCirElec":"13ème circonscription",
+        "PrenomPsn":"Patrick",
+        "NomPsn":"YVARS",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

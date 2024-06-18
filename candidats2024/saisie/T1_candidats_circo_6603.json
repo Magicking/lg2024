@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6603",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"Dogor-Such",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6603",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"Cullell",
+        "LibNuaCand":"Nouveau Front populaire",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6603",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"Gayte",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6603",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Lucila",
+        "NomPsn":"Grau",
+        "LibNuaCand":"Front catalan",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6603",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Alexandre",
+        "NomPsn":"Michaut",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"66",
+        "LibDpt":"Pyrénées-Orientales",
+        "CodCirElec":"6603",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Anna-Maria",
+        "NomPsn":"Urroz",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":" Portarrieu",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":" Bonnemaison",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Julien",
+        "NomPsn":" Leonardelli",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Sylvie ",
+        "NomPsn":"Espagnolle",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Michel ",
+        "NomPsn":"Laserge",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3105",
+        "LibCirElec":"5ème circonscription",
+        "PrenomPsn":"Dominique ",
+        "NomPsn":"Piussan",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    }
+]
