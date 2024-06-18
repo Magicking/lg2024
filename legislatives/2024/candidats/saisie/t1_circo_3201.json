@@ -72,8 +72,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Ludovic ",
         "NomPsn":"LARRÉ",
-        "LibNuaCand":"Parti animaliste",
-        "Couleur":"#FFBF0B",
+        "LibNuaCand":"Mouvement pour les animaux",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
