@@ -46,8 +46,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Paul-Eric",
         "NomPsn":"DECLE",
-        "LibNuaCand":"Union républicaine du centre et de la droite",
-        "Couleur":"#00ffff",
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Renaud",
         "NomPsn":"DESCHAMPS",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },

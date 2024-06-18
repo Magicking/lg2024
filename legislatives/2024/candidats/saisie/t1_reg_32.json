@@ -163,8 +163,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Jean-Louis",
         "NomPsn":"BRICOUT",
-        "LibNuaCand":"Nouveau Front populaire (LIOT)",
-        "Couleur":"#ffc0c0",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
         "Sortant":"sortant",
         "Details":null
     },
@@ -3569,8 +3569,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Bruno",
         "NomPsn":"DUMONT",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
         "Sortant":null,
         "Details":null
     },
@@ -3634,8 +3634,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Paul-Eric",
         "NomPsn":"DECLE",
-        "LibNuaCand":"Union républicaine du centre et de la droite",
-        "Couleur":"#00ffff",
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
         "Sortant":null,
         "Details":null
     },
@@ -3647,8 +3647,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Renaud",
         "NomPsn":"DESCHAMPS",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -3946,8 +3946,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Séverine",
         "NomPsn":"MORDACQ",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Union républicaine du centre et de la droite",
+        "Couleur":"#00ffff",
         "Sortant":null,
         "Details":null
     }
