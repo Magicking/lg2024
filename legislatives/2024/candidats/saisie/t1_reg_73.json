@@ -1359,7 +1359,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Pascal",
         "NomPsn":"LEVIEUX",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -1427,7 +1427,7 @@
         "LibNuaCand":"Divers gauche",
         "Couleur":"#de3c80",
         "Sortant":null,
-        "Details":null
+        "Details":"Bastir Occitanie"
     },
     {
         "NumTour":"1",
