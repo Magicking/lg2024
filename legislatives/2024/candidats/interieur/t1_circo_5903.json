@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Sandra",
+        "NomPsn":"DELANNOY",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Louis",
+        "NomPsn":"MAHIEU",
+        "CodNuaCand":"REC",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"SAINT-HUILE",
+        "CodNuaCand":"DVG",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Marie-Claude",
+        "NomPsn":"RONDEAUX",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4204",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"BONNET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4204",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Bernard",
+        "NomPsn":"PAEMELAERE",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4204",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Gerbert",
+        "NomPsn":"RAMBAUD",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"42",
+        "LibDpt":"Loire",
+        "CodCirElec":"4204",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Nora",
+        "NomPsn":"IBBARI",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5913",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Julien",
+        "NomPsn":"GOKEL",
+        "CodNuaCand":"DIV",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5913",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Clément",
+        "NomPsn":"BÉZINE",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5913",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Maxence",
+        "NomPsn":"ACCART",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5913",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Damien",
+        "NomPsn":"LACROIX",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

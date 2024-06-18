@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Fabrice",
+        "NomPsn":"ROUSSEL",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Emmanuelle",
+        "NomPsn":"CLOPEAU",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Sarah",
+        "NomPsn":"EL HAÏRY",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"44",
+        "LibDpt":"Loire-Atlantique",
+        "CodCirElec":"4405",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"COMBY",
+        "CodNuaCand":"UXD",
+        "LibNuaCand":"Union de l'extrême droite",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

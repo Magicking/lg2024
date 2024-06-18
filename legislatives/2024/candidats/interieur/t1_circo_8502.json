@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"HELARY",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"BARILLOT",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Marie-Christine",
+        "NomPsn":"EBRAN",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"85",
+        "LibDpt":"Vendée",
+        "CodCirElec":"8502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Béatrice",
+        "NomPsn":"BELLAMY",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

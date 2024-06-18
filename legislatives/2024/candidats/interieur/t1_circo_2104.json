@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Hubert",
+        "NomPsn":"BRIGAND",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"DUMONT",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Michel",
+        "NomPsn":"DENIZOT",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"21",
+        "LibDpt":"Côte-d'Or",
+        "CodCirElec":"2104",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Valérie",
+        "NomPsn":"JACQ",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

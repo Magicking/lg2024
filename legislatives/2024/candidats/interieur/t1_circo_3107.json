@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"BERGNES",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Elisabeth",
+        "NomPsn":"TOUTUT-PICARD",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"BEX",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3107",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Gaëtan",
+        "NomPsn":"INARD",
+        "CodNuaCand":"UXD",
+        "LibNuaCand":"Union de l'extrême droite",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

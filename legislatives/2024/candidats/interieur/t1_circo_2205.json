@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean-Yves",
+        "NomPsn":"LE BOULANGER",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Yann",
+        "NomPsn":"GUÉGUEN",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Eric",
+        "NomPsn":"BOTHOREL",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"22",
+        "LibDpt":"Côtes-d'Armor",
+        "CodCirElec":"2205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Marielle",
+        "NomPsn":"LEMAITRE",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

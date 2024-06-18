@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Aymeric",
+        "NomPsn":"MONGELOUS",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"PLASSARD",
+        "CodNuaCand":"HOR",
+        "LibNuaCand":"Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Anne",
+        "NomPsn":"BRACHET",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"17",
+        "LibDpt":"Charente-Maritime",
+        "CodCirElec":"1705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Danièle",
+        "NomPsn":"CASSETTE",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Célia",
+        "NomPsn":"FONSECA",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Edwige",
+        "NomPsn":"DIAZ",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Zina",
+        "NomPsn":"AHMIMOU",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3311",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Véronique",
+        "NomPsn":"HAMMERER",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Hervé",
+        "NomPsn":"PRAT",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"REVOY",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Justine",
+        "NomPsn":"GRUET",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"39",
+        "LibDpt":"Jura",
+        "CodCirElec":"3903",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Aurore",
+        "NomPsn":"VUILLEMIN-PLANCON",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

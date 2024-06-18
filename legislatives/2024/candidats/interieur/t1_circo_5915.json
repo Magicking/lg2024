@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5915",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Pierrick",
+        "NomPsn":"BERTELOOT",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5915",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Émilie",
+        "NomPsn":"DUCOURANT",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5915",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"BATAILLE",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5915",
+        "LibCirElec":"15ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Benjamin",
+        "NomPsn":"DUBIEZ",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

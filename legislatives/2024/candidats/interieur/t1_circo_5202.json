@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"52",
+        "LibDpt":"Haute-Marne",
+        "CodCirElec":"5202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Ingrid",
+        "NomPsn":"VIOT",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"52",
+        "LibDpt":"Haute-Marne",
+        "CodCirElec":"5202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Justin",
+        "NomPsn":"PRUM",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"52",
+        "LibDpt":"Haute-Marne",
+        "CodCirElec":"5202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"LACROIX",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"52",
+        "LibDpt":"Haute-Marne",
+        "CodCirElec":"5202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Laurence",
+        "NomPsn":"ROBERT-DEHAULT",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

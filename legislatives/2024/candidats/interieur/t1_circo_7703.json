@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Davy",
+        "NomPsn":"BRUN",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Laura",
+        "NomPsn":"VALLÉE-HANS",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Catherine",
+        "NomPsn":"VAN CAUTEREN",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7703",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jean-Louis",
+        "NomPsn":"THIERIOT",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Daniel",
+        "NomPsn":"IBANEZ",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Marie",
+        "NomPsn":"DAUCHY",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Emilie",
+        "NomPsn":"BONNIVARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7303",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Pascale",
+        "NomPsn":"TROUVÉ",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

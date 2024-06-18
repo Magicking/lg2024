@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Laure",
+        "NomPsn":"AUGIER",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Jean-Luc",
+        "NomPsn":"WARSMANN",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Isabelle",
+        "NomPsn":"ROGER",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"08",
+        "LibDpt":"Ardennes",
+        "CodCirElec":"0803",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"PERRIN",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

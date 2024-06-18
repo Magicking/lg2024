@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Nacéra",
+        "NomPsn":"SALHAOUI",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"SACK",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Bastien",
+        "NomPsn":"LACHAUD",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9306",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"ARTHAUD",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
