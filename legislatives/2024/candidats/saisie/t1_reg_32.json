@@ -124,8 +124,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Didier",
         "NomPsn":"KACZMAREK",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -254,8 +254,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Philippe",
         "NomPsn":"GOUJARD",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Les Centristes",
+        "Couleur":"#9AC4F9",
         "Sortant":null,
         "Details":null
     },
@@ -2334,8 +2334,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Sophie",
         "NomPsn":"REYNAL",
-        "LibNuaCand":"Les Centristes",
-        "Couleur":"#9AC4F9",
+        "LibNuaCand":"Écologie au centre",
+        "Couleur":"#04B34D",
         "Sortant":null,
         "Details":null
     },
