@@ -735,8 +735,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Marie-Noëlle",
         "NomPsn":"HUARD",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
