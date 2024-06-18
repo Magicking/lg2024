@@ -304,19 +304,6 @@
         "LibDpt":"Hérault",
         "CodCirElec":"3401",
         "LibCirElec":"1ère circonscription",
-        "PrenomPsn":"Patricia",
-        "NomPsn":"MIRALLES ",
-        "LibNuaCand":"Renaissance",
-        "Couleur":"#9859fc",
-        "Sortant":"sortante",
-        "Details":"Secrétaire d'Etat"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"34",
-        "LibDpt":"Hérault",
-        "CodCirElec":"3401",
-        "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alexandre",
         "NomPsn":"ARGUEL",
         "LibNuaCand":null,
@@ -362,6 +349,19 @@
         "Couleur":null,
         "Sortant":null,
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3401",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Patricia",
+        "NomPsn":"MIRALLES ",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":"Secrétaire d'Etat"
     },
     {
         "NumTour":"1",
