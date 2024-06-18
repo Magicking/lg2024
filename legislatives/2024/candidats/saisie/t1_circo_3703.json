@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Henri",
+        "NomPsn":"ALFANDARI",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Sandra",
+        "NomPsn":"BARBIER",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Xavier",
+        "NomPsn":"BOURIN",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Amin",
+        "NomPsn":"BRIMOU",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Emmanuel",
+        "NomPsn":"FRANÇOIS",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"LENGENDRE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3703",
+        "LibCirElec":"3ème circonscription",
+        "PrenomPsn":"Jules",
+        "NomPsn":"ROBIN",
+        "LibNuaCand":"À droite les amis d'Éric Ciotti",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

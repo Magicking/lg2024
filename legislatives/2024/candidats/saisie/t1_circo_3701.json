@@ -1,0 +1,93 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Charles",
+        "NomPsn":"FOURNIER",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Alain",
+        "NomPsn":"DAYAN",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Lisa",
+        "NomPsn":"GARBAY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Lucas",
+        "NomPsn":"JANER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Thomas",
+        "NomPsn":"JOUHANNAUD",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Arnaud",
+        "NomPsn":"OSSART",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"37",
+        "LibDpt":"Indre-et-Loire",
+        "CodCirElec":"3701",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Benoist",
+        "NomPsn":"PIERRE",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]
