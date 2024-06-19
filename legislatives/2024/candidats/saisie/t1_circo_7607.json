@@ -20,8 +20,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Véronique",
         "NomPsn":"DE LA BROSSE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Catherine",
         "NomPsn":"OMONT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },

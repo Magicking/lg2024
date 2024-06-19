@@ -33,8 +33,8 @@
         "LibCirElec":"9ème circonscription",
         "PrenomPsn":"Aude",
         "NomPsn":"DE CASTET",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"9ème circonscription",
         "PrenomPsn":"Solène",
         "NomPsn":"MOREL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     },

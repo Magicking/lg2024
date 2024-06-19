@@ -20,8 +20,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Marie-Françoise",
         "NomPsn":"ACCARD",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -98,8 +98,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Soren",
         "NomPsn":"PETIOT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
         "Sortant":null,
         "Details":null
     }
