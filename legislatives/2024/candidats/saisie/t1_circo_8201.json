@@ -46,8 +46,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alain",
         "NomPsn":"BRU",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -59,10 +59,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jean-François",
         "NomPsn":"GRILHAUT DES FONTAINES",
-        "LibNuaCand":null,
+        "LibNuaCand":"Solidarités et progrès",
         "Couleur":null,
         "Sortant":null,
-        "Details":"Solidarité & progrès"
+        "Details":null
     },
     {
         "NumTour":"1",

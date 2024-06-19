@@ -2113,8 +2113,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alain",
         "NomPsn":"BRU",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -2126,10 +2126,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jean-François",
         "NomPsn":"GRILHAUT DES FONTAINES",
-        "LibNuaCand":null,
+        "LibNuaCand":"Solidarités et progrès",
         "Couleur":null,
         "Sortant":null,
-        "Details":"Solidarité & progrès"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -2178,10 +2178,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Claudie ",
         "NomPsn":"CHRÉTIEN",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
