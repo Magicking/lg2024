@@ -1580,7 +1580,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Damien",
         "NomPsn":"ADAM",
-        "LibNuaCand":"Ensemble - Renaissance",
+        "LibNuaCand":"Ensemble",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -1593,8 +1593,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"CHABERT",
-        "LibNuaCand":"LR - UDI - Les Centristes",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -1645,8 +1645,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jody",
         "NomPsn":"HORCHOLLE",
-        "LibNuaCand":"Écologie au centre",
-        "Couleur":"#04B34D",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -1684,7 +1684,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Mikhail",
         "NomPsn":"STACHKOV",
-        "LibNuaCand":null,
+        "LibNuaCand":"Divers",
         "Couleur":null,
         "Sortant":null,
         "Details":null
