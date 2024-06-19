@@ -83,9 +83,9 @@
         "NumPanneauCand":"1",
         "PrenomPsn":"Sébastien",
         "NomPsn":"CAUGANT",
-        "CodNuaCand":"EXD",
-        "LibNuaCand":"Extrême droite",
-        "Couleur":"#1019c1",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
