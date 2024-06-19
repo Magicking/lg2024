@@ -88,7 +88,7 @@
         "LibNuaCand":"Rassemblement national",
         "Couleur":"#002E61",
         "Sortant":"sortante",
-        "Details":null
+        "Details":"Son suppléant est le maire RN de Moissac"
     },
     {
         "NumTour":"1",
@@ -98,7 +98,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Claire ",
         "NomPsn":"AYMES",
-        "LibNuaCand":null,
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":"Bastir Occitanie"
@@ -124,10 +124,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jules ",
         "NomPsn":"DUFFAUT",
-        "LibNuaCand":"Horizons",
+        "LibNuaCand":"Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
-        "Details":null
+        "Details":"Horizons"
     },
     {
         "NumTour":"1",
@@ -140,7 +140,7 @@
         "LibNuaCand":"Parti radical",
         "Couleur":null,
         "Sortant":null,
-        "Details":"Parti radical de gauche"
+        "Details":"Parti radical de gauche. Son suppléant est le président du T&G"
     },
     {
         "NumTour":"1",
