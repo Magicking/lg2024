@@ -1359,10 +1359,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Pascal",
         "NomPsn":"LEVIEUX",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire (LFI)"
     },
     {
         "NumTour":"1",
