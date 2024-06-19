@@ -278,9 +278,9 @@
         "NumPanneauCand":"2",
         "PrenomPsn":"Didier",
         "NomPsn":"HOAREAU",
-        "CodNuaCand":"EXG",
-        "LibNuaCand":"Extrême gauche",
-        "Couleur":"#AF0000",
+        "CodNuaCand":"EXD",
+        "LibNuaCand":"Extrême droite",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
