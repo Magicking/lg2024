@@ -46,8 +46,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Manuela",
         "NomPsn":"CHEVALIER",
-        "LibNuaCand":"Divers droite",
-        "Couleur":"#0099FF",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -59,8 +59,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Didier",
         "NomPsn":"DURANDY",
-        "LibNuaCand":"Le Mouvement de la Ruralité",
-        "Couleur":null,
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -150,8 +150,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Patrick",
         "NomPsn":"LEVACHER",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
