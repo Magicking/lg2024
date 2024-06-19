@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"GEOFFROY-MARTIN",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"95",
+        "LibDpt":"Val-d'Oise",
+        "CodCirElec":"9502",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Guillaume",
+        "NomPsn":"VUILLETET",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

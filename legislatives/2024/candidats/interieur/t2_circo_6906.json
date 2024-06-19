@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Emmanuelle",
+        "NomPsn":"HAZIZA",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"69",
+        "LibDpt":"Rhône",
+        "CodCirElec":"6906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"14",
+        "PrenomPsn":"Gabriel",
+        "NomPsn":"AMARD",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

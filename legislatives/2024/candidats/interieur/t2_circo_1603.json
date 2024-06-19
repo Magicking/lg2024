@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"16",
+        "LibDpt":"Charente",
+        "CodCirElec":"1603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"MOCOEUR",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"16",
+        "LibDpt":"Charente",
+        "CodCirElec":"1603",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"COLOMBIER",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

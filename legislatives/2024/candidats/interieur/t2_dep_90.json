@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9001",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Ian",
+        "NomPsn":"BOUCARD",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9001",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"SOUSTELLE",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Florian",
+        "NomPsn":"CHAUCHE",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"90",
+        "LibDpt":"Territoire de Belfort",
+        "CodCirElec":"9002",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"CARNICER",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

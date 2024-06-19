@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3503",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"MARTINS",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"35",
+        "LibDpt":"Ille-et-Vilaine",
+        "CodCirElec":"3503",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Claudia",
+        "NomPsn":"ROUAUX",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

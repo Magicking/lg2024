@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"MARCANGELI",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Romain",
+        "NomPsn":"COLONNA",
+        "CodNuaCand":"REG",
+        "LibNuaCand":"Régionaliste",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

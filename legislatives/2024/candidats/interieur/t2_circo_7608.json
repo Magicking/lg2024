@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean-Paul",
+        "NomPsn":"LECOQ",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"76",
+        "LibDpt":"Seine-Maritime",
+        "CodCirElec":"7608",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Wasil",
+        "NomPsn":"ECHCHENNA",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

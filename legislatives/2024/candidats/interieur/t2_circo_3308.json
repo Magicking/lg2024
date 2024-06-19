@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Sophie",
+        "NomPsn":"PANONACLE",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3308",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"LAMARA",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

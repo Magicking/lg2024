@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9312",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"LEGAVRE",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"93",
+        "LibDpt":"Seine-Saint-Denis",
+        "CodCirElec":"9312",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Stéphane",
+        "NomPsn":"TESTÉ",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

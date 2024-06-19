@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Célia",
+        "NomPsn":"PEREIRA",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Charlotte",
+        "NomPsn":"PARMENTIER-LECOCQ",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

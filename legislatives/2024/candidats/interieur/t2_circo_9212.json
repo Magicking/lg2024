@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Cathy",
+        "NomPsn":"THOMAS",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Jean-Louis",
+        "NomPsn":"BOURLANGES",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"ROBERT",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97407",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Perceval",
+        "NomPsn":"GAILLARD",
+        "CodNuaCand":"DVG",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]

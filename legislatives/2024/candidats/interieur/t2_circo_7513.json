@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7513",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Aminata",
+        "NomPsn":"NIAKATÉ",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7513",
+        "LibCirElec":"13ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"David",
+        "NomPsn":"AMIEL",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

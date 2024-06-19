@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Bertrand",
+        "NomPsn":"PANCHER",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"55",
+        "LibDpt":"Meuse",
+        "CodCirElec":"5501",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Brigitte",
+        "NomPsn":"GAUDINEAU",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"972",
+        "LibDpt":"Martinique",
+        "CodCirElec":"97202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Marcellin",
+        "NomPsn":"NADEAU",
+        "CodNuaCand":"REG",
+        "LibNuaCand":"Régionaliste",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"972",
+        "LibDpt":"Martinique",
+        "CodCirElec":"97202",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Justin",
+        "NomPsn":"PAMPHILE",
+        "CodNuaCand":"REG",
+        "LibNuaCand":"Régionaliste",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

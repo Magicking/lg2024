@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7302",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Cédric",
+        "NomPsn":"MORAND",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"73",
+        "LibDpt":"Savoie",
+        "CodCirElec":"7302",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Vincent",
+        "NomPsn":"ROLLAND",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

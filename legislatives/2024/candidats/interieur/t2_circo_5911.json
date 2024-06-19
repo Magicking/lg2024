@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Laurent",
+        "NomPsn":"PIETRASZEWSKI",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5911",
+        "LibCirElec":"11ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Roger",
+        "NomPsn":"VICOT",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

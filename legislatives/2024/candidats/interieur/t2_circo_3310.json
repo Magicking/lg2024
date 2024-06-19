@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"CHADOURNE",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"33",
+        "LibDpt":"Gironde",
+        "CodCirElec":"3310",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Florent",
+        "NomPsn":"BOUDIÉ",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

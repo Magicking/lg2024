@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Julien",
+        "NomPsn":"MORGANTI",
+        "CodNuaCand":"DVC",
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B01",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Michel",
+        "NomPsn":"CASTELLANI",
+        "CodNuaCand":"REG",
+        "LibNuaCand":"Régionaliste",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B02",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Jean-Félix",
+        "NomPsn":"ACQUAVIVA",
+        "CodNuaCand":"REG",
+        "LibNuaCand":"Régionaliste",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B02",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"François-Xavier",
+        "NomPsn":"CECCOLI",
+        "CodNuaCand":"DVD",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
+        "Sortant":null,
+        "Details":null
+    }
+]

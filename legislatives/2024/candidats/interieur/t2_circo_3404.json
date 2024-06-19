@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Sébastien",
+        "NomPsn":"ROME",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"15",
+        "PrenomPsn":"Manon",
+        "NomPsn":"BOUQUIN",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

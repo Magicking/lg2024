@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Clément",
+        "NomPsn":"BEAUNE",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7507",
+        "LibCirElec":"7ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Caroline",
+        "NomPsn":"MECARY",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

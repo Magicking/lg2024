@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"DUMONT PRIEUX",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"14",
+        "LibDpt":"Calvados",
+        "CodCirElec":"1402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Arthur",
+        "NomPsn":"DELAPORTE",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

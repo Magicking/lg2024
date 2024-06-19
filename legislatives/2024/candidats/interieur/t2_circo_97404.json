@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"David",
+        "NomPsn":"LORION",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97404",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Emeline",
+        "NomPsn":"K\/BIDI",
+        "CodNuaCand":"DVG",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]

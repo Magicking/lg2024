@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Antoine",
+        "NomPsn":"ARMAND",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"74",
+        "LibDpt":"Haute-Savoie",
+        "CodCirElec":"7402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Loris",
+        "NomPsn":"FONTANA",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

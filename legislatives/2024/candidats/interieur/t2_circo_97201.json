@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"972",
+        "LibDpt":"Martinique",
+        "CodCirElec":"97201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"EDMOND-MARIETTE",
+        "CodNuaCand":"REG",
+        "LibNuaCand":"Régionaliste",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"972",
+        "LibDpt":"Martinique",
+        "CodCirElec":"97201",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"15",
+        "PrenomPsn":"Jiovanny",
+        "NomPsn":"WILLIAM",
+        "CodNuaCand":"DVG",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]

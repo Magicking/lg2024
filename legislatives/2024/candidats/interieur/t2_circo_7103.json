@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Rémy",
+        "NomPsn":"REBEYROTTE",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"71",
+        "LibDpt":"Saône-et-Loire",
+        "CodCirElec":"7103",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"8",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"BAROIN",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

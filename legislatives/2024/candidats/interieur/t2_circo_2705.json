@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Timothée",
+        "NomPsn":"HOUSSIN",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"27",
+        "LibDpt":"Eure",
+        "CodCirElec":"2705",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"François",
+        "NomPsn":"OUZILLEAU",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

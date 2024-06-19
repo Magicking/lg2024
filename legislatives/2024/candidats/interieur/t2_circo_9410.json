@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9410",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Philippe",
+        "NomPsn":"HARDOUIN",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"94",
+        "LibDpt":"Val-de-Marne",
+        "CodCirElec":"9410",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Mathilde",
+        "NomPsn":"PANOT",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

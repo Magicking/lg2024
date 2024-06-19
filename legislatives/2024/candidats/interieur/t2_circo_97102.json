@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Justine",
+        "NomPsn":"BENIN",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"971",
+        "LibDpt":"Guadeloupe",
+        "CodCirElec":"97102",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Christian",
+        "NomPsn":"BAPTISTE",
+        "CodNuaCand":"DVG",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]

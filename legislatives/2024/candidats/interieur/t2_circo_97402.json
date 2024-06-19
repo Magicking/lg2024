@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"5",
+        "PrenomPsn":"Karine",
+        "NomPsn":"LEBON",
+        "CodNuaCand":"DVG",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"974",
+        "LibDpt":"La Réunion",
+        "CodCirElec":"97402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Audrey",
+        "NomPsn":"FONTAINE",
+        "CodNuaCand":"UDI",
+        "LibNuaCand":"Union des Démocrates et des Indépendants",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

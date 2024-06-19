@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Jérémie",
+        "NomPsn":"IORDANOFF",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3805",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Florence",
+        "NomPsn":"JAY",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

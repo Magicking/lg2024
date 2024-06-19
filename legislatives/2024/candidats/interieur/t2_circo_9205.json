@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"12",
+        "PrenomPsn":"Léa",
+        "NomPsn":"DRUET",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"92",
+        "LibDpt":"Hauts-de-Seine",
+        "CodCirElec":"9205",
+        "LibCirElec":"5ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Céline",
+        "NomPsn":"CALVEZ",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

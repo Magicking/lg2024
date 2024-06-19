@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Astrid",
+        "NomPsn":"PANOSYAN-BOUVET",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"75",
+        "LibDpt":"Paris",
+        "CodCirElec":"7504",
+        "LibCirElec":"4ème circonscription",
+        "NumPanneauCand":"13",
+        "PrenomPsn":"Brigitte",
+        "NomPsn":"KUSTER",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

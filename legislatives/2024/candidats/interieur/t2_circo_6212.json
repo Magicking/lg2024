@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Jérôme",
+        "NomPsn":"DARRAS",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"BILDE",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    }
+]

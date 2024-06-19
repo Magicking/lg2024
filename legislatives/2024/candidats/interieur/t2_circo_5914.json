@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Pierrette",
+        "NomPsn":"CUVELIER",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5914",
+        "LibCirElec":"14ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Paul",
+        "NomPsn":"CHRISTOPHE",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

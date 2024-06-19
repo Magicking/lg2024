@@ -1,0 +1,47 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"24",
+        "LibDpt":"Dordogne",
+        "CodCirElec":"2403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Cyril",
+        "NomPsn":"GIRARDEAU",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"24",
+        "LibDpt":"Dordogne",
+        "CodCirElec":"2403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Florence",
+        "NomPsn":"JOUBERT",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"24",
+        "LibDpt":"Dordogne",
+        "CodCirElec":"2403",
+        "LibCirElec":"3ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Jean-Pierre",
+        "NomPsn":"CUBERTAFON",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Nathalie",
+        "NomPsn":"OZIOL",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"34",
+        "LibDpt":"Hérault",
+        "CodCirElec":"3402",
+        "LibCirElec":"2ème circonscription",
+        "NumPanneauCand":"14",
+        "PrenomPsn":"Annie",
+        "NomPsn":"YAGUE",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

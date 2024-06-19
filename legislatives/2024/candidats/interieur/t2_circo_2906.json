@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Mélanie",
+        "NomPsn":"THOMIN",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"29",
+        "LibDpt":"Finistère",
+        "CodCirElec":"2906",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Richard",
+        "NomPsn":"FERRAND",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Sandrine",
+        "NomPsn":"DESCAVES",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"48",
+        "LibDpt":"Lozère",
+        "CodCirElec":"4801",
+        "LibCirElec":"1ère circonscription",
+        "NumPanneauCand":"6",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"MOREL A L'HUISSIER",
+        "CodNuaCand":"UDI",
+        "LibNuaCand":"Union des Démocrates et des Indépendants",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7710",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Maxime",
+        "NomPsn":"LAISNEY",
+        "CodNuaCand":"NUP",
+        "LibNuaCand":"Nouvelle union populaire écologique et sociale",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"77",
+        "LibDpt":"Seine-et-Marne",
+        "CodCirElec":"7710",
+        "LibCirElec":"10ème circonscription",
+        "NumPanneauCand":"11",
+        "PrenomPsn":"Stéphanie",
+        "NomPsn":"DO",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

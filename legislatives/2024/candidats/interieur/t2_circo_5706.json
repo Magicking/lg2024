@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5706",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"7",
+        "PrenomPsn":"Kévin",
+        "NomPsn":"PFEFFER",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"57",
+        "LibDpt":"Moselle",
+        "CodCirElec":"5706",
+        "LibCirElec":"6ème circonscription",
+        "NumPanneauCand":"9",
+        "PrenomPsn":"Christophe",
+        "NomPsn":"AREND",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    }
+]

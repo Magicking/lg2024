@@ -1,0 +1,32 @@
+[
+    {
+        "NumTour":"2",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0608",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Jean-Valéry",
+        "NomPsn":"DESENS",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"2",
+        "CodDpt":"06",
+        "LibDpt":"Alpes-Maritimes",
+        "CodCirElec":"0608",
+        "LibCirElec":"8ème circonscription",
+        "NumPanneauCand":"10",
+        "PrenomPsn":"Alexandra",
+        "NomPsn":"MARTIN",
+        "CodNuaCand":"LR",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]
