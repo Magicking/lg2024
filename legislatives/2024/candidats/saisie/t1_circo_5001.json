@@ -59,7 +59,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Michaël",
         "NomPsn":"MASSON",
-        "LibNuaCand":"Ensemble - MoDem",
+        "LibNuaCand":"Ensemble",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
@@ -72,8 +72,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jacques",
         "NomPsn":"POISSON",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Baptiste",
         "NomPsn":"RAJAUT",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Écologistes",
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
