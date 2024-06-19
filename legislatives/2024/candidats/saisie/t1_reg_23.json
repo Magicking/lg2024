@@ -345,7 +345,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Ludovic",
         "NomPsn":"BEAUJOUAN",
-        "LibNuaCand":null,
+        "LibNuaCand":"Divers",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -384,7 +384,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Frédéric",
         "NomPsn":"DUCHÉ",
-        "LibNuaCand":"Horizons",
+        "LibNuaCand":"Ensemble - Horizons",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
@@ -410,8 +410,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Christian",
         "NomPsn":"MAZURE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -423,8 +423,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Colin",
         "NomPsn":"PRÉVOTEAU DU CLARY",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
