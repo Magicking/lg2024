@@ -85,8 +85,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Pascal",
         "NomPsn":"NEUSCHWANGER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -98,8 +98,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Victor",
         "NomPsn":"OLRY",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
