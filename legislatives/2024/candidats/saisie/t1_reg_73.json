@@ -1362,7 +1362,7 @@
         "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":"Nouveau Front populaire (LFI)"
+        "Details":"Nouveau Front populaire "
     },
     {
         "NumTour":"1",
@@ -1385,10 +1385,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"David ",
         "NomPsn":"TAUPIAC",
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#fa6daa",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
         "Sortant":"sortant",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -1424,10 +1424,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jean-Luc ",
         "NomPsn":"DAVEZAC",
-        "LibNuaCand":"Divers gauche",
-        "Couleur":"#de3c80",
+        "LibNuaCand":"Régionalistes",
+        "Couleur":null,
         "Sortant":null,
-        "Details":"Bastir Occitanie"
+        "Details":"Divers gauche. Bastir Occitanie"
     },
     {
         "NumTour":"1",
@@ -1437,7 +1437,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Abla ",
         "NomPsn":"LAZORAT",
-        "LibNuaCand":null,
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
