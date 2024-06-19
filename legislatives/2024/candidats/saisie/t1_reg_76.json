@@ -1606,10 +1606,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alexis ",
         "NomPsn":"BOUDAUD ANDUAGA",
-        "LibNuaCand":"Mouvement écologiste indépendant",
-        "Couleur":"#09c10c",
+        "LibNuaCand":"Écologistes",
+        "Couleur":"#2ECC2E",
         "Sortant":null,
-        "Details":null
+        "Details":"Mouvement écologiste indépendant"
     },
     {
         "NumTour":"1",
@@ -1645,10 +1645,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Ludovic ",
         "NomPsn":"LARRÉ",
-        "LibNuaCand":"Mouvement pour les animaux",
-        "Couleur":null,
+        "LibNuaCand":"Écologistes",
+        "Couleur":"#2ECC2E",
         "Sortant":null,
-        "Details":null
+        "Details":"Mouvement pour les animaux"
     },
     {
         "NumTour":"1",
