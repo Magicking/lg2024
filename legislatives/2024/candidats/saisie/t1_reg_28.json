@@ -1047,7 +1047,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Bertrand",
         "NomPsn":"SORRE",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -1125,7 +1125,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Stéphane",
         "NomPsn":"TRAVERT",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -1177,8 +1177,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Stéphanie",
         "NomPsn":"MAUBÉ",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -1190,8 +1190,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Yohann",
         "NomPsn":"QUESNEL",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
