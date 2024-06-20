@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3006",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Sylvie",
+        "NomPsn":"JOSSERAND",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3006",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Laura",
+        "NomPsn":"AFFORTIT",
+        "LibNuaCand":"Régionalistes",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3006",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Nicolas",
+        "NomPsn":"CADÈNE",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3006",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Aurélien",
+        "NomPsn":"COLSON",
+        "LibNuaCand":"Modem",
+        "Couleur":"#ff8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3006",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Clément",
+        "NomPsn":"STEVANT",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"30",
+        "LibDpt":"Gard",
+        "CodCirElec":"3006",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Aïcha",
+        "NomPsn":"TERBÈCHE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]
