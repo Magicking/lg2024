@@ -8,7 +8,7 @@
         "PrenomPsn":"Jean-Félix",
         "NomPsn":"ACQUAVIVA",
         "LibNuaCand":"Femu a Corsica",
-        "Couleur":null,
+        "Couleur":"#fd781f",
         "Sortant":"sortant",
         "Details":null
     },
@@ -21,7 +21,7 @@
         "PrenomPsn":"Antoine",
         "NomPsn":"CARLI",
         "LibNuaCand":"Core in Fronte",
-        "Couleur":null,
+        "Couleur":"#009ab1",
         "Sortant":null,
         "Details":null
     },

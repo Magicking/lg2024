@@ -21,7 +21,7 @@
         "PrenomPsn":"Romain",
         "NomPsn":"COLONNA",
         "LibNuaCand":"Femu a Corsica",
-        "Couleur":null,
+        "Couleur":"#fd781f",
         "Sortant":null,
         "Details":null
     },
@@ -34,7 +34,7 @@
         "PrenomPsn":"Emmanuelle",
         "NomPsn":"DOMINICI",
         "LibNuaCand":"Core in Fronte",
-        "Couleur":null,
+        "Couleur":"#009ab1",
         "Sortant":null,
         "Details":null
     },
@@ -60,7 +60,7 @@
         "PrenomPsn":"Jean-François",
         "NomPsn":"LUCIANI",
         "LibNuaCand":"Partitu di a Nazione Corsa",
-        "Couleur":null,
+        "Couleur":"#bc3220",
         "Sortant":null,
         "Details":null
     },
@@ -73,7 +73,7 @@
         "PrenomPsn":"Lisandru",
         "NomPsn":"LUCIANI",
         "LibNuaCand":"Mossa Palatina",
-        "Couleur":null,
+        "Couleur":"#324b85",
         "Sortant":null,
         "Details":null
     },
@@ -112,7 +112,7 @@
         "PrenomPsn":"Paul-André",
         "NomPsn":"COLOMBANI",
         "LibNuaCand":"Partitu di a Nazione Corsa",
-        "Couleur":null,
+        "Couleur":"#bc3220",
         "Sortant":"sortant",
         "Details":null
     },
@@ -138,7 +138,7 @@
         "PrenomPsn":"Michel ",
         "NomPsn":"CHIOCCA",
         "LibNuaCand":"Mossa Palatina",
-        "Couleur":null,
+        "Couleur":"#324b85",
         "Sortant":null,
         "Details":null
     },
@@ -151,7 +151,7 @@
         "PrenomPsn":"Jean-Baptiste",
         "NomPsn":"CUCCHI",
         "LibNuaCand":"Core in Fronte",
-        "Couleur":null,
+        "Couleur":"#009ab1",
         "Sortant":null,
         "Details":null
     },
@@ -190,7 +190,7 @@
         "PrenomPsn":"Michel ",
         "NomPsn":"CASTELLANI",
         "LibNuaCand":"Femu a Corsica",
-        "Couleur":null,
+        "Couleur":"#fd781f",
         "Sortant":"sortant",
         "Details":null
     },
@@ -216,7 +216,7 @@
         "PrenomPsn":"Nicolas",
         "NomPsn":"BATTINI",
         "LibNuaCand":"Mossa Palatina",
-        "Couleur":null,
+        "Couleur":"#324b85",
         "Sortant":null,
         "Details":null
     },
@@ -268,7 +268,7 @@
         "PrenomPsn":"Batti",
         "NomPsn":"LUCCIARDI",
         "LibNuaCand":"Core in Fronte",
-        "Couleur":null,
+        "Couleur":"#009ab1",
         "Sortant":null,
         "Details":null
     },
@@ -333,7 +333,7 @@
         "PrenomPsn":"Jean-Félix",
         "NomPsn":"ACQUAVIVA",
         "LibNuaCand":"Femu a Corsica",
-        "Couleur":null,
+        "Couleur":"#fd781f",
         "Sortant":"sortant",
         "Details":null
     },
@@ -346,7 +346,7 @@
         "PrenomPsn":"Antoine",
         "NomPsn":"CARLI",
         "LibNuaCand":"Core in Fronte",
-        "Couleur":null,
+        "Couleur":"#009ab1",
         "Sortant":null,
         "Details":null
     },

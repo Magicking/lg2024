@@ -21,7 +21,7 @@
         "PrenomPsn":"Romain",
         "NomPsn":"COLONNA",
         "LibNuaCand":"Femu a Corsica",
-        "Couleur":null,
+        "Couleur":"#fd781f",
         "Sortant":null,
         "Details":null
     },
@@ -34,7 +34,7 @@
         "PrenomPsn":"Emmanuelle",
         "NomPsn":"DOMINICI",
         "LibNuaCand":"Core in Fronte",
-        "Couleur":null,
+        "Couleur":"#009ab1",
         "Sortant":null,
         "Details":null
     },
@@ -60,7 +60,7 @@
         "PrenomPsn":"Jean-François",
         "NomPsn":"LUCIANI",
         "LibNuaCand":"Partitu di a Nazione Corsa",
-        "Couleur":null,
+        "Couleur":"#bc3220",
         "Sortant":null,
         "Details":null
     },
@@ -73,7 +73,7 @@
         "PrenomPsn":"Lisandru",
         "NomPsn":"LUCIANI",
         "LibNuaCand":"Mossa Palatina",
-        "Couleur":null,
+        "Couleur":"#324b85",
         "Sortant":null,
         "Details":null
     },
