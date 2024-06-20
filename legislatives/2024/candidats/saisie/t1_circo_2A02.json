@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A02",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Paul-André",
+        "NomPsn":"COLOMBANI",
+        "LibNuaCand":"Régionalistes",
+        "Couleur":null,
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A02",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
