@@ -85,10 +85,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Karen",
         "NomPsn":"ERODI",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":"sortante",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -124,7 +124,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Joël",
         "NomPsn":"ENCONTRE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":"Parti Occitan"
@@ -189,8 +189,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Alban",
         "NomPsn":"AZAIS",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -205,7 +205,7 @@
         "LibNuaCand":"Les Républicains",
         "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":"Les Républicains soutenu par RN"
+        "Details":"Accord LR-RN"
     },
     {
         "NumTour":"1",
@@ -215,7 +215,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Claire",
         "NomPsn":"DAUGE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":"Occitanie Pais Nostre"
@@ -228,10 +228,10 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Julien",
         "NomPsn":"LASSALLE",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
