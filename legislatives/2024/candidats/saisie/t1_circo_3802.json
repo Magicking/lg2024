@@ -7,8 +7,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Cyrielle",
         "NomPsn":"CHATELAIN",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":"sortante",
         "Details":null
     },
@@ -20,7 +20,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Louve",
         "NomPsn":"CARRIERE",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null

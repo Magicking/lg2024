@@ -124,7 +124,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Olivier",
         "NomPsn":"VERAN",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -176,7 +176,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Hugo",
         "NomPsn":"PREVOST",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -189,8 +189,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Cyrielle",
         "NomPsn":"CHATELAIN",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":"sortante",
         "Details":null
     },
@@ -202,7 +202,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Louve",
         "NomPsn":"CARRIERE",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
@@ -267,7 +267,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Elisa",
         "NomPsn":"MARTIN",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":"sortante",
         "Details":null
@@ -332,7 +332,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Emilie",
         "NomPsn":"CHALAS",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
