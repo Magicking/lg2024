@@ -23,7 +23,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -46,10 +46,10 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Pierre-Antoine ",
         "NomPsn":"FEVRE",
-        "LibNuaCand":"Divers extrême droite",
-        "Couleur":"#002E61",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Accord LR-RN"
     },
     {
         "NumTour":"1",

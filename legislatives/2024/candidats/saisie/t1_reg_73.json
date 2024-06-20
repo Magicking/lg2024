@@ -176,10 +176,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Léon ",
         "NomPsn":"THEBAULT",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Europe écologie - Les verts",
+        "Couleur":"#2ECC2E",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -189,10 +189,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Laurent ",
         "NomPsn":"ALEXANDRE ",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":"sortant",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -215,8 +215,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Samuel",
         "NomPsn":"DEGUARA",
-        "LibNuaCand":"Ensemble pour la République",
-        "Couleur":"\t#45b3ab",
+        "LibNuaCand":"Renaissance",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -283,7 +283,7 @@
         "LibNuaCand":"Nouveau Front populaire",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -306,10 +306,10 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Pierre-Antoine ",
         "NomPsn":"FEVRE",
-        "LibNuaCand":"Divers extrême droite",
-        "Couleur":"#002E61",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Accord LR-RN"
     },
     {
         "NumTour":"1",
