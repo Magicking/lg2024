@@ -631,10 +631,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Hadrien ",
         "NomPsn":"CLOUET",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":"sortant",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -644,8 +644,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Evelyne ",
         "NomPsn":"BOUJAT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -670,8 +670,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Alexis",
         "NomPsn":"DE BERRANGER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -696,8 +696,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Olivier ",
         "NomPsn":"LE PENVEN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
