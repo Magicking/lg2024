@@ -10,7 +10,7 @@
         "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":"sortant",
-        "Details":null
+        "Details":"FEMU A CORSICA"
     },
     {
         "NumTour":"1",
@@ -20,10 +20,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Antoine",
         "NomPsn":"CARLI",
-        "LibNuaCand":"Régionalistes",
-        "Couleur":null,
+        "LibNuaCand":"Écologie au centre",
+        "Couleur":"#04B34D",
         "Sortant":null,
-        "Details":null
+        "Details":"CORE IN FRONTE"
     },
     {
         "NumTour":"1",
