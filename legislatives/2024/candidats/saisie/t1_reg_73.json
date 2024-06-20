@@ -1489,7 +1489,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Elsa",
         "NomPsn":"BOUGEARD",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":"Nouveau Front populaire "
@@ -1580,10 +1580,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Rabah",
         "NomPsn":"BOUGUERRA",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Divers gauche",
+        "Couleur":"#de3c80",
         "Sortant":null,
-        "Details":"Sans étiquette divers gauche"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -1606,10 +1606,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Christophe",
         "NomPsn":"PROENÇA",
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#fa6daa",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
