@@ -137,8 +137,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jean-François ",
         "NomPsn":"PAOLI",
-        "LibNuaCand":"Divers gauche",
-        "Couleur":"#de3c80",
+        "LibNuaCand":"Divers",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
