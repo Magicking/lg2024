@@ -7,7 +7,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Antoine",
         "NomPsn":"ARMAND",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -46,7 +46,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jérémy",
         "NomPsn":"LANGLADE-NOUCHY",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -72,8 +72,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Guillaume",
         "NomPsn":"TATU",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":null,
         "Details":null
     },

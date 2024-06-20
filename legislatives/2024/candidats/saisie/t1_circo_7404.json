@@ -33,8 +33,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Dominique",
         "NomPsn":"LACHENAL",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -46,7 +46,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Barbara",
         "NomPsn":"LEMMO GAUD",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null

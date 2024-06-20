@@ -98,7 +98,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Antoine",
         "NomPsn":"ARMAND",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
@@ -137,7 +137,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jérémy",
         "NomPsn":"LANGLADE-NOUCHY",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -163,8 +163,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Guillaume",
         "NomPsn":"TATU",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":null,
         "Details":null
     },
@@ -215,7 +215,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Véronique ",
         "NomPsn":"BOUVIER",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -241,8 +241,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Antoine ",
         "NomPsn":"VALENTIN",
-        "LibNuaCand":"Divers droite",
-        "Couleur":"#0099FF",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -254,7 +254,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Gérard",
         "NomPsn":"VEZ",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -293,8 +293,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Dominique",
         "NomPsn":"LACHENAL",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -306,7 +306,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Barbara",
         "NomPsn":"LEMMO GAUD",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -358,7 +358,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Anne-Cécile",
         "NomPsn":"VIOLLAND",
-        "LibNuaCand":"Horizons",
+        "LibNuaCand":"Ensemble - Horizons",
         "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
@@ -371,8 +371,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Nicolas",
         "NomPsn":"BAL",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -397,8 +397,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Baptiste",
         "NomPsn":"BAUD",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -423,7 +423,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Daniel",
         "NomPsn":"MAGNIN",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null

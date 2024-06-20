@@ -7,7 +7,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Anne-Cécile",
         "NomPsn":"VIOLLAND",
-        "LibNuaCand":"Horizons",
+        "LibNuaCand":"Ensemble - Horizons",
         "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
@@ -20,8 +20,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Nicolas",
         "NomPsn":"BAL",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -46,8 +46,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Baptiste",
         "NomPsn":"BAUD",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },
@@ -72,7 +72,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Daniel",
         "NomPsn":"MAGNIN",
-        "LibNuaCand":"Régions et peuples solidaires",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
