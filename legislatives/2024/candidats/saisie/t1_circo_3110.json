@@ -6,37 +6,11 @@
         "CodCirElec":"3110",
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Dominique",
-        "NomPsn":" FAURE",
+        "NomPsn":"FAURE",
         "LibNuaCand":"Parti radical",
         "Couleur":null,
         "Sortant":"sortante",
-        "Details":"Parti Radical, ministre déléguée"
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"31",
-        "LibDpt":"Haute-Garonne",
-        "CodCirElec":"3110",
-        "LibCirElec":"10ème circonscription",
-        "PrenomPsn":"Lucile",
-        "NomPsn":" SOUCHE",
-        "LibNuaCand":"Lutte ouvrière",
-        "Couleur":"#AF0000",
-        "Sortant":null,
-        "Details":null
-    },
-    {
-        "NumTour":"1",
-        "CodDpt":"31",
-        "LibDpt":"Haute-Garonne",
-        "CodCirElec":"3110",
-        "LibCirElec":"10ème circonscription",
-        "PrenomPsn":"François",
-        "NomPsn":" UBEDA ",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
-        "Sortant":null,
-        "Details":null
+        "Details":"Soutenu par Renaissance. Ministre déléguée. "
     },
     {
         "NumTour":"1",
@@ -46,7 +20,7 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Adrien ",
         "NomPsn":"BOURGEADE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Equinoxe",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -59,8 +33,8 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Arlette ",
         "NomPsn":"BOUZON",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +46,8 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Gilles ",
         "NomPsn":"CORSO",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -111,8 +85,21 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Jacques ",
         "NomPsn":"OBERTI ",
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#fa6daa",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
+        "Sortant":null,
+        "Details":"Nouveau Front populaire"
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3110",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Lucile",
+        "NomPsn":"SOUCHE",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
         "Details":null
     },
@@ -126,6 +113,19 @@
         "NomPsn":"SOULIER",
         "LibNuaCand":"Divers centre",
         "Couleur":"#FF8400",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"31",
+        "LibDpt":"Haute-Garonne",
+        "CodCirElec":"3110",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"François",
+        "NomPsn":"UBEDA ",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     }
