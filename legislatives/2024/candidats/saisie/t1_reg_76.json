@@ -673,7 +673,7 @@
         "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":null,
-        "Details":"Nouveau Front populaire"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -733,7 +733,7 @@
         "LibDpt":"Gard",
         "CodCirElec":"3002",
         "LibCirElec":"2ème circonscription",
-        "PrenomPsn":"véronique",
+        "PrenomPsn":"Véronique",
         "NomPsn":"JULLIAN",
         "LibNuaCand":"Écologie au centre",
         "Couleur":"#04B34D",
@@ -894,7 +894,7 @@
         "LibNuaCand":"Extrême gauche",
         "Couleur":null,
         "Sortant":null,
-        "Details":null
+        "Details":"Divers extrême gauche"
     },
     {
         "NumTour":"1",
