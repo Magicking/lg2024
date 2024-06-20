@@ -59,7 +59,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Dominitille",
         "NomPsn":"ALLORANT",
-        "LibNuaCand":null,
+        "LibNuaCand":"Equinoxe",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -72,8 +72,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Marie-Pierre ",
         "NomPsn":"BOUCHET",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -98,7 +98,7 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Philippe ",
         "NomPsn":"MAURY",
-        "LibNuaCand":null,
+        "LibNuaCand":"Résistons !",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -111,8 +111,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Noël ",
         "NomPsn":"NEMOUTHE",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -124,8 +124,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Baptiste ",
         "NomPsn":"ROBERT",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
