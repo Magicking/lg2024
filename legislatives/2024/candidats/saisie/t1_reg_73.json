@@ -904,10 +904,10 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Christophe ",
         "NomPsn":"BEX",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":"sortant",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -956,10 +956,10 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Joël",
         "NomPsn":"AVIRAGNET",
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#fa6daa",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
         "Sortant":"sortant",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -969,7 +969,7 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Wilfried",
         "NomPsn":" SERRES",
-        "LibNuaCand":null,
+        "LibNuaCand":"Résistons !",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1033,9 +1033,9 @@
         "CodCirElec":"3108",
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Alain ",
-        "NomPsn":"PERREZ",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "NomPsn":"PERES",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
