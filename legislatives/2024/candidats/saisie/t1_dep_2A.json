@@ -60,7 +60,7 @@
         "PrenomPsn":"Jean-François",
         "NomPsn":"LUCIANI",
         "LibNuaCand":"Partitu di a Nazione Corsa",
-        "Couleur":"#bc3220",
+        "Couleur":"#df7769",
         "Sortant":null,
         "Details":null
     },
@@ -73,7 +73,7 @@
         "PrenomPsn":"Lisandru",
         "NomPsn":"LUCIANI",
         "LibNuaCand":"Mossa Palatina",
-        "Couleur":"#324b85",
+        "Couleur":"#bb03ff",
         "Sortant":null,
         "Details":null
     },
@@ -112,7 +112,7 @@
         "PrenomPsn":"Paul-André",
         "NomPsn":"COLOMBANI",
         "LibNuaCand":"Partitu di a Nazione Corsa",
-        "Couleur":"#bc3220",
+        "Couleur":"#df7769",
         "Sortant":"sortant",
         "Details":null
     },
@@ -138,7 +138,7 @@
         "PrenomPsn":"Michel ",
         "NomPsn":"CHIOCCA",
         "LibNuaCand":"Mossa Palatina",
-        "Couleur":"#324b85",
+        "Couleur":"#bb03ff",
         "Sortant":null,
         "Details":null
     },
