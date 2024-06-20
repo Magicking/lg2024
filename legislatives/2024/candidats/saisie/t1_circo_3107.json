@@ -33,10 +33,10 @@
         "LibCirElec":"7ème circonscription",
         "PrenomPsn":"Gaëtan ",
         "NomPsn":"INARD",
-        "LibNuaCand":"Rassemblement national",
-        "Couleur":"#002E61",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
-        "Details":null
+        "Details":"Accord LR-RN"
     },
     {
         "NumTour":"1",
