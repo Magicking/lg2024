@@ -7,10 +7,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Sylvie ",
         "NomPsn":"FERRER ",
-        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "LibNuaCand":"La France insoumise",
         "Couleur":"#db1616",
         "Sortant":"sortante",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -150,8 +150,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Ali ",
         "NomPsn":"EL MARSNI",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -163,10 +163,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Denis",
         "NomPsn":"FÉGNÉ",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
