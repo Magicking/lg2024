@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B01",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Michel ",
+        "NomPsn":"CASTELLANI",
+        "LibNuaCand":"Régionalistes",
+        "Couleur":null,
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B01",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":null,
+        "NomPsn":null,
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
