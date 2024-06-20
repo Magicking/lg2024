@@ -1866,10 +1866,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Margot",
         "NomPsn":"LAPEYRE",
-        "LibNuaCand":"Nouveau Front populaire (PS)",
-        "Couleur":"#fa6daa",
+        "LibNuaCand":"Parti socialiste",
+        "Couleur":"#FD6DAA",
         "Sortant":null,
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
