@@ -1,0 +1,28 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B02",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"Jean-Félix",
+        "NomPsn":"ACQUAVIVA",
+        "LibNuaCand":"Régionalistes",
+        "Couleur":null,
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2B",
+        "LibDpt":"Haute-Corse",
+        "CodCirElec":"2B02",
+        "LibCirElec":"2ème circonscription",
+        "PrenomPsn":"François-Xavier",
+        "NomPsn":"CECCOLI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    }
+]
