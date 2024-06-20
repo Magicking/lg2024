@@ -11,5 +11,31 @@
         "Couleur":"#9859fc",
         "Sortant":"sortant",
         "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A01",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Romain",
+        "NomPsn":"COLONNA",
+        "LibNuaCand":"Régionalistes",
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"2A",
+        "LibDpt":"Corse-du-Sud",
+        "CodCirElec":"2A01",
+        "LibCirElec":"1ère circonscription",
+        "PrenomPsn":"Jean-François",
+        "NomPsn":"LUCIANI",
+        "LibNuaCand":null,
+        "Couleur":null,
+        "Sortant":null,
+        "Details":null
     }
 ]
