@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Yannick",
+        "NomPsn":"NEUDER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Benoît",
+        "NomPsn":"AUGUSTE",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Helena",
+        "NomPsn":"CHESSER",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Dominique",
+        "NomPsn":"DICHARD",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3807",
+        "LibCirElec":"7ème circonscription",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"PERRODIN",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

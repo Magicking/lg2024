@@ -46,7 +46,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Delphine",
         "NomPsn":"JAFFRE",
-        "LibNuaCand":"Divers",
+        "LibNuaCand":"Régionalistes",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -59,8 +59,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Pascale",
         "NomPsn":"MARTINOT",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":null,
         "Details":null
     },

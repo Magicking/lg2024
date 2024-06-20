@@ -7,8 +7,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Marina",
         "NomPsn":"FERRARI",
-        "LibNuaCand":"Modem",
-        "Couleur":"#ff8400",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
     },
@@ -33,10 +33,10 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Jean-Pierre",
         "NomPsn":"CHAUVEAU",
-        "LibNuaCand":"Aliance des souverainistes et patriotes",
-        "Couleur":null,
+        "LibNuaCand":"Souverainistes",
+        "Couleur":"#002E61",
         "Sortant":null,
-        "Details":null
+        "Details":"\"Alliance des souverainistes et patriotes\""
     },
     {
         "NumTour":"1",
@@ -72,8 +72,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Christel",
         "NomPsn":"GRANATA",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PCF)",
+        "Couleur":"#C50F1E",
         "Sortant":null,
         "Details":null
     },
@@ -85,8 +85,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Guy-Alain",
         "NomPsn":"PEYRARD",
-        "LibNuaCand":"Divers",
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     }

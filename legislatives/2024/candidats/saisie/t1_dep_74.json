@@ -7,7 +7,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Véronique ",
         "NomPsn":"RIOTTON",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":"sortante",
         "Details":null
@@ -20,7 +20,7 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Anne-Valérie",
         "NomPsn":"DUVAL",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":null,
         "Details":null
@@ -59,8 +59,8 @@
         "LibCirElec":"1ère circonscription",
         "PrenomPsn":"Claudine",
         "NomPsn":"MOLIN",
-        "LibNuaCand":"Divers",
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -124,8 +124,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Geoffrey",
         "NomPsn":"CORNET",
-        "LibNuaCand":"Divers",
-        "Couleur":null,
+        "LibNuaCand":"Nouveau parti anticapitaliste (NPA)",
+        "Couleur":"#af0000",
         "Sortant":null,
         "Details":null
     },
@@ -150,8 +150,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Alexandre",
         "NomPsn":"RICHEFORT",
-        "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "LibNuaCand":"Divers droite",
+        "Couleur":"#0099FF",
         "Sortant":null,
         "Details":null
     },
@@ -176,8 +176,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Pascale",
         "NomPsn":"VINCENT",
-        "LibNuaCand":"Divers",
-        "Couleur":null,
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },

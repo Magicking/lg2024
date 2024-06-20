@@ -1,0 +1,67 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3810",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Marjolaine",
+        "NomPsn":"MEYNIER-MILLEFERT",
+        "LibNuaCand":"Ensemble - Renaissance",
+        "Couleur":"#9859fc",
+        "Sortant":"sortante",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3810",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Clément",
+        "NomPsn":"BORDES",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3810",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Aurélien",
+        "NomPsn":"LEPRETRE",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3810",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Thierry",
+        "NomPsn":"PEREZ",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3810",
+        "LibCirElec":"10ème circonscription",
+        "PrenomPsn":"Joëlle",
+        "NomPsn":"RICHOL",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    }
+]

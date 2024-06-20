@@ -1,0 +1,80 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3806",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Alexis",
+        "NomPsn":"JOLLY",
+        "LibNuaCand":"Rassemblement national",
+        "Couleur":"#002E61",
+        "Sortant":"sortant",
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3806",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Yaqine",
+        "NomPsn":"DI SPIGNO",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
+        "Couleur":"#db1616",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3806",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Pierre",
+        "NomPsn":"FABRE",
+        "LibNuaCand":"Nouveau parti anticapitaliste (NPA)",
+        "Couleur":"#af0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3806",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Denise",
+        "NomPsn":"GOMEZ",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3806",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Cendra",
+        "NomPsn":"MOTIN",
+        "LibNuaCand":"Ensemble - Horizons",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"38",
+        "LibDpt":"Isère",
+        "CodCirElec":"3806",
+        "LibCirElec":"6ème circonscription",
+        "PrenomPsn":"Anne",
+        "NomPsn":"POURTIER",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
+        "Sortant":null,
+        "Details":null
+    }
+]

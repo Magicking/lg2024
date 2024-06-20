@@ -7,7 +7,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Jean-François",
         "NomPsn":"COULOMME",
-        "LibNuaCand":"Nouveau Front populaire",
+        "LibNuaCand":"Nouveau Front populaire (LFI)",
         "Couleur":"#db1616",
         "Sortant":"sortant",
         "Details":null
@@ -33,8 +33,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Vincent",
         "NomPsn":"BERNOLLIN",
-        "LibNuaCand":"Divers",
-        "Couleur":null,
+        "LibNuaCand":"Union des démocrates et indépendants",
+        "Couleur":"#9AC4F9",
         "Sortant":null,
         "Details":null
     },
@@ -59,7 +59,7 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Anaïs",
         "NomPsn":"GOMERO",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
