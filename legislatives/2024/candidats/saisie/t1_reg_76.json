@@ -1281,8 +1281,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Dominique ",
         "NomPsn":"DARROZÈS",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -1323,7 +1323,7 @@
         "LibNuaCand":"Horizons",
         "Couleur":"#9859fc",
         "Sortant":null,
-        "Details":null
+        "Details":"Soutenu par Renaissance"
     },
     {
         "NumTour":"1",
@@ -1346,8 +1346,8 @@
         "LibCirElec":"8ème circonscription",
         "PrenomPsn":"Lucie ",
         "NomPsn":"VIOLA",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Sans étiquette",
+        "Couleur":"#8f8f8f",
         "Sortant":null,
         "Details":null
     },
@@ -1359,10 +1359,10 @@
         "LibCirElec":"9ème circonscription",
         "PrenomPsn":"Christine ",
         "NomPsn":"ARRIGHI",
-        "LibNuaCand":"Nouveau Front populaire (EELV)",
-        "Couleur":"#04B34D",
+        "LibNuaCand":"Europe écologie - Les verts",
+        "Couleur":"#2ECC2E",
         "Sortant":"sortante",
-        "Details":null
+        "Details":"Nouveau Front populaire"
     },
     {
         "NumTour":"1",
@@ -1372,8 +1372,8 @@
         "LibCirElec":"9ème circonscription",
         "PrenomPsn":"Camille",
         "NomPsn":" CLINET",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },
@@ -1385,7 +1385,7 @@
         "LibCirElec":"9ème circonscription",
         "PrenomPsn":"Nathanaëlle",
         "NomPsn":" LOUBET-SRUH",
-        "LibNuaCand":null,
+        "LibNuaCand":"Extrême gauche",
         "Couleur":null,
         "Sortant":null,
         "Details":null
@@ -1450,7 +1450,7 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Dominique",
         "NomPsn":" FAURE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti radical",
         "Couleur":null,
         "Sortant":"sortante",
         "Details":"Parti Radical, ministre déléguée"
@@ -1567,8 +1567,8 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Frédérique ",
         "NomPsn":"SOULIER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     },

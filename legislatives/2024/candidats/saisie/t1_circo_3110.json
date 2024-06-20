@@ -7,7 +7,7 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Dominique",
         "NomPsn":" FAURE",
-        "LibNuaCand":null,
+        "LibNuaCand":"Parti radical",
         "Couleur":null,
         "Sortant":"sortante",
         "Details":"Parti Radical, ministre déléguée"
@@ -124,8 +124,8 @@
         "LibCirElec":"10ème circonscription",
         "PrenomPsn":"Frédérique ",
         "NomPsn":"SOULIER",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Divers centre",
+        "Couleur":"#FF8400",
         "Sortant":null,
         "Details":null
     }
