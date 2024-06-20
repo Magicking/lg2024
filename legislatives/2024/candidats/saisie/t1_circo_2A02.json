@@ -7,10 +7,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Paul-André",
         "NomPsn":"COLOMBANI",
-        "LibNuaCand":"Régionalistes",
+        "LibNuaCand":"Partitu di a Nazione Corsa",
         "Couleur":null,
         "Sortant":"sortant",
-        "Details":"PARTITU DI A NAZIONE CORSA"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -33,10 +33,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Michel ",
         "NomPsn":"CHIOCCA",
-        "LibNuaCand":"Régionalistes",
+        "LibNuaCand":"Mossa Palatina",
         "Couleur":null,
         "Sortant":null,
-        "Details":"MOSSA PALATINA"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -46,10 +46,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jean-Baptiste",
         "NomPsn":"CUCCHI",
-        "LibNuaCand":"Régionalistes",
+        "LibNuaCand":"Core in Fronte",
         "Couleur":null,
         "Sortant":null,
-        "Details":"CORE IN FRONTE"
+        "Details":null
     },
     {
         "NumTour":"1",

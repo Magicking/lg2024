@@ -7,10 +7,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jean-Félix",
         "NomPsn":"ACQUAVIVA",
-        "LibNuaCand":"Régionalistes",
+        "LibNuaCand":"Femu a Corsica",
         "Couleur":null,
         "Sortant":"sortant",
-        "Details":"FEMU A CORSICA"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -20,10 +20,10 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Antoine",
         "NomPsn":"CARLI",
-        "LibNuaCand":"Écologie au centre",
-        "Couleur":"#04B34D",
+        "LibNuaCand":"Core in Fronte",
+        "Couleur":null,
         "Sortant":null,
-        "Details":"CORE IN FRONTE"
+        "Details":null
     },
     {
         "NumTour":"1",
