@@ -31,12 +31,12 @@
         "LibDpt":"Pas-de-Calais",
         "CodCirElec":"6212",
         "LibCirElec":"12ème circonscription",
-        "PrenomPsn":"Régis",
-        "NomPsn":"SCHEENAERTS",
-        "LibNuaCand":"Lutte ouvrière",
-        "Couleur":"#AF0000",
+        "PrenomPsn":"Steve",
+        "NomPsn":"BOSSART",
+        "LibNuaCand":null,
+        "Couleur":null,
         "Sortant":null,
-        "Details":"Ouvrier dans l'automobile"
+        "Details":null
     },
     {
         "NumTour":"1",
@@ -44,11 +44,11 @@
         "LibDpt":"Pas-de-Calais",
         "CodCirElec":"6212",
         "LibCirElec":"12ème circonscription",
-        "PrenomPsn":null,
-        "NomPsn":null,
-        "LibNuaCand":null,
-        "Couleur":null,
+        "PrenomPsn":"Régis",
+        "NomPsn":"SCHEENAERTS",
+        "LibNuaCand":"Lutte ouvrière",
+        "Couleur":"#AF0000",
         "Sortant":null,
-        "Details":null
+        "Details":"Ouvrier dans l'automobile"
     }
 ]
