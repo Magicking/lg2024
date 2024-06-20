@@ -398,7 +398,7 @@
         "PrenomPsn":"Nelly",
         "NomPsn":"COLLOT-TOUZÉ",
         "LibNuaCand":"Divers Ecologie",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":"Ecologie au centre, UDI, génération animal"
     },
@@ -593,7 +593,7 @@
         "PrenomPsn":"Ghislain",
         "NomPsn":"WYSOCINSKI",
         "LibNuaCand":"Divers Ecologie",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },

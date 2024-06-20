@@ -346,7 +346,7 @@
         "PrenomPsn":"Louiliam",
         "NomPsn":"CLOT",
         "LibNuaCand":"Divers Ecologie",
-        "Couleur":null,
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },

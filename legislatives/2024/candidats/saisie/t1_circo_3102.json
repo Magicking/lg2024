@@ -46,8 +46,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Jean-Luc",
         "NomPsn":" LAGLEIZE",
-        "LibNuaCand":"Modem",
-        "Couleur":"#ff8400",
+        "LibNuaCand":"Mouvement démocrate",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Maxime",
         "NomPsn":" MAYORAL",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Écologistes",
+        "Couleur":"#2ECC2E",
         "Sortant":null,
         "Details":null
     },
@@ -85,7 +85,7 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Arthur",
         "NomPsn":" NESTIER",
-        "LibNuaCand":null,
+        "LibNuaCand":"Equinoxe",
         "Couleur":null,
         "Sortant":null,
         "Details":null
