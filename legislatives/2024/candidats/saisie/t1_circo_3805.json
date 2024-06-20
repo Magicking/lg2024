@@ -7,8 +7,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jérémie",
         "NomPsn":"IORDANOFF",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":"sortant",
         "Details":null
     },
@@ -20,7 +20,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Charles",
         "NomPsn":"COLAS-ROY",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null

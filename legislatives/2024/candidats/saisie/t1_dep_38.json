@@ -231,7 +231,7 @@
         "LibNuaCand":"Divers Ecologie",
         "Couleur":"#2ECC2E",
         "Sortant":null,
-        "Details":null
+        "Details":"\"Equinoxe\""
     },
     {
         "NumTour":"1",
@@ -306,8 +306,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Marie-Noëlle",
         "NomPsn":"BATTISTEL",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (PS)",
+        "Couleur":"#fa6daa",
         "Sortant":"sortante",
         "Details":null
     },
@@ -332,8 +332,8 @@
         "LibCirElec":"4ème circonscription",
         "PrenomPsn":"Evelyne",
         "NomPsn":"DE CARO",
-        "LibNuaCand":"Modem",
-        "Couleur":"#ff8400",
+        "LibNuaCand":"Ensemble - MoDem",
+        "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
     },
@@ -384,8 +384,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jérémie",
         "NomPsn":"IORDANOFF",
-        "LibNuaCand":"Nouveau Front populaire",
-        "Couleur":"#db1616",
+        "LibNuaCand":"Nouveau Front populaire (EELV)",
+        "Couleur":"#04B34D",
         "Sortant":"sortant",
         "Details":null
     },
@@ -397,7 +397,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Jean-Charles",
         "NomPsn":"COLAS-ROY",
-        "LibNuaCand":"Renaissance",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
