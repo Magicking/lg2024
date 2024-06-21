@@ -73,7 +73,7 @@
         "PrenomPsn":"Ladislas",
         "NomPsn":"VERGNE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -86,7 +86,7 @@
         "PrenomPsn":"Olivier",
         "NomPsn":"MARLEIX",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -229,7 +229,7 @@
         "PrenomPsn":"Rémi",
         "NomPsn":"MARTIAL",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

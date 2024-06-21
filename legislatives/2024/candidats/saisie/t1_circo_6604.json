@@ -86,7 +86,7 @@
         "PrenomPsn":"Philippe",
         "NomPsn":"ROMAIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     }

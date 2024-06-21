@@ -47,7 +47,7 @@
         "PrenomPsn":"Johan",
         "NomPsn":"COURTOIS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -138,7 +138,7 @@
         "PrenomPsn":"Dominique",
         "NomPsn":"BROGI",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -255,7 +255,7 @@
         "PrenomPsn":"Christophe",
         "NomPsn":"TONNAIRE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -359,7 +359,7 @@
         "PrenomPsn":"David",
         "NomPsn":"MARSEILLE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -411,7 +411,7 @@
         "PrenomPsn":"Martin",
         "NomPsn":"LEFÈVRE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

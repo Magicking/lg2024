@@ -203,7 +203,7 @@
         "PrenomPsn":"Irène",
         "NomPsn":"WEISS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -333,7 +333,7 @@
         "PrenomPsn":"Alexandre",
         "NomPsn":"WOLF SAMALOUSSI",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -437,7 +437,7 @@
         "PrenomPsn":"Dera",
         "NomPsn":"RATSIAJETSINIMARO",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -515,7 +515,7 @@
         "PrenomPsn":"Nelly",
         "NomPsn":"AESCHELMANN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -619,7 +619,7 @@
         "PrenomPsn":"Léo",
         "NomPsn":"COUTAUD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -736,7 +736,7 @@
         "PrenomPsn":"Jean",
         "NomPsn":"BIEHLER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -827,7 +827,7 @@
         "PrenomPsn":"Patrick",
         "NomPsn":"HETZEL",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -1009,7 +1009,7 @@
         "PrenomPsn":"Victor",
         "NomPsn":"VOGT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

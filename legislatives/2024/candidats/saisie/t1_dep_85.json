@@ -34,7 +34,7 @@
         "PrenomPsn":"Laurent",
         "NomPsn":"CAILLAUD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -164,7 +164,7 @@
         "PrenomPsn":"Noël",
         "NomPsn":"FAUCHER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -333,7 +333,7 @@
         "PrenomPsn":"Marius",
         "NomPsn":"GALAND",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

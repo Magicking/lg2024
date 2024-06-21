@@ -60,7 +60,7 @@
         "PrenomPsn":"Sabine",
         "NomPsn":"MISSET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":"Guillaume Maréchal, vice-président du conseil régional du Grand Est et candidat pour Les Républicains en 2022 dans cette circonscription, nous a indiqué qu'il ne se présentait pas aux législatives 2024."
     },
@@ -281,7 +281,7 @@
         "PrenomPsn":"Chris",
         "NomPsn":"MANIERI-BIGORGNE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -307,7 +307,7 @@
         "PrenomPsn":"Valérie",
         "NomPsn":"BAZIN-MALGRAS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortante",
         "Details":null
     },
@@ -424,7 +424,7 @@
         "PrenomPsn":"Didier",
         "NomPsn":"LEPRINCE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -541,7 +541,7 @@
         "PrenomPsn":"Stéphane",
         "NomPsn":"LANG",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -749,7 +749,7 @@
         "PrenomPsn":"Gabriel",
         "NomPsn":"MICHEL",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -892,7 +892,7 @@
         "PrenomPsn":"Nicolas",
         "NomPsn":"LACROIX",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":"Nicolas Lacroix est président LR du conseil départemental de la Haute-Marne"
     },

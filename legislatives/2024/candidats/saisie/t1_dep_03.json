@@ -34,7 +34,7 @@
         "PrenomPsn":"Alexandra",
         "NomPsn":"BARDET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -151,7 +151,7 @@
         "PrenomPsn":"Romain",
         "NomPsn":"LEFEBVRE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -190,7 +190,7 @@
         "PrenomPsn":"Nicolas",
         "NomPsn":"RAY",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },

@@ -34,7 +34,7 @@
         "PrenomPsn":"Bernard",
         "NomPsn":"CROGUENNEC",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -242,7 +242,7 @@
         "PrenomPsn":"Corentin",
         "NomPsn":"LE FUR",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

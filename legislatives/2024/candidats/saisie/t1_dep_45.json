@@ -151,7 +151,7 @@
         "PrenomPsn":"Cyril",
         "NomPsn":"COLAS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -307,7 +307,7 @@
         "PrenomPsn":"Ariel",
         "NomPsn":"LEVY",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -411,7 +411,7 @@
         "PrenomPsn":"Benjamin",
         "NomPsn":"QUELIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -515,7 +515,7 @@
         "PrenomPsn":"Jean-Luc",
         "NomPsn":"POISSON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

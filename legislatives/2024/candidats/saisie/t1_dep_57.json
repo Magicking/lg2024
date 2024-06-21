@@ -268,7 +268,7 @@
         "PrenomPsn":"Fabien ",
         "NomPsn":"DI FILIPPO",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -359,7 +359,7 @@
         "PrenomPsn":"Vincent ",
         "NomPsn":"SEITLINGER ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -476,7 +476,7 @@
         "PrenomPsn":"Alexandre ",
         "NomPsn":"CASSARO ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -645,7 +645,7 @@
         "PrenomPsn":"Raphaëlle",
         "NomPsn":"ROSA ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

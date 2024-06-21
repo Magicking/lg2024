@@ -21,7 +21,7 @@
         "PrenomPsn":"Stéphanie",
         "NomPsn":"HIBON ARTHUIS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -125,7 +125,7 @@
         "PrenomPsn":"Pierre-Elie",
         "NomPsn":"GUYON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

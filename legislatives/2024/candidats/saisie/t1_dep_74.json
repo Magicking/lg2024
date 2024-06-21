@@ -86,7 +86,7 @@
         "PrenomPsn":"Florian",
         "NomPsn":"THABUIS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -203,7 +203,7 @@
         "PrenomPsn":"Christelle",
         "NomPsn":"PETEX",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortante",
         "Details":null
     },
@@ -268,7 +268,7 @@
         "PrenomPsn":"Virginie",
         "NomPsn":"DUBY-MULLER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortante",
         "Details":null
     },
@@ -489,7 +489,7 @@
         "PrenomPsn":"Cyrille",
         "NomPsn":"DU PELOUX",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

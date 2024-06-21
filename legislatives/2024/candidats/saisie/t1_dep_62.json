@@ -21,7 +21,7 @@
         "PrenomPsn":"Marie",
         "NomPsn":"BERNARD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":"Maire de La Cauchie"
     },
@@ -125,7 +125,7 @@
         "PrenomPsn":"Mabrouka",
         "NomPsn":"DHIFALLAH",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":"Conseillère régionale"
     },
@@ -346,7 +346,7 @@
         "PrenomPsn":"Clémence",
         "NomPsn":"LAMBERT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":"Juriste"
     },
@@ -424,7 +424,7 @@
         "PrenomPsn":"Jean-Luc",
         "NomPsn":"VIUDES",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -515,7 +515,7 @@
         "PrenomPsn":"Pierre-Henri",
         "NomPsn":"DUMONT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },

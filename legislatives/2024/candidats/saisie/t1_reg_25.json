@@ -385,7 +385,7 @@
         "PrenomPsn":"Cédric",
         "NomPsn":"NOUVELOT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -515,7 +515,7 @@
         "PrenomPsn":"Philippe",
         "NomPsn":"GOSSELIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -983,7 +983,7 @@
         "PrenomPsn":"Véronique",
         "NomPsn":"LOUWAGIE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortante",
         "Details":null
     },
@@ -1087,7 +1087,7 @@
         "PrenomPsn":"Jérôme",
         "NomPsn":"NURY",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },

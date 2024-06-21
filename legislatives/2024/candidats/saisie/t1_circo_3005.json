@@ -21,7 +21,7 @@
         "PrenomPsn":"Alexandre",
         "NomPsn":"ALLEGRET-PILOT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -34,7 +34,7 @@
         "PrenomPsn":"Léa",
         "NomPsn":"BOYER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

@@ -60,7 +60,7 @@
         "PrenomPsn":"Laurent",
         "NomPsn":"WAUQUIEZ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -73,7 +73,7 @@
         "PrenomPsn":"Jean-Pierre",
         "NomPsn":"VIGIER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },

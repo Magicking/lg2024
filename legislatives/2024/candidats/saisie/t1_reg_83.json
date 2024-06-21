@@ -34,7 +34,7 @@
         "PrenomPsn":"Alexandra",
         "NomPsn":"BARDET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -151,7 +151,7 @@
         "PrenomPsn":"Romain",
         "NomPsn":"LEFEBVRE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -190,7 +190,7 @@
         "PrenomPsn":"Nicolas",
         "NomPsn":"RAY",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -463,7 +463,7 @@
         "PrenomPsn":"Laurent",
         "NomPsn":"WAUQUIEZ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -476,7 +476,7 @@
         "PrenomPsn":"Jean-Pierre",
         "NomPsn":"VIGIER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -567,7 +567,7 @@
         "PrenomPsn":"Sébastien",
         "NomPsn":"GALPIER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -619,7 +619,7 @@
         "PrenomPsn":"Sarah",
         "NomPsn":"CHAUVIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -736,7 +736,7 @@
         "PrenomPsn":"Marie-Anne",
         "NomPsn":"MARCHIS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -814,7 +814,7 @@
         "PrenomPsn":"Florence",
         "NomPsn":"DUBESSY",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -918,7 +918,7 @@
         "PrenomPsn":"Yves",
         "NomPsn":"COURTALHIAC",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     }

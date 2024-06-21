@@ -99,7 +99,7 @@
         "PrenomPsn":"Anne",
         "NomPsn":"PINON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },

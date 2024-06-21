@@ -8,7 +8,7 @@
         "PrenomPsn":"Victor",
         "NomPsn":"HABERT DASSAULT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -125,7 +125,7 @@
         "PrenomPsn":"Ludovic",
         "NomPsn":"CASTANIE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -346,7 +346,7 @@
         "PrenomPsn":"Jean",
         "NomPsn":"LEFEVRE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":null
     },
@@ -385,7 +385,7 @@
         "PrenomPsn":"Pierre",
         "NomPsn":"VATIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -541,7 +541,7 @@
         "PrenomPsn":"Maxime",
         "NomPsn":"MINOT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },

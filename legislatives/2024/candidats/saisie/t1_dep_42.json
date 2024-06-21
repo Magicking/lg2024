@@ -242,7 +242,7 @@
         "PrenomPsn":"Sylvie",
         "NomPsn":"BONNET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortante",
         "Details":null
     },
@@ -294,7 +294,7 @@
         "PrenomPsn":"Antoine",
         "NomPsn":"VERMOREL-MARQUES",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },
@@ -385,7 +385,7 @@
         "PrenomPsn":"Jean-Pierre",
         "NomPsn":"TAITE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":"Ancien vice-président du Conseil régional d'Auvergne Rhône-Alpes"
     },

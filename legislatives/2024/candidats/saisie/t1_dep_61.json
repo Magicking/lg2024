@@ -112,7 +112,7 @@
         "PrenomPsn":"Véronique",
         "NomPsn":"LOUWAGIE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortante",
         "Details":null
     },
@@ -216,7 +216,7 @@
         "PrenomPsn":"Jérôme",
         "NomPsn":"NURY",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":"sortant",
         "Details":null
     },

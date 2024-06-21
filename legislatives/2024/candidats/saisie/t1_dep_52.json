@@ -86,7 +86,7 @@
         "PrenomPsn":"Nicolas",
         "NomPsn":"LACROIX",
         "LibNuaCand":"Les Républicains",
-        "Couleur":"#005ce6",
+        "Couleur":null,
         "Sortant":null,
         "Details":"Nicolas Lacroix est président LR du conseil départemental de la Haute-Marne"
     },
