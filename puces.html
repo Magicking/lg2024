@@ -1,34 +1,36 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Élections</title>
 </head>
+
 <body>
     <div id="content"></div>
 
     <script>
-// Obtenir l'URL de la page courante
-const currentUrl = window.location.href;
+        // Obtenir l'URL de la page courante
+        const currentUrl = window.location.href;
 
-// Créer un nouvel objet URL à partir de l'URL courante
-const url = new URL(currentUrl);
+        // Créer un nouvel objet URL à partir de l'URL courante
+        const url = new URL(currentUrl);
 
-// Utiliser l'objet URLSearchParams pour extraire les paramètres
-const params = new URLSearchParams(url.search);
+        // Utiliser l'objet URLSearchParams pour extraire les paramètres
+        const params = new URLSearchParams(url.search);
 
-// Récupérer les valeurs des paramètres
+        // Récupérer les valeurs des paramètres
 
-const scrutin = params.get('scrutin');
-const type = params.get('type');
-const annee = params.get('annee');
-const source = params.get('source');
-const zone = params.get('zone');
-const tour = params.get('tour');
+        const scrutin = params.get('scrutin');
+        const type = params.get('type');
+        const annee = params.get('annee');
+        const source = params.get('source');
+        const zone = params.get('zone');
+        const tour = params.get('tour');
 
 
-        document.addEventListener("DOMContentLoaded", function() {
+        document.addEventListener("DOMContentLoaded", function () {
             fetch(`https://raw.githubusercontent.com/f3reg/lg2024/main/${scrutin}/${annee}/${type}/${source}/t${tour}_${zone}.json`)
                 .then(response => response.json())
                 .then(data => {
@@ -41,17 +43,17 @@ const tour = params.get('tour');
             const contentDiv = document.getElementById('content');
             let html = ''
             if (source === 'interieur') {
-            html += '<p>Note : les candidats sont affichés dans l\'ordre du tirage au sort des panneaux électoraux. Les étiquettes politiques sont celles attribuées par le ministère de l\'Intérieur.</p>';
-        }
+                html += '<p>Note : les candidats sont affichés dans l\'ordre du tirage au sort des panneaux électoraux. Les étiquettes politiques sont celles attribuées par le ministère de l\'Intérieur.</p>';
+            }
             if (source === 'saisie') {
-            html += '<p>Note : les candidats sont listés par ordre alphabétique, le sortant est en première position.</p>';
-        }
+                html += '<p>Note : les candidats sont listés par ordre alphabétique, le sortant est en première position.</p>';
+            }
             const departements = [];
-            
+
             data.forEach(candidature => {
                 const { CodDpt, LibDpt, CodCirElec, LibCirElec, PrenomPsn, NomPsn, LibNuaCand, Sortant, Details } = candidature;
                 const circonscriptionKey = `${CodDpt}-${CodCirElec}`;
-                
+
                 let departement = departements.find(dep => dep.code === CodDpt);
                 if (!departement) {
                     departement = {
@@ -82,22 +84,36 @@ const tour = params.get('tour');
                 html += `<h2 class="subheader">${departement.name} (${departement.code})</h2>`;
                 for (const [circonscriptionKey, circonscription] of Object.entries(departement.circonscriptions)) {
                     html += `<h2 class="bullet">${departement.name} - ${circonscription.name}</h2>`;
-                    if (circonscription.candidats.length > 1) {
-                        html += `<p>${circonscription.candidats.length} candidats se présentent dans cette circonscription&nbsp;:</p>`;
+                    if (tour == 2 ){
+                        if (circonscription.candidats.length == 3) {
+                            html += `<p>Une triangulaire a lieu dans cette circonscription. Les candidats au second tour sont&nbsp;:</p>`;
+                        }
+                        if (circonscription.candidats.length == 4) {
+                            html += `<p>Une quadrangulaire a lieu dans cette circonscription. Les candidats au second tour sont&nbsp;:</p>`;
+                        }
+                        else {
+                            html += `<p>Les candidats au second tour sont&nbsp;:</p>`;
+                        }
                     }
-                    if (circonscription.candidats.length == 1) {
-                        html += `<p>Un seul candidat se présente dans cette circonscription&nbsp;:</p>`;
+
+                    if (tour == 1) {
+                        if (circonscription.candidats.length > 1) {
+                            html += `<p>${circonscription.candidats.length} candidats se présentent dans cette circonscription&nbsp;:</p>`;
+                        }
+                        if (circonscription.candidats.length == 1) {
+                            html += `<p>Un seul candidat se présente dans cette circonscription&nbsp;:</p>`;
+                        }
                     }
                     html += '<ul>';
                     circonscription.candidats.forEach(candidat => {
                         html += `<li>${candidat.prenom ? candidat.prenom : ''} ${candidat.nom ? candidat.nom : ''} ${candidat.libNuaCand ? ` - ${candidat.libNuaCand}` : ''}`;
-                            if (candidat.sortant) {
-                                html += ` - ${candidat.sortant}`;
-                            }
-                            if (candidat.details) {
-                                html += `<br><i>${candidat.details}</i>`;
-                            }
-                            
+                        if (candidat.sortant) {
+                            html += ` - ${candidat.sortant}`;
+                        }
+                        if (candidat.details) {
+                            html += `<br><i>${candidat.details}</i>`;
+                        }
+
                         html += `</li>`;
                     });
                     html += '</ul>';
@@ -108,4 +124,5 @@ const tour = params.get('tour');
         }
     </script>
 </body>
+
 </html>
