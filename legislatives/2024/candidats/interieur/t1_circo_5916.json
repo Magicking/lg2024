@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5916",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Matthieu",
+        "NomPsn":"MARCHIO",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5916",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"François",
+        "NomPsn":"CRESTA",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5916",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BRUNEEL",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"59",
+        "LibDpt":"Nord",
+        "CodCirElec":"5916",
+        "LibCirElec":"16ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Éric",
+        "NomPsn":"PECQUEUR",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"1",
+        "PrenomPsn":"Régis",
+        "NomPsn":"SCHEENAERTS",
+        "CodNuaCand":"EXG",
+        "LibNuaCand":"Extrême gauche",
+        "Couleur":"#AF0000",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"2",
+        "PrenomPsn":"Bruno",
+        "NomPsn":"BILDE",
+        "CodNuaCand":"RN",
+        "LibNuaCand":"Rassemblement National",
+        "Couleur":"#002E61",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"3",
+        "PrenomPsn":"Steve",
+        "NomPsn":"BOSSART",
+        "CodNuaCand":"ENS",
+        "LibNuaCand":"Ensemble ! (Majorité présidentielle)",
+        "Couleur":"#9859fc",
+        "Sortant":null,
+        "Details":null
+    },
+    {
+        "NumTour":"1",
+        "CodDpt":"62",
+        "LibDpt":"Pas-de-Calais",
+        "CodCirElec":"6212",
+        "LibCirElec":"12ème circonscription",
+        "NumPanneauCand":"4",
+        "PrenomPsn":"Alain",
+        "NomPsn":"BAVAY",
+        "CodNuaCand":"UG",
+        "LibNuaCand":"Union de la gauche",
+        "Couleur":"#de3c80",
+        "Sortant":null,
+        "Details":null
+    }
+]
