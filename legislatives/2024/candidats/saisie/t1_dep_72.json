@@ -34,7 +34,7 @@
         "PrenomPsn":"Clément",
         "NomPsn":"COULON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -177,7 +177,7 @@
         "PrenomPsn":"Vincent",
         "NomPsn":"GRUAU",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -255,7 +255,7 @@
         "PrenomPsn":"Léo",
         "NomPsn":"BRISARD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

@@ -372,7 +372,7 @@
         "PrenomPsn":"David",
         "NomPsn":"DAVERTON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -684,7 +684,7 @@
         "PrenomPsn":"Alexis",
         "NomPsn":"COPPEIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -892,7 +892,7 @@
         "PrenomPsn":"Stéphane",
         "NomPsn":"ACCARD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -983,7 +983,7 @@
         "PrenomPsn":"Jacques",
         "NomPsn":"FORESTIER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -1100,7 +1100,7 @@
         "PrenomPsn":"Benoît",
         "NomPsn":"NAOUS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

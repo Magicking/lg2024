@@ -164,7 +164,7 @@
         "PrenomPsn":"Anne",
         "NomPsn":"PINON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -203,7 +203,7 @@
         "PrenomPsn":"Emmanuel",
         "NomPsn":"MAQUET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":"sortant",
         "Details":null
     },
@@ -333,7 +333,7 @@
         "PrenomPsn":"Vincent",
         "NomPsn":"JACQUES",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

@@ -60,7 +60,7 @@
         "PrenomPsn":"Alain",
         "NomPsn":"LE GRAND",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -164,7 +164,7 @@
         "PrenomPsn":"Françoise",
         "NomPsn":"HOUARD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -411,7 +411,7 @@
         "PrenomPsn":"Félix",
         "NomPsn":"BRIANT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -645,7 +645,7 @@
         "PrenomPsn":"Marc",
         "NomPsn":"RAHER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

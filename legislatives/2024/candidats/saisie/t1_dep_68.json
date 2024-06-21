@@ -73,7 +73,7 @@
         "PrenomPsn":"Yves",
         "NomPsn":"HEMEDINGER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -177,7 +177,7 @@
         "PrenomPsn":"Daniel ",
         "NomPsn":"KLACK",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -333,7 +333,7 @@
         "PrenomPsn":"Thomas",
         "NomPsn":"ZELLER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -372,7 +372,7 @@
         "PrenomPsn":"Raphaël",
         "NomPsn":"SCHELLENBERGER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":"sortant",
         "Details":null
     },

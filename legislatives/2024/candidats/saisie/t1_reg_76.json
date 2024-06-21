@@ -385,7 +385,7 @@
         "PrenomPsn":"Jean-François",
         "NomPsn":"LECLERC ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -606,7 +606,7 @@
         "PrenomPsn":"Pierre-Antoine ",
         "NomPsn":"FEVRE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":"Accord LR-RN"
     },
@@ -645,7 +645,7 @@
         "PrenomPsn":"Loumy",
         "NomPsn":"BOURGHOL",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -710,7 +710,7 @@
         "PrenomPsn":"Catherine",
         "NomPsn":"BOLLE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -814,7 +814,7 @@
         "PrenomPsn":"Florent",
         "NomPsn":"GRAU",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -918,7 +918,7 @@
         "PrenomPsn":"Pierre",
         "NomPsn":"MARTIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -944,7 +944,7 @@
         "PrenomPsn":"Alexandre",
         "NomPsn":"ALLEGRET-PILOT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -957,7 +957,7 @@
         "PrenomPsn":"Léa",
         "NomPsn":"BOYER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -1074,7 +1074,7 @@
         "PrenomPsn":"Clément",
         "NomPsn":"STEVANT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -1360,7 +1360,7 @@
         "PrenomPsn":"Clément ",
         "NomPsn":"DELMAS ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -1698,7 +1698,7 @@
         "PrenomPsn":"Gaëtan ",
         "NomPsn":"INARD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":"Accord LR-RN"
     },
@@ -2036,7 +2036,7 @@
         "PrenomPsn":"François",
         "NomPsn":"UBEDA ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -2231,7 +2231,7 @@
         "PrenomPsn":"Barbara",
         "NomPsn":"NETO",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -2257,7 +2257,7 @@
         "PrenomPsn":"Eric ",
         "NomPsn":"CHAVEROCHE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -2361,7 +2361,7 @@
         "PrenomPsn":"Sandra ",
         "NomPsn":"HOUÉE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -2855,7 +2855,7 @@
         "PrenomPsn":"Charles ",
         "NomPsn":"ALLONCLE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -2959,7 +2959,7 @@
         "PrenomPsn":"Aurélien",
         "NomPsn":"PRADIÉ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":"sortant",
         "Details":null
     },
@@ -3232,7 +3232,7 @@
         "PrenomPsn":"Philippe ",
         "NomPsn":"EVON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -3310,7 +3310,7 @@
         "PrenomPsn":"Jacques ",
         "NomPsn":"BÉHAGUE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -3479,7 +3479,7 @@
         "PrenomPsn":"Loïc",
         "NomPsn":"MOSZKOWIEZ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -3726,7 +3726,7 @@
         "PrenomPsn":"Philippe",
         "NomPsn":"ROMAIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -3843,7 +3843,7 @@
         "PrenomPsn":"Thierno ",
         "NomPsn":"BAH",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -3934,7 +3934,7 @@
         "PrenomPsn":"Guilhem",
         "NomPsn":"CARAYON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":"Accord LR-RN"
     },
@@ -3999,7 +3999,7 @@
         "PrenomPsn":"Brigitte ",
         "NomPsn":"BARÈGES",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":"Maire de Montauban. Accord RN-LR"
     },

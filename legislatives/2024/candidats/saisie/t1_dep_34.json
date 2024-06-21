@@ -21,7 +21,7 @@
         "PrenomPsn":"Eric ",
         "NomPsn":"CHAVEROCHE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -125,7 +125,7 @@
         "PrenomPsn":"Sandra ",
         "NomPsn":"HOUÉE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -619,7 +619,7 @@
         "PrenomPsn":"Charles ",
         "NomPsn":"ALLONCLE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

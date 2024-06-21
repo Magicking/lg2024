@@ -47,7 +47,7 @@
         "PrenomPsn":"Joëlle",
         "NomPsn":"LE GALL",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -112,7 +112,7 @@
         "PrenomPsn":"Christophe",
         "NomPsn":"DECOURCELLE ",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -294,7 +294,7 @@
         "PrenomPsn":"Jeremy",
         "NomPsn":"GILBERT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -567,7 +567,7 @@
         "PrenomPsn":"Mahé",
         "NomPsn":"GARGAM",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

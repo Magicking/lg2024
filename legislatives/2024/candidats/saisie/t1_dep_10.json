@@ -47,7 +47,7 @@
         "PrenomPsn":"Chris",
         "NomPsn":"MANIERI-BIGORGNE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -73,7 +73,7 @@
         "PrenomPsn":"Valérie",
         "NomPsn":"BAZIN-MALGRAS",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":"sortante",
         "Details":null
     },
@@ -190,7 +190,7 @@
         "PrenomPsn":"Didier",
         "NomPsn":"LEPRINCE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

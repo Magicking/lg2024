@@ -86,7 +86,7 @@
         "PrenomPsn":"Stéphane",
         "NomPsn":"LANG",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -294,7 +294,7 @@
         "PrenomPsn":"Gabriel",
         "NomPsn":"MICHEL",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

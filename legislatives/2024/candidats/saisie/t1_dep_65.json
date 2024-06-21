@@ -47,7 +47,7 @@
         "PrenomPsn":"Philippe ",
         "NomPsn":"EVON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -125,7 +125,7 @@
         "PrenomPsn":"Jacques ",
         "NomPsn":"BÉHAGUE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

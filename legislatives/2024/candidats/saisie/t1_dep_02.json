@@ -86,7 +86,7 @@
         "PrenomPsn":"Julien",
         "NomPsn":"DIVE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":"sortant",
         "Details":null
     },
@@ -320,7 +320,7 @@
         "PrenomPsn":"Jade",
         "NomPsn":"GILQUIN",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

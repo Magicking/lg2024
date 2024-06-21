@@ -21,7 +21,7 @@
         "PrenomPsn":"Jean-Philippe",
         "NomPsn":"BELVILLE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -86,7 +86,7 @@
         "PrenomPsn":"Josiane",
         "NomPsn":"CORNELOUP",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":"sortante",
         "Details":null
     },
@@ -294,7 +294,7 @@
         "PrenomPsn":"Anthony",
         "NomPsn":"VADOT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -359,7 +359,7 @@
         "PrenomPsn":"Gilles",
         "NomPsn":"PLATRET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

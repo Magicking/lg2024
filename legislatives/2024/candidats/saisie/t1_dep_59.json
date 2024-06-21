@@ -86,7 +86,7 @@
         "PrenomPsn":"Brice",
         "NomPsn":"LAURET",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -203,7 +203,7 @@
         "PrenomPsn":"Caroline",
         "NomPsn":"BOISARD-VANNIER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -411,7 +411,7 @@
         "PrenomPsn":"Sébastien",
         "NomPsn":"LEBLANC",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -541,7 +541,7 @@
         "PrenomPsn":"Jimi",
         "NomPsn":"EROTICO",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -775,7 +775,7 @@
         "PrenomPsn":"Alice",
         "NomPsn":"POGAM",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

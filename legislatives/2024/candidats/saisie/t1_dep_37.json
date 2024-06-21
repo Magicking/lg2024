@@ -47,7 +47,7 @@
         "PrenomPsn":"Lucas",
         "NomPsn":"JANER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -151,7 +151,7 @@
         "PrenomPsn":"Maxime",
         "NomPsn":"MAINTIER",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -320,7 +320,7 @@
         "PrenomPsn":"Sophie",
         "NomPsn":"LAGRÉE",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -346,7 +346,7 @@
         "PrenomPsn":"Constance",
         "NomPsn":"BALES",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },

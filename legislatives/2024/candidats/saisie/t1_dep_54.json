@@ -21,7 +21,7 @@
         "PrenomPsn":"Aurélien",
         "NomPsn":"ARNOULD",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -112,7 +112,7 @@
         "PrenomPsn":"Sloane",
         "NomPsn":"FROMONT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -203,7 +203,7 @@
         "PrenomPsn":"Mathieu",
         "NomPsn":"SERVAGI",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -359,7 +359,7 @@
         "PrenomPsn":"Quentin",
         "NomPsn":"VINOT",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
@@ -424,7 +424,7 @@
         "PrenomPsn":"Jordan",
         "NomPsn":"SIMON",
         "LibNuaCand":"Les Républicains",
-        "Couleur":null,
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     },
