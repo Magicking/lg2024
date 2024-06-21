@@ -33,7 +33,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Loïc",
         "NomPsn":"FOLLEAT",
-        "LibNuaCand":"Ensemble",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
@@ -46,8 +46,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Béatrice",
         "NomPsn":"GUILBERT",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -72,8 +72,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Séverine",
         "NomPsn":"MORDACQ",
-        "LibNuaCand":"Union républicaine du centre et de la droite",
-        "Couleur":"#00ffff",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     }

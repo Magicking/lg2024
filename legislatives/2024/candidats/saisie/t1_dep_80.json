@@ -150,8 +150,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Grégoire",
         "NomPsn":"LECOCQ",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Souverainistes",
+        "Couleur":"#002E61",
         "Sortant":null,
         "Details":null
     },
@@ -176,8 +176,8 @@
         "LibCirElec":"2ème circonscription",
         "PrenomPsn":"Suzanne",
         "NomPsn":"PLAQUET",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -215,8 +215,8 @@
         "LibCirElec":"3ème circonscription",
         "PrenomPsn":"Noë",
         "NomPsn":"BOXOËN",
-        "LibNuaCand":null,
-        "Couleur":null,
+        "LibNuaCand":"Debout la France",
+        "Couleur":"#1E32F0",
         "Sortant":null,
         "Details":null
     },
@@ -384,7 +384,7 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Loïc",
         "NomPsn":"FOLLEAT",
-        "LibNuaCand":"Ensemble",
+        "LibNuaCand":"Ensemble - Renaissance",
         "Couleur":"#9859fc",
         "Sortant":null,
         "Details":null
@@ -397,8 +397,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Béatrice",
         "NomPsn":"GUILBERT",
-        "LibNuaCand":"Sans étiquette",
-        "Couleur":"#8f8f8f",
+        "LibNuaCand":"Reconquête !",
+        "Couleur":"#1019c1",
         "Sortant":null,
         "Details":null
     },
@@ -423,8 +423,8 @@
         "LibCirElec":"5ème circonscription",
         "PrenomPsn":"Séverine",
         "NomPsn":"MORDACQ",
-        "LibNuaCand":"Union républicaine du centre et de la droite",
-        "Couleur":"#00ffff",
+        "LibNuaCand":"Les Républicains",
+        "Couleur":"#005ce6",
         "Sortant":null,
         "Details":null
     }
